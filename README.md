@@ -11,7 +11,7 @@ If you think a given process can be improved, suggest a change in this handbook 
 
 # Table of contents
 
-[Development](/development/README.md)
-[Expenses](/expenses/README.md)
-[Support](/support/README.md)
-[Vacation](/vacation/README.md)
+- [Development](/development/README.md)
+- [Expenses](/expenses/README.md)
+- [Support](/support/README.md)
+- [Vacation](/vacation/README.md)
