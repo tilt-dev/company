@@ -7,7 +7,11 @@ Tilters should know and follow the processes outlined here as much as possible. 
 
 # How do I change it?
 
-If you think a given process can be improved, suggest a change in this handbook by creating a PR. Invite other Tilters to discuss the change to get buy-in. We currently don't have a strict approval process, so use your personal judgement to decide who you should ask for review, and when a PR should be merged. Once a PR is merged, the process is officially changed and Tilters should [abide by the new process](#how-do-i-use-it). Consider sharing the change broadly afterward so everyone knows.
+If you think a given process can be improved, suggest a change in this handbook by creating a PR. Invite other Tilters to discuss the change to get buy-in. 
+
+We currently don't have a strict approval process, so use your personal judgement to decide who you should ask for review, and when a PR should be merged. For example, if you are correcting an obvious typo, you can probably commit directly to `master` without even creating a PR. But if you are proposing a change to vacation policy, you probably need to get approval from Dan B.
+
+Once a PR is merged, the process is officially changed and Tilters should [abide by the new process](#how-do-i-use-it). Consider sharing the change broadly afterward so everyone knows.
 
 # Table of contents
 
