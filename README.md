@@ -11,6 +11,8 @@ The actual work (e.g. product changes) that we plan and execute is tracked in [C
 
 Tilters should know and follow the processes outlined here as much as possible. It is the source of truth of how we try to act and expect others to act. We recognize that there's a lot of content and people may not be caught up all the time. If you see a fellow Tilter not following a documented process, send them a kind reminder, linking them to the specific section.
 
+Consider [watching this repo](https://help.github.com/en/github/receiving-notifications-about-activity-on-github/watching-and-unwatching-repositories) to get notifications of changes.
+
 # How do I change it?
 
 If you think a given process can be improved, suggest a change in this handbook by creating a PR. Invite other Tilters to discuss the change to get buy-in. 
