@@ -6,7 +6,7 @@ A project has a single charter outlining the business background and motivation 
 
 A team is empowered to make any changes to fulfill the goals. So even though the work scope typically contains product changes, it can also encompass other changes such as updating the marketing site, setting up new user-facing processes, or working with external partners.
 
-Project work and team collaboration should be organizaed thusly:
+Project work and team collaboration should be organized thusly:
 - There should be a Google doc for the project charter. For example, see [this doc](https://docs.google.com/document/d/1Sjd67pAHABTII00OKPbbK62K20J35NLGiZck3l7itpg/edit).
 - Candidate [Clubhouse stories](http://app.clubhouse.io/windmill/) should be labeled with a label named `proj-team-name`.
 - There should be a Slack channel called `proj-team-name`.
