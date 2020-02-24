@@ -1,5 +1,11 @@
 # What is this?
-This is the Tilt company handbook. It documents _how_ we work at Tilt. The actual work (e.g. product changes) that we plan and execute is tracked in [Clubhouse](https://app.clubhouse.io/windmill).
+This is the Tilt company handbook. It documents _how_ we work at Tilt. It is inspired by other companies' public handbooks:
+
+- [Aula](https://www.notion.so/The-Aula-Brain-4da091a8797840108311d99815b3b36f)
+- [Basecamp](https://basecamp.com/handbook) - [GitHub repo](https://github.com/basecamp/handbook)
+- [GitLab](https://about.gitlab.com/handbook/) - [GitLab repo](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/source/handbook)
+
+The actual work (e.g. product changes) that we plan and execute is tracked in [Clubhouse](https://app.clubhouse.io/windmill). 
 
 # How do I use it?
 
