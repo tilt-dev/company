@@ -1,1 +1,0 @@
-_Vacation policy to be added_
