@@ -9,7 +9,7 @@ All GitHub issues in all [Tilt repos](https://github.com/windmilleng) should hav
 
 A GitHub issue should only be created in these scenarios:
 - A user creates an issue as a feature request, improvement, or bug.
-- A Tilter creates an issue or a user's behalf (e.g. in response to a Slack conversation).
+- A Tilter creates an issue on a user's behalf (e.g. in response to a Slack conversation).
 - A Tilter intentionally wants to share planned or ongoing work with the community to get feedback. They create a GitHub issue (associated with an already created Clubhouse story).
 
 We are [considering how to to easily link GitHub issues to Clubhouse stories](https://app.clubhouse.io/windmill/story/4692). For now, a GitHub issue's description should contain a Clubhouse story URL. A Clubhouse story that has one or more associated GitHub issues should indicate those GitHub URLs using the [Clubhouse external links feature](https://help.clubhouse.io/hc/en-us/articles/360000272903-Using-the-Zendesk-Integration-and-External-Ticket-Support).
