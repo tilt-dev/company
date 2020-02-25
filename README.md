@@ -5,7 +5,7 @@ This is the Tilt company handbook. It documents _how_ we work at Tilt. It is ins
 - [Basecamp](https://basecamp.com/handbook) - [GitHub repo](https://github.com/basecamp/handbook)
 - [GitLab](https://about.gitlab.com/handbook/) - [GitLab repo](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/source/handbook)
 
-The actual work (e.g. product changes) that we plan and execute is tracked in [Clubhouse](https://app.clubhouse.io/windmill). 
+The actual work (e.g. product changes) that we [plan and execute](/work-management/README.md) is tracked in [Clubhouse](https://app.clubhouse.io/windmill). 
 
 # How do I use it?
 
@@ -27,3 +27,4 @@ Once a PR is merged, the process is officially changed and Tilters should [abide
 - [Expenses](/expenses/README.md)
 - [Support](/support/README.md)
 - [Vacation](/vacation/README.md)
+- [Work Management](/work-management/README.md)
