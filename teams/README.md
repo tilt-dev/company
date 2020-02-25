@@ -8,5 +8,5 @@ A team is empowered to make any changes to fulfill the goals. So even though the
 
 Project work and team collaboration should be organized thusly:
 - There should be a Google doc for the project charter. For example, see [this doc](https://docs.google.com/document/d/1Sjd67pAHABTII00OKPbbK62K20J35NLGiZck3l7itpg/edit).
-- Candidate [Clubhouse stories](http://app.clubhouse.io/windmill/) should be labeled with a label named `proj-team-name`.
-- There should be a Slack channel called `proj-team-name`.
+- Candidate [Clubhouse stories](http://app.clubhouse.io/windmill/) should be labeled with a label named `team-team-name`.
+- There should be a Slack channel called `team-team-name`.
