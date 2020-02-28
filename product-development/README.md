@@ -1,3 +1,3 @@
 # Product Development
 
-![product-development](/images/workflow.png)
+<img src="images/workflow.png" height="300" />
