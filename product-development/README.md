@@ -8,8 +8,7 @@ We have a process for figuring out what to build, when to build, and how to buil
 
 The process is summarized in the image above as a linear workflow as a first-order approximation, as a process goal to aid collaboration. At the far left, we continually have conversations with customers and the community. These are synthesized into GitHub issues. Based on this feedback and our broader company goals and strategy, we maintain a backlog of high-level initiatives (primarily product changes). At some point, a given initiative is further fleshed out with scoped work and success criteria, before being implemented and shipped.
 
-## Defining High-level Initiatives
+### Defining High-level Initiatives
+All Tilters are encouraged to collaborate in defining high-level initiatives over time. This is an ongoing task without specific timelines. Victor is responsible for ensuring that the backlog of initiatives is continually full. There should be no shortage of initiatives, recorded as Clubhouse epics.
 
-
-
-## Solving Business Problems
+### Solving Business Problems
