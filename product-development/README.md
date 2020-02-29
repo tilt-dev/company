@@ -18,6 +18,8 @@ The team should initially focus on fleshing out the epic at the outset, includin
 - Clearly articulating the business problem with tangible goals and success criteria.
 - Defining a small scope of work. The epic should not take more than 2 weeks to finish. If a solution takes more than 2 weeks, consider breaking it up into multiple epics.
 
-The purpose of a single epic is **not** to completely solve a business problem. Rather, an epic should make incremental progress at addressing problem, adding incremental user value.
+The purpose of a single epic is **not** to completely solve a business problem. Rather, an epic should make incremental progress at addressing a single problem, adding incremental user value as a result.
 
 After the epic is completed, the team is disbanded, and individuals should find the next epic to work on, with the next team. Engineers should self-organize and coordinate timelines when selecting epics to work on.
+
+### Epic Acceptance Criteria
