@@ -1,6 +1,5 @@
 # Product Development
 
-
 ## Workflow
 We have a lightweight product develoment workflow that empowers teams to solve business problems, working directly with customers, and to be accountable for achieving positive business outcomes.
 
@@ -16,7 +15,9 @@ When a Tilt engineer is free, they should pick a high priority epic to work on. 
 
 The epic may have a fairly broad initial business problem. The team should carve out and define a smaller problem, and spec out a solution that can be accomplished within 2 weeks. The epic description should be updated with the smaller scope and success criteria, and the team should create additional epics to capture the future work.
 
-The purpose of a single epic is **not** to completely solve a business problem. Rather, completing an epic should likely achieve incremental progress at addressing a single problem, adding incremental user value as a result. In some cases, any realized user value may only appear in future epics.
+The purpose of a single epic is **not** to completely solve a business problem. Rather, completing an epic should likely achieve incremental progress at addressing a single problem, adding incremental user value as a result. In some cases, any realized user value may only appear in future epics. 
+
+For example, suppose usability research suggests that the Tilt Web UI right sidebar is difficult for users to learn. A team develops some ideas to iterate on the existing designs in order to address the problems. But they discover that it's a better idea to first re-architect some of the frontend JavaScript and CSS to accommodate the design changes, repaying some previously incurred tech debt. In this case, the first epic would simply be non-user facing code re-architecture work, that doesn't have immediate user impact, but contributes to solving the usability problem indirectly as an incremental first step.
 
 After the epic is completed, the team is disbanded, and individuals should find the next epic to work on, with the next team. Engineers should self-organize and coordinate timelines when picking epics. Engineers should avoid working on multiple epics concurrently. 
 
