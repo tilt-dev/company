@@ -2,11 +2,11 @@
 
 
 ## Workflow
-We have a lightweight product develoment workflow that empowers teams to solve business problems, working directly with customers, and be accountable for achieving positive business outcomes.
+We have a lightweight product develoment workflow that empowers teams to solve business problems, working directly with customers, and to be accountable for achieving positive business outcomes.
 
 <img src="images/workflow.png" height="300" />
 
-The process is summarized in the image above as a linear workflow as a first-order approximation, as a process goal to aid collaboration. At the far left, we continually have conversations with customers and the community. These are synthesized into GitHub issues. Based on this feedback and our broader company goals and strategy, we maintain a backlog of high-level initiatives as Clubhouse epics (primarily product changes). At some point, a given epic is further fleshed out with scoped work and success criteria, before being implemented and shipped.
+The workflow is summarized in the image above. At the far left, we continually have conversations with customers and the community. These are synthesized into GitHub issues. Based on this feedback and our broader company goals and strategy, we maintain a backlog of high-level initiatives as Clubhouse epics (primarily product changes). Over time, epics are further fleshed out with scoped work and success criteria, before being implemented and shipped.
 
 ### Defining High-level Business Initiatives (Epics)
 All Tilters are encouraged to collaborate in defining high-level business initiatives (Clubhouse epics) over time. This is an ongoing task with no specific timelines. Victor is responsible for ensuring that the backlog of epics is continually full. There should be no shortage of epics.
