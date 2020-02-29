@@ -13,7 +13,7 @@ All Tilters are encouraged to collaborate in defining high-level business initia
 ### Incrementally Solving Business Problems
 When a Tilt engineer is free, they should pick a high priority epic to work on. They may consider finding another engineer to work as a two-person team.
 
-The epic may have a fairly broad initial business problem. The team should carve out and define a smaller problem, and spec out a solution that can be accomplished within 2 weeks. The epic description should be updated with the smaller scope and success criteria, and the team should create additional epics to capture the future work.
+The epic may have a fairly broad initial business problem. The team should carve out and define a smaller problem, and spec out a solution that can be accomplished within **2 weeks**. The epic description should be updated with the smaller scope and success criteria, and the team should create additional epics to capture the future work.
 
 The purpose of a single epic is **not** to completely solve a business problem. Rather, completing an epic should likely achieve incremental progress at addressing a single problem, adding incremental user value as a result. In some cases, any realized user value may only appear in future epics. 
 
