@@ -29,6 +29,6 @@ For an epic to be completed (and marked as such in Clubhouse), the epic descript
 - Links to updated metrics; why if not applicable (metrics may improve later over time)
 - Links to follow up customer conversations; why if not applicable
 - Links to updated docs; why if not applicable
-- Attached screenhots, gifs, or video, showing the change itself
+- Attached screenhots, gifs, or video, showing the implemented change
 - Links to future work, if applicable
-- Link to company meeting, where the problem and solution were presented
+- Link to company meeting, where the problem and the implemented change were presented
