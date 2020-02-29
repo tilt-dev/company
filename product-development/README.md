@@ -26,9 +26,9 @@ For example, suppose usability research suggests that the Tilt Web UI right side
 For an epic to be completed (and marked as such in Clubhouse), the epic description needs to contain the following as acceptance criteria:
 - Finalized problem statement
 - Explanation and scope of solution
-- Link to updated metrics; why if not applicable (metrics may improve later over time)
-- Link to follow up customer conversations; why if not applicable
-- Link to updated docs; why if not applicable
+- Links to updated metrics; why if not applicable (metrics may improve later over time)
+- Links to follow up customer conversations; why if not applicable
+- Links to updated docs; why if not applicable
 - Attached screenhots, gifs, or video, showing the change itself
 - Links to future work, if applicable
 - Link to company meeting, where the problem and solution were presented
