@@ -2,7 +2,7 @@
 
 
 ## Workflow
-We have a process for figuring out what to build, when to build, and how to build. We strive for simplicity and transparency (this document) to help teams maximize collabortion and innovation speed. The process is lightweight, affording teams the room to work independently and with customers directly. Teams have ownership of solving business problems and thus have the responsibility of achieving positive business outcomes.
+We have a lightweight product develoment workflow that empowers teams to solve business problems, working directly with customers, and be accountable for achieving positive business outcomes.
 
 <img src="images/workflow.png" height="300" />
 
