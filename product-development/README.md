@@ -26,6 +26,9 @@ For example, suppose usability research suggests that the Tilt Web UI right side
 For an epic to be completed (and marked as such in Clubhouse), the epic description needs to contain the following as acceptance criteria. Copy and paste the template below into the epic description, and update it accordingly. When a section is done, replace `:white_small_square:` with `:white_check_mark:` to indicate it is done.
 
 ```
+# Acceptance criteria
+See [Product Development](https://github.com/windmilleng/company-private/blob/master/product-development/README.md) for details.
+
 ## :white_small_square: Problem statement and references
 - Tilt users find it difficult to understand the colors in the Tilt Web UI sidebar.
 - See the customer conversations here:
@@ -47,7 +50,6 @@ For an epic to be completed (and marked as such in Clubhouse), the epic descript
 - We are considering surfacing some of this status information to TiltCloud in real-time. See this Clubhouse story.
 
 ## :white_small_square: Follow up customer conversations, if applicable
-- [ ] Section done
 - Links to or screenshots of customer meetings, Slack conversations, etc.
 
 ## :white_small_square: Metrics
