@@ -58,3 +58,7 @@ See [Product Development](https://github.com/windmilleng/company-private/blob/ma
 - If your change introduces a new metric to measure, collecting that data should be in scope or future work should be captured. For example, if you've created a new feature, you should be tracking it with FWAU / FMAU (feature weekly/monthly active users), and link to that metric here.
 - Most changes should be small and thus you should be frequently linking to the [engagement metrics](https://github.com/windmilleng/company-private/blob/master/metrics/README.md).
 ```
+
+Here is an example of how an epic description should look when all the acceptance criteria have been completed.
+
+![epic-acceptance-criteria-example](images/epic-acceptance-criteria-example.png)
