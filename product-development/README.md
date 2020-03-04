@@ -23,12 +23,32 @@ After the epic is completed, the team is disbanded, and individuals should find 
 For example, suppose usability research suggests that the Tilt Web UI right sidebar is difficult for users to learn. A team develops some ideas to iterate on the existing designs in order to address the problems. But they discover that it's a better idea to first re-architect some of the frontend JavaScript and CSS to accommodate the design changes, repaying some previously incurred tech debt. In this case, the first epic's scope would simply be non-user facing code re-architecture work, that doesn't have immediate user impact, but contributes to solving the usability problem indirectly as an incremental first step. The team may work on the second epic right after the first one is done, or it may be given to another team, or simply deferred to a future time. By scoping work to smaller units, Tilt is more flexible in prioritizing whatever is best at (almost) any moment of time as a small organization.
 
 ### Epic acceptance criteria
-For an epic to be completed (and marked as such in Clubhouse), the epic description needs to contain the following as acceptance criteria:
-- Finalized problem statement
-- Explanation and scope of solution
-- Links to updated metrics; why if not applicable (metrics may improve later over time)
-- Links to follow up customer conversations; why if not applicable
-- Links to updated docs; why if not applicable
-- Attached screenhots, gifs, or video, showing the implemented change
-- Links to future work, if applicable
-- Link to company meeting, where the problem and the implemented change were presented
+For an epic to be completed (and marked as such in Clubhouse), the epic description needs to contain the following as acceptance criteria. (Copy and paste the template below into an epic description.)
+
+```
+## Problem statement and references
+- Tilt users find it difficult to understand the colors in the Tilt Web UI sidebar.
+- See the customer conversations here:
+  - Google doc
+  - Slack conversation
+  - Clubhouse story
+
+## Solution scope, final implementation, and demo
+- Screenshots, gifs, or video
+- Link to company meeting, where problem and implementation were presented
+
+## Out of scope, related, and/or future work, if applicable
+- We are considering surfacing some of this information to TiltCloud in real-time. See this Clubhouse story.
+- Clubhouse story for adding additional statuses and colors
+
+## Updated docs and blog posts, if applicable
+- Links
+
+## Follow up customer conversations, if applicable
+- Links to or screenshots of customer meetings, Slack conversations, etc.
+
+## Metrics
+- Link to specific metrics and/or charts that this change targets to improve. 
+- Many changes will not improve metrics in weeks or even months. That's okay. But still need to mention which specific metrics you are targeting.
+- If your change introduces a new metric to measure, collecting that data should be in scope or future work should be captured. For example, if you've created a new feature, you should be tracking it with FWAU / FMAU (feature weekly/monthly active users), and link to that metric here.
+```
