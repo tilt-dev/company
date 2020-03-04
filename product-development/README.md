@@ -34,6 +34,7 @@ For an epic to be completed (and marked as such in Clubhouse), the epic descript
   - Clubhouse story
 
 ## Solution scope, final implementation, and demo
+- We decided to add tooltips to all the different statuses in the sidebar.
 - Screenshots, gifs, or video
 - Link to company meeting, where problem and implementation were presented
 - As a Tilt user, I should be able to experience this change (e.g. know how to use this new feature), after reading this section.
@@ -42,8 +43,8 @@ For an epic to be completed (and marked as such in Clubhouse), the epic descript
 - Links
 
 ## Out of scope, related, and/or future work, if applicable
-- We are considering surfacing some of this information to TiltCloud in real-time. See this Clubhouse story.
-- Clubhouse story for adding additional statuses and colors
+- Clubhouse story for adding additional new statuses and colors
+- We are considering surfacing some of this status information to TiltCloud in real-time. See this Clubhouse story.
 
 ## Follow up customer conversations, if applicable
 - Links to or screenshots of customer meetings, Slack conversations, etc.
@@ -52,4 +53,5 @@ For an epic to be completed (and marked as such in Clubhouse), the epic descript
 - Link to specific metrics and/or charts that this change targets to improve. 
 - Many changes will not improve metrics in weeks or even months. That's okay. But still need to mention which specific metrics you are targeting.
 - If your change introduces a new metric to measure, collecting that data should be in scope or future work should be captured. For example, if you've created a new feature, you should be tracking it with FWAU / FMAU (feature weekly/monthly active users), and link to that metric here.
+- Most changes should be small and thus you should be frequently linking to the [engagement metrics](https://github.com/windmilleng/company-private/blob/master/metrics/README.md).
 ```
