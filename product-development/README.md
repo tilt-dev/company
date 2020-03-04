@@ -61,4 +61,4 @@ See [Product Development](https://github.com/windmilleng/company-private/blob/ma
 
 Here is an example of how an epic description should look when all the acceptance criteria have been completed.
 
-![epic-acceptance-criteria-example](images/epic-acceptance-criteria-example.png)
+<img src="images/epic-acceptance-criteria-example.png" height="300" />
