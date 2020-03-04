@@ -36,13 +36,14 @@ For an epic to be completed (and marked as such in Clubhouse), the epic descript
 ## Solution scope, final implementation, and demo
 - Screenshots, gifs, or video
 - Link to company meeting, where problem and implementation were presented
+- As a Tilt user, I should be able to experience this change (e.g. know how to use this new feature), after reading this section.
+
+## Updated docs and blog posts, if applicable
+- Links
 
 ## Out of scope, related, and/or future work, if applicable
 - We are considering surfacing some of this information to TiltCloud in real-time. See this Clubhouse story.
 - Clubhouse story for adding additional statuses and colors
-
-## Updated docs and blog posts, if applicable
-- Links
 
 ## Follow up customer conversations, if applicable
 - Links to or screenshots of customer meetings, Slack conversations, etc.
