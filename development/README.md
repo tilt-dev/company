@@ -8,4 +8,4 @@ We should express our intentions through [documentating Tilt functionality](http
 Non-user facing problems are not classified as bugs.
 
 ## Tracking work
-See the higher-level [Product Development](../product-development/README.md) workflow focused on prioritizing and solving business problems. This section is focused on tracking more granular development work on a daily and weekly basis.
+See the higher-level [Product Development workflow](../product-development/README.md#workflow) workflow focused on prioritizing and solving business problems. This section is focused on tracking more granular development work on a daily and weekly basis.
