@@ -4,7 +4,7 @@ Every month Windmill donates $100 per Tilter toward an organization that is work
 
 Each month, one Tilter is designated as the Donation Deputy. They are responsible for proposing an organization to donate to (either via email or in Planning); the team then discusses the organization and confirms that we want to give to them.
 
-The Donation Deputy is also responsible for coordinating the logistics of the donation (i.e. making sure it actually happens), and tweeting about it. The Donation Deputy role is rotated between all Tilters.
+The Donation Deputy is also responsible for coordinating the logistics of the donation (i.e. making sure it actually happens), and tweeting about it using the [@tilt_dev](https://twitter.com/tilt_dev) account. (Password in 1Password.) The Donation Deputy role is rotated between all Tilters.
 
 Each new donation should be recorded in this document so that we have a record going forward.
 
@@ -18,7 +18,7 @@ Each new donation should be recorded in this document so that we have a record g
 ### 2019
 * Jun: [Project Include](https://projectinclude.org/) (HY)
 * May: [Code2040](http://www.code2040.org/)
-* Apr: [AnitaB.org](https://anitab.org/) (MM)
+* Apr: [AnitaB.org](https://anitab.org/) (MM) [Tweet](https://twitter.com/tilt_dev/status/1124073397036683264)
 * Mar: [Go Bridge / Women Who Go](https://www.womenwhogo.org/) (?)
 * Feb: 
 * Jan: [Outreachy](https://www.outreachy.org/) (DM)
