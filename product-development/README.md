@@ -11,7 +11,7 @@ The workflow is summarized in the image above. At the far left, we continually h
 All Tilters are encouraged to collaborate in defining high-level business initiatives (Clubhouse epics) over time. This is an ongoing task with no specific timelines. Victor is responsible for ensuring that the backlog of epics is continually full. There should be no shortage of epics.
 
 ### Incrementally solving business problems facilitated by DRIs
-When a Tilt engineer is free, they should pick a high priority epic to work on and make themself the sole owner of the epic. The engineer should find other folks to collaborate on the epic as needed, but they are the [DRI](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4) (direct responsible individual) for driving the epic to completion. There should be at most one owner on any epic, and the owner is the DRI. More below on completing an epic. 
+When a Tilt engineer is free, they should pick a high priority epic to work on and make themself the sole owner of the epic. The engineer should find other folks to collaborate on the epic as needed, but they are the [DRI](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4) (directly responsible individual) for driving the epic to completion. There should be at most one owner on any epic, and the owner is the DRI. More below on completing an epic. 
 
 The epic may have a fairly broad initial business problem. The engineer(s) should carve out and define a smaller problem, and spec out a solution that can be accomplished within **2 weeks**. The epic description should be updated with the smaller scope and success criteria, and the engineer(s) should create additional epics to capture the future work.
 
