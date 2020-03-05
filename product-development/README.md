@@ -16,10 +16,12 @@ All Tilters are encouraged to collaborate in _definining_ high-level business in
 - Solution scope
 - Attached stories with relevant ideas, including designs
 
-Victor is responsible for ensuring that the backlog of epics is continually full and that epics are increasingly being better defined. There should be no shortage of epics.
+Victor is responsible for ensuring that the [backlog of unstarted epics](https://app.clubhouse.io/windmill/epics?state_ids=500008016&state_ids=500008001) is continually full and that epics are increasingly being better defined. There should be no shortage of epics. Dan B and Nick and Victor are responsible for maintaining the priority of the backlog (higher priority toward the top in the Clubhouse view, when the triangle is pointing down).
+
+<img src="images/epics-priority.png" height="100" />
 
 ## Picking an epic to work on
-When a Tilt engineer is free, they should pick a high priority epic to work on and make themself the _sole_ owner of the epic. The engineer should find other folks to collaborate on the epic as needed, but they are the [DRI](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4) (directly responsible individual) for driving the epic to completion. There should be at most one owner on any epic, and the owner is the DRI.
+When a Tilt engineer is free, they should pick the highest priority unstarted epic to work on and make themself the _sole_ owner of the epic. This indicates that they are the [DRI](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4) for the epic. The engineer may find other folks to collaborate on the epic as needed, but they are the DRI for driving the epic to completion. There should be at most one owner on any epic, and that owner is the DRI.
 
 The epic may have a fairly broad initial business problem. The engineer(s) should carve out and define a smaller problem, and spec out a solution that can be accomplished within a target of **_7 calendar working days_** (counted from when the epic moves into `In Progress`, more below on states). If the solution cannot be finished within 7 days, keep reducing scope. The epic description should be updated with the smaller scope and acceptance criteria, and the engineer(s) should create additional epics and/or stories to capture the future work.
 
