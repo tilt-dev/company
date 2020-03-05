@@ -69,6 +69,7 @@ See [Product Development](https://github.com/windmilleng/company-private/blob/ma
 - We are considering surfacing some of this status information to TiltCloud in real-time. See this Clubhouse story.
 
 ## :white_small_square: Follow up customer conversations, if applicable
+- Customer feedback on the change introduced
 - Links to or screenshots of customer meetings, Slack conversations, etc.
 
 ## :white_small_square: Metrics
