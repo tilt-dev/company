@@ -1,6 +1,6 @@
 # Monthly Donations
 
-Every month Windmill donates $100 per Tilter toward an organization that is working to make tech less toxic. The goal of these donations is twofold: to do our part to make our industry better, and [to signal to the world (and potential candidates) what kind of culture we want to build at Windmill](https://twitter.com/dbentley/status/1196853652444499968).
+Every month Windmill donates 100 USD per Tilter toward an organization that is working to make tech less toxic. The goal of these donations is twofold: to do our part to make our industry better, and [to signal to the world (and potential candidates) what kind of culture we want to build at Windmill](https://twitter.com/dbentley/status/1196853652444499968).
 
 ## Donation Deputy
 
