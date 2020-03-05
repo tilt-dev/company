@@ -1,3 +1,6 @@
+# _**The content in this page applies starting on 2020 March 30**_
+There are no changes to how we work with Google docs and Clubhouse stories prior to this date.
+
 # Product Development
 
 ## Workflow
