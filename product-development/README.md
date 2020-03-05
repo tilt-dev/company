@@ -20,7 +20,7 @@ Victor is responsible for ensuring that the [backlog of unstarted epics](https:/
 
 <img src="images/epics-priority.png" height="100" />
 
-## Picking an epic to work on
+## Picking the highest priority epic
 When a Tilt engineer is free, they should pick the highest priority unstarted epic to work on and make themself the _sole_ owner of the epic. This indicates that they are the [DRI](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4) for the epic. The engineer may find other folks to collaborate on the epic as needed, but they are the DRI for driving the epic to completion. There should be at most one owner on any epic, and that owner is the DRI.
 
 The epic may have a fairly broad initial business problem. The engineer(s) should carve out and define a smaller problem, and spec out a solution that can be accomplished within a target of **_7 calendar working days_** (counted from when the epic moves into `In Progress`, more below on states). If the solution cannot be finished within 7 days, keep reducing scope. The epic description should be updated with the smaller scope and acceptance criteria, and the engineer(s) should create additional epics and/or stories to capture the future work.
