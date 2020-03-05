@@ -25,7 +25,7 @@ The epic may have a fairly broad initial business problem. The engineer(s) shoul
 
 The purpose of a single epic is _not_ to completely solve a business problem. Rather, completing an epic should likely achieve incremental progress at addressing a single problem, adding incremental user value as a result. In some cases, any realized user value may only appear in future epics. 
 
-After the epic is completed, the engineer should find the next epic to work on, either as a DRI owner, or as a collaborator. Engineers should self-organize and coordinate timelines ad hoc when picking epics. There are no stable teams, no timeboxed sprints, and no synced sprints across teams. Engineers should avoid working on multiple epics concurrently. 
+After the epic is completed, the engineer should find the next epic to work on, either as a DRI owner, or as a collaborator. Engineers should self-organize and coordinate timelines ad hoc when picking epics. There are no stable teams, no timeboxed sprints, and no synced sprints across teams. Engineers should be the DRI for at most one epic at a given time. But an engineer may be contributing to multiple epics concurrently.
 
 ### Epic owner and epic states
 - An epic is in one of three states: `Unstarted`, `In Progress`, `Closed`. 
