@@ -2,11 +2,16 @@
 
 Every month Windmill donates $100 per Tilter toward an organization that is working to make tech less toxic. The goal of these donations is twofold: to do our part to make our industry better, and [to signal to the world (and potential candidates) what kind of culture we want to build at Windmill](https://twitter.com/dbentley/status/1196853652444499968).
 
-Each month, one Tilter is designated as the Donation Deputy. They are responsible for proposing an organization to donate to (either via email or in Planning); the team then discusses the organization and confirms that we want to give to them.
+## Donation Deputy
 
-The Donation Deputy is also responsible for coordinating the logistics of the donation (i.e. making sure it actually happens), and tweeting about it using the [@tilt_dev](https://twitter.com/tilt_dev) account. (Password in 1Password.) The Donation Deputy role is rotated between all Tilters.
+If you have been designated Donation Deputy for the month, do the following in the specified order:
 
-Each new donation should be recorded in this document so that we have a record going forward.
+- Create a Clubhouse story with [this template](), filling out the fields, and in particular, proposing a candidate donation organization.
+- Share the story with other Tilters, discussing the proposal. Consider pinging people in the story, in Slack, or discussing it during a company meeting.
+- Get Nick and/or Dan B to indicate their final approval in the story with a comment.
+- Create a PR to update this page, updating the Donation Log per the existing format. The PR should also include a nominated Tilter as Donation Deputy for the next month.
+- @-mention the proposed Tilter and get them to approve the PR, indicating their acceptance of the nomination.
+- Merge the PR, designating the proposted Tilter as the Donation Deputy for the next month. Remind them to follow this proces.
 
 ## Donation Log
 
