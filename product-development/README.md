@@ -35,7 +35,7 @@ After the epic is completed, the engineer should find the next epic to work on, 
 Each epic has at most one owner, who is the the DRI for that epic. The DRI is responsible for:
 - Maintaining the epic state, description, and attached stories updated as the single source of truth of overall work status, at least on a daily basis.
   - The acceptance criteria sections are _especially critical_ to be updated.
-- Driving the epic to completion in a timely fashion within the target **_7 working days_**
+- Driving the epic to completion in a timely fashion within the target **_7 working days_**.
   - The DRI epic owner should consider reducing scope (deferring valuable work to future epics) if additional work is discovered.
 
 The DRI is _not_ responsible for:
