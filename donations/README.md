@@ -9,7 +9,8 @@ If you have been designated Donation Deputy for the month, do the following in t
 - Create a Clubhouse story with [this template](), filling out the fields, and in particular, proposing a candidate donation organization.
 - Share the story with other Tilters, discussing the proposal. Consider pinging people in the story, in Slack, or discussing it during a company meeting.
 - Get Nick and/or Dan B to indicate their final approval in the story with a comment.
-- Create a PR to update this page, updating the Donation Log per the existing format. The PR should also include a nominated Tilter as Donation Deputy for the next month.
+- Close the story when the tasks in the story have been completed.
+- Create a PR to update this page, updating the Donation Log per the existing format. The PR should also include a nominated Tilter as Donation Deputy for the next month. (Try to load balance Tilters.)
 - @-mention the proposed Tilter and get them to approve the PR, indicating their acceptance of the nomination.
 - Merge the PR, designating the proposted Tilter as the Donation Deputy for the next month. Remind them to follow this proces.
 
