@@ -13,7 +13,7 @@ All Tilters are encouraged to collaborate in defining high-level business initia
 ### Incrementally solving business problems facilitated by DRIs
 When a Tilt engineer is free, they should pick a high priority epic to work on and make themself the sole owner of the epic. The engineer should find other folks to collaborate on the epic as needed, but they are the [DRI](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4) (direct responsible individual) for driving the epic to completion. There should be at most one owner on any epic, and the owner is the DRI. More below on completing an epic. 
 
-The epic may have a fairly broad initial business problem. The engineer should carve out and define a smaller problem, and spec out a solution that can be accomplished within **2 weeks**. The epic description should be updated with the smaller scope and success criteria, and the engineer should create additional epics to capture the future work.
+The epic may have a fairly broad initial business problem. The engineer(s) should carve out and define a smaller problem, and spec out a solution that can be accomplished within **2 weeks**. The epic description should be updated with the smaller scope and success criteria, and the engineer(s) should create additional epics to capture the future work.
 
 The purpose of a single epic is **not** to completely solve a business problem. Rather, completing an epic should likely achieve incremental progress at addressing a single problem, adding incremental user value as a result. In some cases, any realized user value may only appear in future epics. 
 
