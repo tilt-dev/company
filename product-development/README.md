@@ -18,26 +18,32 @@ All Tilters are encouraged to collaborate in **_definining_** high-level busines
 
 Victor is responsible for ensuring that the backlog of epics is continually full and that epics are increasingly being better defined. There should be no shortage of epics.
 
-### Incrementally solving business problems facilitated by DRIs
-When a Tilt engineer is free, they should pick a high priority epic to work on and make themself the sole owner of the epic. The engineer should find other folks to collaborate on the epic as needed, but they are the [DRI](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4) (directly responsible individual) for driving the epic to completion. There should be at most one owner on any epic, and the owner is the DRI. More below on completing an epic. 
+## Picking an epic to work on
+When a Tilt engineer is free, they should pick a high priority epic to work on and make themself the sole owner of the epic. The engineer should find other folks to collaborate on the epic as needed, but they are the [DRI](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4) (directly responsible individual) for driving the epic to completion. There should be at most one owner on any epic, and the owner is the DRI.
 
-The epic may have a fairly broad initial business problem. The engineer(s) should carve out and define a smaller problem, and spec out a solution that can be accomplished within **7 working days**. (If the solution cannot be finished within 7 days, keep reducing scope.) The epic description should be updated with the smaller scope and success criteria, and the engineer(s) should create additional epics to capture the future work.
+The epic may have a fairly broad initial business problem. The engineer(s) should carve out and define a smaller problem, and spec out a solution that can be accomplished within **7 working days**. (If the solution cannot be finished within 7 days, keep reducing scope.) The epic description should be updated with the smaller scope and success criteria, and the engineer(s) should create additional epics and/or stories to capture the future work.
 
 The purpose of a single epic is **not** to completely solve a business problem. Rather, completing an epic should likely achieve incremental progress at addressing a single problem, adding incremental user value as a result. In some cases, any realized user value may only appear in future epics. 
 
-After the epic is completed, the engineer should find the next epic to work on, either as a DRI owner, or as a collaborator. Engineers should self-organize and coordinate timelines ad hoc when picking epics. There are no stable teams and no timeboxed sprints and no synced sprints across teams. Engineers should avoid working on multiple epics concurrently. 
+After the epic is completed, the engineer should find the next epic to work on, either as a DRI owner, or as a collaborator. Engineers should self-organize and coordinate timelines ad hoc when picking epics. There are no stable teams, no timeboxed sprints, and no synced sprints across teams. Engineers should avoid working on multiple epics concurrently. 
 
 ### Epic states
-Epics are in one of three states: `Unstarted`, `In Progress`, `Closed`. When an epic is actively being worked on, it should be in the `In Progres` state. When it is completed, it should be in the `Closed` state.
+Epics are in one of three states: `Unstarted`, `In Progress`, `Closed`. When an epic has been assigned an owner and active work has started, it should be in the `In Progress` state. When it is completed, it should be in the `Closed` state.
 
-### DRIs as epic owners
-Each epic has at most one owner, who is the the DRI for that epic. The DRI 
+### DRI responsibilties as epic owner
+Each epic has at most one owner, who is the the DRI for that epic. The DRI is responsible for:
+- Maintaining the epic state, description, and attached stories updated as the single source of truth of overall work status, at least on a daily basis.
+- In particular, maintaining 
+
+DRI is _not_ responsible for:
+
+
 
 ### Example
 For example, suppose usability research suggests that the Tilt Web UI right sidebar is difficult for users to learn. Two engineers develop some ideas to iterate on the existing designs in order to address the problems. But they discover that it's a better idea to first re-architect some of the frontend JavaScript and CSS to accommodate the design changes, repaying some previously incurred tech debt. In this case, the first epic's scope would simply be non-user facing code re-architecture work, that doesn't have immediate user impact, but contributes to solving the usability problem indirectly as an incremental first step. The engineers may work on the second epic right after the first one is done, or it may be given to another team, or simply deferred to a future time. By scoping work to smaller units, Tilt is more flexible in prioritizing whatever is best at (almost) any moment of time as a small organization.
 
 ### Finishing an epic with acceptance criteria
-For an epic to be completed (and marked as `Closed` in Clubhouse), the epic description needs to contain the following as acceptance criteria. Copy and paste the template below into the epic description, and update it accordingly. When a section is done, replace `:white_small_square:` with `:white_check_mark:` to indicate it is done (or explain why the section is not applicable).
+For an epic to be completed (and marked as `Closed` in Clubhouse), the epic description needs to have all the following acceptance criteria marked as completed. Copy and paste the template below into the epic description, and update it accordingly. When a section is done, replace `:white_small_square:` with `:white_check_mark:` to indicate it is done (or explain why the section is not applicable).
 
 ```
 # Acceptance criteria
