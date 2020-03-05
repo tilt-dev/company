@@ -27,8 +27,9 @@ The purpose of a single epic is **not** to completely solve a business problem. 
 
 After the epic is completed, the engineer should find the next epic to work on, either as a DRI owner, or as a collaborator. Engineers should self-organize and coordinate timelines ad hoc when picking epics. There are no stable teams, no timeboxed sprints, and no synced sprints across teams. Engineers should avoid working on multiple epics concurrently. 
 
-### Epic states
-Epics are in one of three states: `Unstarted`, `In Progress`, `Closed`. When an epic has been assigned an owner and active work has started, it should be in the `In Progress` state. When it is completed, it should be in the `Closed` state. A epic in either `In Progress` the `Closed` states must have an owner.
+### Epic owner and epic states
+- An epic is in one of three states: `Unstarted`, `In Progress`, `Closed`. 
+- If an epic is in `In Progress` or `Closed`, it must have exactly one owner, who is the DRI.
 
 ### DRI responsibilties as epic owner
 Each epic has at most one owner, who is the the DRI for that epic. The DRI is responsible for:
@@ -37,8 +38,8 @@ Each epic has at most one owner, who is the the DRI for that epic. The DRI is re
 - Driving the epic to completion in a timely fashion within the target **7 working days**
   - The DRI epic owner should consider reducing scope (deferring valuable work to future epics) if additional work is discovered.
 
-DRI is _not_ responsible for:
-
+The DRI is _not_ responsible for:
+- Communicating epic work status, beyond keeping the epic itself updated as the single source of truth. The DRI is not responsible for sharing work on Slack or keeping other Tilters otherwise updated. (They _can_, but they aren't required to do so.) 
 
 
 ### Example
