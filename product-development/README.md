@@ -8,10 +8,10 @@ We have a lightweight product develoment workflow that empowers individual Tilte
 The workflow is summarized in the image above. At the far left, we continually have conversations with customers and the community. These are synthesized into GitHub issues and Clubhouse stories. Based on this feedback and our broader company goals and strategy, we maintain a backlog of high-level initiatives as Clubhouse epics (primarily product changes). Over time, epics are further defined with scoped work and acceptance criteria, as they are eventually implemented and shipped.
 
 ### Free-form discussion in Clubhouse stories
-All Tilters are encouraged to collaborate in **_discussing_** general ideas in a free-form fashion, with no strict process, no structure, no specific timelines, and no specific implementation commitments. Tilters should prefer discussing ideas in Clubhouse stories, linking ideas together, thus building a web of good ideas that are easily searchable for posterity.
+All Tilters are encouraged to collaborate in **discussing** general ideas in a free-form fashion, with no strict process, no structure, no specific timelines, and no specific implementation commitments. Tilters should prefer discussing ideas in Clubhouse stories, linking ideas together, thus building a web of good ideas that are easily searchable for posterity.
 
 ### Defining high-level business initiatives with Clubhouse epics
-All Tilters are encouraged to collaborate in **_definining_** high-level business initiatives. Similar to general ideas, there is no strict process for collaboration, except that each business initiative should be documented as a Clubhouse epic. As an epic becomes increasingly well-defined over time, it should have more and more of these components with increasing fidelity:
+All Tilters are encouraged to collaborate in **definining** high-level business initiatives. Similar to general ideas, there is no strict process for collaboration, except that each business initiative should be documented as a Clubhouse epic. As an epic becomes increasingly well-defined over time, it should have more and more of these components with increasing fidelity:
 - Problem statement
 - Solution scope
 - Attached stories with relevant ideas, including designs
@@ -19,7 +19,7 @@ All Tilters are encouraged to collaborate in **_definining_** high-level busines
 Victor is responsible for ensuring that the backlog of epics is continually full and that epics are increasingly being better defined. There should be no shortage of epics.
 
 ## Picking an epic to work on
-When a Tilt engineer is free, they should pick a high priority epic to work on and make themself the sole owner of the epic. The engineer should find other folks to collaborate on the epic as needed, but they are the [DRI](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4) (directly responsible individual) for driving the epic to completion. There should be at most one owner on any epic, and the owner is the DRI.
+When a Tilt engineer is free, they should pick a high priority epic to work on and make themself the **sole** owner of the epic. The engineer should find other folks to collaborate on the epic as needed, but they are the [DRI](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4) (directly responsible individual) for driving the epic to completion. There should be at most one owner on any epic, and the owner is the DRI.
 
 The epic may have a fairly broad initial business problem. The engineer(s) should carve out and define a smaller problem, and spec out a solution that can be accomplished within a target of **7 working days** (counted from when the epic moves into `In Progress`, more below on states). If the solution cannot be finished within 7 days, keep reducing scope. The epic description should be updated with the smaller scope and acceptance criteria, and the engineer(s) should create additional epics and/or stories to capture the future work.
 
@@ -28,12 +28,12 @@ The purpose of a single epic is **not** to completely solve a business problem. 
 After the epic is completed, the engineer should find the next epic to work on, either as a DRI owner, or as a collaborator. Engineers should self-organize and coordinate timelines ad hoc when picking epics. There are no stable teams, no timeboxed sprints, and no synced sprints across teams. Engineers should avoid working on multiple epics concurrently. 
 
 ### Epic states
-Epics are in one of three states: `Unstarted`, `In Progress`, `Closed`. When an epic has been assigned an owner and active work has started, it should be in the `In Progress` state. When it is completed, it should be in the `Closed` state.
+Epics are in one of three states: `Unstarted`, `In Progress`, `Closed`. When an epic has been assigned an owner and active work has started, it should be in the `In Progress` state. When it is completed, it should be in the `Closed` state. A epic in either `In Progress` the `Closed` states must have an owner.
 
 ### DRI responsibilties as epic owner
 Each epic has at most one owner, who is the the DRI for that epic. The DRI is responsible for:
 - Maintaining the epic state, description, and attached stories updated as the single source of truth of overall work status, at least on a daily basis.
-  - The acceptance criteria sections are _**especially critical**_ to be updated.
+  - The acceptance criteria sections are **especially critical** to be updated.
 - Driving the epic to completion in a timely fashion within the target **7 working days**
   - The DRI epic owner should consider reducing scope (deferring valuable work to future epics) if additional work is discovered.
 
