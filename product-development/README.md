@@ -5,16 +5,18 @@ We have a lightweight product develoment workflow that empowers individual Tilte
 
 <img src="images/workflow.png" height="300" />
 
-The workflow is summarized in the image above. At the far left, we continually have conversations with customers and the community. These are synthesized into GitHub issues. Based on this feedback and our broader company goals and strategy, we maintain a backlog of high-level initiatives as Clubhouse epics (primarily product changes). Over time, epics are further defined with scoped work and success criteria, as they are eventually implemented and shipped.
+The workflow is summarized in the image above. At the far left, we continually have conversations with customers and the community. These are synthesized into GitHub issues and Clubhouse stories. Based on this feedback and our broader company goals and strategy, we maintain a backlog of high-level initiatives as Clubhouse epics (primarily product changes). Over time, epics are further defined with scoped work and success criteria, as they are eventually implemented and shipped.
 
 ### Free-form discussion in Clubhouse stories
-All Tilters are encouraged to collaborate in discussing business initiatives and ideas in a free-form fashion, with no strict process, no specific timelines, and no specific implementation commitments. Tilters should prefer discussing ideas in Clubhouse stories, linking ideas together, thus building a web of good ideas that are easily searchable for posterity.
+All Tilters are encouraged to collaborate in **_discussing_** general ideas in a free-form fashion, with no strict process, no structure, no specific timelines, and no specific implementation commitments. Tilters should prefer discussing ideas in Clubhouse stories, linking ideas together, thus building a web of good ideas that are easily searchable for posterity.
 
-### Defining high-level business initiatives with Epics
+### Defining high-level business initiatives with Clubhouse epics
+All Tilters are encouraged to collaborate in **_definining_** high-level business initiatives. Similar to general ideas, there is no strict process for collaboration, except that each business initiative should be documented as a Clubhouse epic. As an epic becomes increasingly well-defined over time, it should have more and more of these components with increasing fidelity:
+- Problem statement
+- Solution scope
+- Attached stories with relevant ideas, including designs
 
-
-
-All Tilters are encouraged to collaborate in defining high-level business initiatives (Clubhouse epics) over time. This is an ongoing task with no specific timelines and no strict process. Tilter should prefer discussing ideas in Clubhouse stories and epics. Victor is responsible for ensuring that the backlog of epics is continually full. There should be no shortage of epics.
+Victor is responsible for ensuring that the backlog of epics is continually full and that epics are increasingly being better defined. There should be no shortage of epics.
 
 ### Incrementally solving business problems facilitated by DRIs
 When a Tilt engineer is free, they should pick a high priority epic to work on and make themself the sole owner of the epic. The engineer should find other folks to collaborate on the epic as needed, but they are the [DRI](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4) (directly responsible individual) for driving the epic to completion. There should be at most one owner on any epic, and the owner is the DRI. More below on completing an epic. 
