@@ -32,16 +32,18 @@ After the epic is completed, the engineer should find the next epic to work on, 
 - If an epic is in `In Progress` or `Closed`, it must have exactly one owner, who is the DRI.
 
 ### DRI responsibilties and non-responsibilities as epic owner
-Each epic has at most one owner, who is the the DRI for that epic. The DRI is responsible for:
-- Maintaining the epic state, description, and attached stories updated as the single source of truth of overall work status, at least on a daily basis.
-  - The acceptance criteria sections are _especially critical_ to be updated.
+
+| | DRI is responsible for | DRI is _not_ responsible for |
+| --- | --- | --- |
+| Epic status and communication | The DRI is responsible for maintaining the epic state, description, and attached stories updated as the single source of truth of overall work status, at least on a daily basis. (The acceptance criteria sections are _especially critical_, including presenting the problem and final implementation in a company meeting.) This encourages anyone who wants to learn about and collaborate on the epic to visit the epic itself (and it's attached stories) to see the latest updates, allowing the DRI to focus on actual work and leveraging a single place for providing updates. | The DRI is not responsible for communicating epic work status, beyond keeping the epic itself updated as the single source of truth. The DRI is not responsible for sharing work on Slack, meetings, or keeping Tilters otherwise updated. The DRI _can_ provide additional communication, but is not required to do so. Victor will help with broader general communication needs.|
+
+
 - Driving the epic to completion in a timely fashion within the target **_7 working days_**.
   - The DRI epic owner should consider reducing scope (deferring valuable work to future epics) if additional work is discovered.
+- Making decisions quickly amongst multiple 
 
-The DRI is _not_ responsible for:
-- Communicating epic work status, beyond keeping the epic itself updated as the single source of truth. 
-  - The DRI is not responsible for sharing work on Slack, meetings, or keeping Tilters otherwise updated. This encourages anyone who wants to learn about and collaborate on the epic to visit the epic itself (and it's attached stories) to see the latest updates, allowing the DRI to focus on actual work and leveragina a single place for providing updates. The DRI _can_ provide additional communication, but is not required to do so. Victor will help with broader general communication needs. The DRI _is_ responsible for presenting the problem and final implementation in a company meeting, as part of the epic acceptance criteria.
-
+  - The DRI should exercise judgment to seek collaboration and input from relevant Tilters as they see fit to meet the business goals of the epic. They should not wait too long for a response if the consulted Tilter is not responsive. We are biasing toward shipping in small increments quickly. So even if a sub-optimal change was shipped, this is preferable to _not_ shipping at all, because we want to move quickly with small changes. The risk of doing something very bad is also very small with small changes, freeing up the DRI to have more confidence in their decision making.
+  
 ### Example
 For example, suppose usability research suggests that the Tilt Web UI right sidebar is difficult for users to learn. Two engineers develop some ideas to iterate on the existing designs in order to address the problems. But they discover that it's a better idea to first re-architect some of the frontend JavaScript and CSS to accommodate the design changes, repaying some previously incurred tech debt. In this case, the first epic's scope would simply be non-user facing code re-architecture work, that doesn't have immediate user impact, but contributes to solving the usability problem indirectly as an incremental first step. The engineers may work on the second epic right after the first one is done, or it may be given to another team, or simply deferred to a future time. By scoping work to smaller units, Tilt is more flexible in prioritizing whatever is best at (almost) any moment of time as a small organization.
 
