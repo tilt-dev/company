@@ -1,14 +1,20 @@
 # Product Development
 
 ## Workflow
-We have a lightweight product develoment workflow that empowers teams to solve business problems, working directly with customers, and to be accountable for achieving positive business outcomes.
+We have a lightweight product develoment workflow that empowers individual Tilters to collaboratively solve business problems, work directly with customers, and to be accountable for achieving positive business outcomes.
 
 <img src="images/workflow.png" height="300" />
 
 The workflow is summarized in the image above. At the far left, we continually have conversations with customers and the community. These are synthesized into GitHub issues. Based on this feedback and our broader company goals and strategy, we maintain a backlog of high-level initiatives as Clubhouse epics (primarily product changes). Over time, epics are further defined with scoped work and success criteria, as they are eventually implemented and shipped.
 
-### Defining high-level business initiatives (Epics)
-All Tilters are encouraged to collaborate in defining high-level business initiatives (Clubhouse epics) over time. This is an ongoing task with no specific timelines. Victor is responsible for ensuring that the backlog of epics is continually full. There should be no shortage of epics.
+### Free-form discussion in Clubhouse stories
+All Tilters are encouraged to collaborate in discussing business initiatives and ideas in a free-form fashion, with no strict process, no specific timelines, and no specific implementation commitments. Tilters should prefer discussing ideas in Clubhouse stories, linking ideas together, thus building a web of good ideas that are easily searchable for posterity.
+
+### Defining high-level business initiatives with Epics
+
+
+
+All Tilters are encouraged to collaborate in defining high-level business initiatives (Clubhouse epics) over time. This is an ongoing task with no specific timelines and no strict process. Tilter should prefer discussing ideas in Clubhouse stories and epics. Victor is responsible for ensuring that the backlog of epics is continually full. There should be no shortage of epics.
 
 ### Incrementally solving business problems facilitated by DRIs
 When a Tilt engineer is free, they should pick a high priority epic to work on and make themself the sole owner of the epic. The engineer should find other folks to collaborate on the epic as needed, but they are the [DRI](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4) (directly responsible individual) for driving the epic to completion. There should be at most one owner on any epic, and the owner is the DRI. More below on completing an epic. 
@@ -19,11 +25,17 @@ The purpose of a single epic is **not** to completely solve a business problem. 
 
 After the epic is completed, the engineer should find the next epic to work on, either as a DRI owner, or as a collaborator. Engineers should self-organize and coordinate timelines ad hoc when picking epics. There are no stable teams and no timeboxed sprints and no synced sprints across teams. Engineers should avoid working on multiple epics concurrently. 
 
+### Epic states
+Epics are in one of three states: `Unstarted`, `In Progress`, `Closed`. When an epic is actively being worked on, it should be in the `In Progres` state. When it is completed, it should be in the `Closed` state.
+
+### DRIs as epic owners
+Each epic has at most one owner, who is the the DRI for that epic. The DRI 
+
 ### Example
 For example, suppose usability research suggests that the Tilt Web UI right sidebar is difficult for users to learn. Two engineers develop some ideas to iterate on the existing designs in order to address the problems. But they discover that it's a better idea to first re-architect some of the frontend JavaScript and CSS to accommodate the design changes, repaying some previously incurred tech debt. In this case, the first epic's scope would simply be non-user facing code re-architecture work, that doesn't have immediate user impact, but contributes to solving the usability problem indirectly as an incremental first step. The engineers may work on the second epic right after the first one is done, or it may be given to another team, or simply deferred to a future time. By scoping work to smaller units, Tilt is more flexible in prioritizing whatever is best at (almost) any moment of time as a small organization.
 
 ### Finishing an epic with acceptance criteria
-For an epic to be completed (and marked as such in Clubhouse), the epic description needs to contain the following as acceptance criteria. Copy and paste the template below into the epic description, and update it accordingly. When a section is done, replace `:white_small_square:` with `:white_check_mark:` to indicate it is done (or explain why the section is not applicable).
+For an epic to be completed (and marked as `Closed` in Clubhouse), the epic description needs to contain the following as acceptance criteria. Copy and paste the template below into the epic description, and update it accordingly. When a section is done, replace `:white_small_square:` with `:white_check_mark:` to indicate it is done (or explain why the section is not applicable).
 
 ```
 # Acceptance criteria
