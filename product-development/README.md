@@ -49,6 +49,7 @@ The purpose of a single epic is _not_ to completely solve a business problem. Ra
 - The DRI is responsible for maintaining the epic state, description, and attached stories updated as the single source of truth of overall work status, at least on a daily basis.
 - The acceptance criteria sections are _especially critical_, including presenting the problem and final implementation in a company meeting.
 - The DRI is responsible for reducing scope if additional work is discovered.
+- The DRI is responsible for driving the epic to completion.
   
 ### Example
 For example, suppose usability research suggests that the Tilt Web UI right sidebar is difficult for users to learn. Two engineers develop some ideas to iterate on the existing designs in order to address the problems. But they discover that it's a better idea to first re-architect some of the frontend JavaScript and CSS to accommodate the design changes, repaying some previously incurred tech debt. In this case, the first epic's scope would simply be non-user facing code re-architecture work, that doesn't have immediate user impact, but contributes to solving the usability problem indirectly as an incremental first step. The engineers may work on the second epic right after the first one is done, or it may be given to another team, or simply deferred to a future time. By scoping work to smaller units, Tilt is more flexible in prioritizing whatever is best at (almost) any moment of time as a small organization.
