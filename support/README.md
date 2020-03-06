@@ -109,3 +109,19 @@ should:
 
 - Meet for 15 minutes with the next exterminator, and ask for clarifying
   questions on the form results
+
+## Support Load
+
+Over time, we want to be able to track the overall support load on the
+exterminator so we can adjust the process. We use two main metrics:
+
+- The exterminator handoff form asks for a count of how many unique users 
+  asked a question in the Slack channel each day.
+
+- For all new Github issues that we want to track, 
+  the exterminator should run the github -> clubhouse import script [TBD].
+  The script will add an exterminator label so that we can count
+  the number of exterminator-created tickets each week.
+  
+Nick is responsible for tracking these two metrics over time.
+
