@@ -23,14 +23,23 @@ Victor is responsible for ensuring that the [backlog of unstarted epics](https:/
 
 <img src="images/epics-priority.png" height="100" />
 
-## Picking the highest priority epic
-When a Tilt engineer is free, they should pick the highest priority unstarted epic to work on and make themself the _sole_ owner of the epic. This indicates that they are the [DRI](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4) for the epic. The engineer may find other folks to collaborate on the epic as needed, but they are the DRI for driving the epic to completion. There should be at most one owner on any epic, and that owner is the DRI.
+## Picking an epic to work on
+When a Tilt engineer is free, they should pick a high priority unstarted epic to work on, or join another engineer (or engineers) already working on an `In Progress` epic. Engineers should self-organize and coordinate timelines ad hoc when picking epics. There are no stable teams, no timeboxed sprints, and no synced sprints across teams. Engineers should consider:
+- Working in at least pairs on a given epic, to better facilitate product and code collaboration.
+- Not working on too many epics concurrently, in order to focus on a smaller number of tasks to reduce context-switching.
 
-The epic may have a fairly broad initial business problem. The engineer(s) should carve out and define a smaller problem, and spec out a solution that can be accomplished within a target of **_7 business days_** (counted from when the epic moves into `In Progress`, more below on states). If the solution cannot be finished within 7 business days, keep reducing scope. The epic description should be updated with the smaller scope and acceptance criteria, and the engineer(s) should create additional epics and/or stories to capture the future work.
+When work has started on an epic, it is moved into the `In Progress` state and a single owner is assigned to it. That is, `In Progress` epic must have exactly one owner. That owner is the [DRI](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4) for the epic, who is responsible for driving the epic to completion. An engineer should be the DRI of at most one `In Progress` epic at any given time.
+
+## Picking high priority unstarted epics
+When picking a high priority unstarted epic, look at the first few epics at the top of the [backlog](https://app.clubhouse.io/windmill/epics?state_ids=500008016&state_ids=500008001) and choose a sensible one based on at least these example scenarios:
+- My skill set is better suited for the third highest priority epic, so I'll pick that one, and save the first two for other folks who can finish them more quickly.
+- The fourth highest priority epic looks to be small so I'll pick that one first and finish it as a quick win before the end of the week.
+- My teammate has expertise in the highest priority epic and I'd like to collaborate and learn from them. But they aren't free just yet. I'll work on the third highest priority epic for now and plan to come back to pair with my teammate next week.
+
+## Reducing scope
+A given epic may have a fairly broad initial business problem. The engineer(s) should carve out and define a smaller problem, and spec out a solution that can be accomplished within a target of **_7 business days_** (counted from when the epic moves into `In Progress`, more below on states). If the solution cannot be finished within 7 business days, keep reducing scope. The epic description should be updated with the smaller scope and acceptance criteria, and the engineer(s) should create additional epics and/or stories to capture the future work. Alternatively, the engineer(s) may create a separate epic with the smaller scope and start work on that one instead (putting the original epic back into the backlog).
 
 The purpose of a single epic is _not_ to completely solve a business problem. Rather, completing an epic should likely achieve incremental progress at addressing a single problem, adding incremental user value as a result. In some cases, any realized user value may only appear in future epics. 
-
-After the epic is completed, the engineer should find the next epic to work on, either as a DRI owner, or as a collaborator. Engineers should self-organize and coordinate timelines ad hoc when picking epics. There are no stable teams, no timeboxed sprints, and no synced sprints across teams. Engineers should be the DRI for at most one epic at a given time. But an engineer may be contributing to multiple epics concurrently.
 
 ### Epic owner and epic states
 - An epic is in one of three states: `Unstarted`, `In Progress`, `Closed`. 
