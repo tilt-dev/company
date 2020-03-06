@@ -30,7 +30,7 @@ When a Tilt engineer is free, they should pick a high priority unstarted epic to
 
 When work has started on an epic, it is moved into the `In Progress` state and a single owner is assigned to it. That is, `In Progress` epic must have exactly one owner. That owner is the [DRI](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4) for the epic, who is responsible for driving the epic to completion. An engineer should be the DRI of at most one `In Progress` epic at any given time.
 
-## Picking high priority unstarted epics
+## Picking a high priority unstarted epic
 When picking a high priority unstarted epic, look at the first few epics at the top of the [backlog](https://app.clubhouse.io/windmill/epics?state_ids=500008016&state_ids=500008001) and choose a sensible one based on at least these example scenarios:
 - My skill set is better suited for the third highest priority epic, so I'll pick that one, and save the first two for other folks who can finish them more quickly.
 - The fourth highest priority epic looks to be small so I'll pick that one first and finish it as a quick win before the end of the week.
