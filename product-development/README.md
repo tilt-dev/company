@@ -43,20 +43,20 @@ A given epic may have a fairly broad initial business problem. The engineer(s) s
 
 The purpose of a single epic is _not_ to completely solve a business problem. Rather, completing an epic should likely achieve incremental progress at addressing a single problem, adding incremental user value as a result. In some cases, any realized user value may only appear in future epics. 
 
-### Epic owner and epic states
+## Epic owner and epic states
 - An epic is in one of three states: `Unstarted`, `In Progress`, `Closed`. 
 - If an epic is in `In Progress` or `Closed`, it must have exactly one owner, who is the DRI.
 
-### DRI responsibilties
+## DRI responsibilties
 - The DRI is responsible for maintaining the epic state, description, and attached stories updated as the single source of truth of overall work status, at least on a daily basis.
 - The acceptance criteria sections are _especially critical_, including presenting the problem and final implementation in a company meeting.
 - The DRI is responsible for reducing scope if additional work is discovered.
 - The DRI is responsible for driving the epic to completion.
   
-### Example
+## Example
 For example, suppose usability research suggests that the Tilt Web UI right sidebar is difficult for users to learn. Two engineers develop some ideas to iterate on the existing designs in order to address the problems. But they discover that it's a better idea to first re-architect some of the frontend JavaScript and CSS to accommodate the design changes, repaying some previously incurred tech debt. In this case, the first epic's scope would simply be non-user facing code re-architecture work, that doesn't have immediate user impact, but contributes to solving the usability problem indirectly as an incremental first step. The engineers may work on the second epic right after the first one is done, or it may be given to another team, or simply deferred to a future time. By scoping work to smaller units, Tilt is more flexible in prioritizing whatever is best at (almost) any moment of time as a small organization.
 
-### Finishing an epic with acceptance criteria
+## Finishing an epic with acceptance criteria
 For an epic to be completed (and marked as `Closed` in Clubhouse), the epic description needs to have all the following acceptance criteria marked as completed. Copy and paste the template below into the epic description, and update it accordingly. When a section is done, replace `:white_small_square:` with `:white_check_mark:` to indicate it is done (or explain why the section is not applicable).
 
 ```
@@ -98,7 +98,7 @@ Here is an example of how an epic description should look when all the acceptanc
 
 <img src="images/epic-acceptance-criteria-example.png" height="650" />
 
-### Weekly epics meeting
+## Weekly epics meeting
 
 There is a weekly meeting for discussing epics where all Tilters are optionally invited. Each meeting will be recorded (with permission from participants) and shared internally for all Tilters to watch if they want, [listed here](https://docs.google.com/document/d/173tL_bu4hs73VXo5kHxU0rDSXFlmKS-gpMJokpcdWE0/edit). Tilters should add agenda topics per the following categories, preferably prior to the meeting starting. If there are no agenda topics, the meeting is cancelled for that week.
 
