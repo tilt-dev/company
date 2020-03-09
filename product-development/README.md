@@ -21,6 +21,8 @@ All Tilters are encouraged to collaborate in _definining_ high-level business in
 
 Victor is responsible for ensuring that the [backlog of unstarted epics](https://app.clubhouse.io/windmill/epics?state_ids=500008016&state_ids=500008001) is continually full and that epics are increasingly being better defined. There should be no shortage of epics. Dan B and Nick and Victor are responsible for maintaining the priority of the backlog (higher priority toward the top in the Clubhouse view, when the triangle is pointing down).
 
+Anyone advocating for an epic's priority (or priorities in general) should @-mention Victor in an epic and/or raise a discussion in the [weekly epics meeting](https://github.com/windmilleng/company/blob/master/product-development/README.md#weekly-epics-meeting).
+
 <img src="images/epics-priority.png" height="100" />
 
 ## Picking an epic to work on
@@ -71,7 +73,7 @@ See [Product Development](https://github.com/windmilleng/company-private/blob/ma
 ## :white_small_square: Solution scope, final implementation, and demo
 - We decided to add tooltips to all the different statuses in the sidebar.
 - Screenshots, gifs, or video
-- Link to company meeting, where problem and final implementation were presented
+- Link to [weekly epics meeting](https://github.com/windmilleng/company/blob/master/product-development/README.md#weekly-epics-meeting), where problem and final implementation were presented
 - As a Tilt user, I should be able to experience this change (e.g. know how to use this new feature), after reading this section.
 
 ## :white_small_square: Updated docs and blog posts, if applicable
@@ -95,3 +97,12 @@ See [Product Development](https://github.com/windmilleng/company-private/blob/ma
 Here is an example of how an epic description should look when all the acceptance criteria have been completed.
 
 <img src="images/epic-acceptance-criteria-example.png" height="650" />
+
+### Weekly epics meeting
+
+There is a weekly meeting related to present epics. Each meeting will be recorded (with permission from participants) and shared internally for all Tilters to watch if they want, [listed here](https://docs.google.com/document/d/173tL_bu4hs73VXo5kHxU0rDSXFlmKS-gpMJokpcdWE0/edit). Tilters should add agenda topics per the following categories. If there are no agenda topics, the meeting is cancelled for that week.
+
+Agenda topics include:
+- DRI links to and presents their epic, including problem and final implementation, preferably with a demo.
+- Victor presents epics (new or otherwise) that have recently moved to high priority.
+- Somebody advocates for an epic to be high priority or otherwise discusses epic priorities.
