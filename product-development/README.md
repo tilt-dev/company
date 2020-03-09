@@ -49,7 +49,7 @@ The purpose of a single epic is _not_ to completely solve a business problem. Ra
 
 ## DRI responsibilties
 - The DRI is responsible for maintaining the epic state, description, and attached stories updated as the single source of truth of overall work status, at least on a daily basis.
-- The acceptance criteria sections are _especially critical_, including presenting the problem and final implementation in a company meeting.
+- The acceptance criteria sections are _especially critical_, including presenting the problem and final implementation in the [weekly epics meeting](#weekly-epics-meeting).
 - The DRI is responsible for reducing scope if additional work is discovered.
 - The DRI is responsible for driving the epic to completion.
   
