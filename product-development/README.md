@@ -100,7 +100,7 @@ Here is an example of how an epic description should look when all the acceptanc
 
 ### Weekly epics meeting
 
-There is a weekly meeting related to present epics. Each meeting will be recorded (with permission from participants) and shared internally for all Tilters to watch if they want, [listed here](https://docs.google.com/document/d/173tL_bu4hs73VXo5kHxU0rDSXFlmKS-gpMJokpcdWE0/edit). Tilters should add agenda topics per the following categories. If there are no agenda topics, the meeting is cancelled for that week.
+There is a weekly meeting for discussing epics where all Tilters are optionally invited. Each meeting will be recorded (with permission from participants) and shared internally for all Tilters to watch if they want, [listed here](https://docs.google.com/document/d/173tL_bu4hs73VXo5kHxU0rDSXFlmKS-gpMJokpcdWE0/edit). Tilters should add agenda topics per the following categories, preferably prior to the meeting starting. If there are no agenda topics, the meeting is cancelled for that week.
 
 Agenda topics include:
 - DRI links to and presents their epic, including problem and final implementation, preferably with a demo.
