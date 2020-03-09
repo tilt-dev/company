@@ -26,7 +26,7 @@ Anyone advocating for an epic's priority (or priorities in general) should @-men
 <img src="images/epics-priority.png" height="100" />
 
 ## Picking an epic to work on
-When a Tilt engineer is free, they should pick a high priority unstarted epic to work on, or join another engineer (or engineers) already working on an `In Progress` epic. Engineers should self-organize and coordinate timelines ad hoc when picking epics. There are no stable teams, no timeboxed sprints, and no synced sprints across teams. Engineers should consider:
+When a Tilt engineer is free, they should [pick a high priority unstarted epic](#picking-a-high-priority-unstarted-epic) to work on, or join another engineer (or engineers) already working on an `In Progress` epic. Engineers should self-organize and coordinate timelines ad hoc when picking epics. There are no stable teams, no timeboxed sprints, and no synced sprints across teams. Engineers should consider:
 - Working in at least pairs on a given epic, to better facilitate product and code collaboration, avoiding working in siloes.
 - Not working on too many epics concurrently, in order to focus on a smaller number of tasks to reduce context-switching.
 
