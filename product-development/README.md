@@ -43,7 +43,7 @@ A given epic may have a fairly broad initial business problem. The engineer(s) s
 
 The purpose of a single epic is _not_ to completely solve a business problem. Rather, completing an epic should likely achieve incremental progress at addressing a single problem, adding incremental user value as a result. In some cases, any realized user value may only appear in future epics. 
 
-Certain initiatives may require a sustained effort of multiple epics to get to a place where folks are comfortable with the result. Tilters should therefore advocate for epics that close the gap of new but incomplete functionality, or fix tech debt, as per the [advocacy process outlined above](defining-high-level business-initiatives-with-clubhouse epics).
+Certain initiatives may require a sustained effort of multiple epics to get to a place where folks are comfortable with the result. Tilters should therefore advocate for epics that close the gap of new but incomplete functionality, or fix tech debt, as per the [advocacy process outlined above](#defining-high-level business-initiatives-with-clubhouse epics).
 
 ## Epic owner and epic states
 - An epic is in one of three states: `Unstarted`, `In Progress`, `Closed`. 
