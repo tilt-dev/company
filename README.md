@@ -1,5 +1,5 @@
 # What is this?
-This is the Tilt company handbook. It documents _how_ we work at Tilt. It is inspired by other companies' public handbooks:
+This is the Tilt company handbook. It documents _how_ we operate at Tilt. It is inspired by other companies' public handbooks:
 
 - [Aula](https://www.notion.so/The-Aula-Brain-4da091a8797840108311d99815b3b36f)
 - [Basecamp](https://basecamp.com/handbook) - [GitHub repo](https://github.com/basecamp/handbook)
