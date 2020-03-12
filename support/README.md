@@ -119,7 +119,7 @@ exterminator so we can adjust the process. We use two main metrics:
   asked a question in the Slack channel each day.
 
 - For all new Github issues that we want to track, 
-  the exterminator should run the github -> clubhouse import script [TBD].
+  the exterminator should run the [**github -> clubhouse import script**](https://github.com/windmilleng/exterminator).
   The script will add an exterminator label so that we can count
   the number of exterminator-created tickets each week.
   
