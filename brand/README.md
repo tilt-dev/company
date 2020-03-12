@@ -2,6 +2,10 @@
 
 Tilt is a young company. [Tilt](https://docs.tilt.dev/) and [Tilt Cloud](https://cloud.tilt.dev/) are still very early in their product lifecycle. As such, Tilt's brand is still maturing. And so we're using this place to collect various brand elements as we grow.
 
+## Name
+
+We like puns, and Tilt is a [Don Quixote reference](https://docs.tilt.dev/product_faq.html#why-did-you-call-it-tilt).
+
 ## Tilt Cloud
 
 Tilt Cloud is two words, not one CamelCase word. One word CamelCase is more prevalent when the second word isn't descriptive, like GitHub or GitLab.
