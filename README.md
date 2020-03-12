@@ -23,6 +23,7 @@ Once a PR is merged, the process is officially changed and Tilters should [abide
 
 # Table of contents
 
+- [Brand](/brand/README.md)
 - [Development](/development/README.md)
 - [Donations](/donations/README.md)
 - [Expenses](/expenses/README.md)
