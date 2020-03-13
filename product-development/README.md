@@ -106,10 +106,11 @@ Here is an example of how an epic description should look when all the acceptanc
 <img src="images/epic-acceptance-criteria-example.png" height="650" />
 
 ## Weekly epics meeting
-
 There is a weekly meeting for discussing epics where all Tilters are optionally invited. Each meeting will be recorded (with permission from participants) and shared internally for all Tilters to watch if they want, [listed here](https://docs.google.com/document/d/173tL_bu4hs73VXo5kHxU0rDSXFlmKS-gpMJokpcdWE0/edit). Tilters should add agenda topics per the following categories, preferably prior to the meeting starting. If there are no agenda topics, the meeting is cancelled for that week.
 
 Agenda topics include:
 - DRI links to and presents their epic, including problem and final implementation, preferably with a demo. (This presentation is part of an epic's [acceptance criteria](#finishing-an-epic-with-acceptance-criteria).)
-- Victor presents epics (new or otherwise) that have recently moved to high priority.
 - Somebody advocates for an epic to be high priority or otherwise discusses epic priorities.
+
+## Weekly company meeting
+Victor will use the weekly company meeting to highlight epics (new or otherwise) that have recently moved to high priority or of general interest.
