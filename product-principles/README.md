@@ -7,3 +7,5 @@ We believe that Tilt should be usable without reading a separate manual. We stri
 
 ## Declarative over imperative
 Inspired by modern container orchestration like Kubernetes, Tilt is designed with a _declarative_ interface in mind. Users are encouraged to describe their desired local development system state in a Tiltfile, and Tilt will approach that state quickly, or surface errors explaining why it's not possible. We want teams focused on the hard work of building value-add apps for their business, and not struggle with the messiness of many systems and services, and their interdependencies. Tilt should simplify that for you.
+
+At the same time, we chose Starlark (a Python dialect) as the language of Tiltfiles. Tilt thus offers users to progressively take advantage of the flexibility of Tilt with _imperative_ programming, in a simple language that users can quickly recognize and thus be productive with.
