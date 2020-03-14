@@ -6,4 +6,4 @@ As we scale Tilt the company and the product, we will explore how to build a pro
 We believe that Tilt should be usable without reading a separate manual. We strive to design usable interfaces, even for complex features with powerful functionality, without relying on subsequent documentation as a crutch for poor design. We prefer to use our [documentation](https://docs.tilt.dev/) to provide context on broad features, walkthroughs, and API details.
 
 ## Declarative over imperative
-Inspired by modern container orchestration like Kubernetes, Tilt is designed with a declarative interface in mind.
+Inspired by modern container orchestration like Kubernetes, Tilt is designed with a _declarative_ interface in mind. Users are encouraged to describe their desired local development system state in a Tiltfile, and Tilt will approach that state quickly, or surface errors explaining why it's not possible. We want teams focused on the hard work of building value-add apps for their business, and not struggle with the messiness of many systems and services, and their interdependencies. Tilt should simplify that for you.
