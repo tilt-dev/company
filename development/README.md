@@ -23,3 +23,6 @@ Tilters should regularly assign bugs for themselves to fix. A good rule of thumb
 
 ### Pick a high priority bug
 When picking a bug to work on, Tilters are encouraged to pick a high priority bug that they can finish in a sensible time period for that bug. The [Bugs Clubhouse space](https://app.clubhouse.io/windmill/stories/space/4729/bugs) has higher priority bugs toward the top of columns.
+
+### Close associated GitHub issue
+If the bug you have fixed is logged as a GitHub issue (in addition to being logged as a Clubhouse story, which it should already have been), be sure to close the GitHub issue, preferably with a link to the pull request fix, helping inform external users that the bug has now been fixed.
