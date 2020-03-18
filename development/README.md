@@ -17,3 +17,11 @@ We believe in shipping a quality experience for both Tilt and Tilt Cloud. So Til
 
 ### Exterminator assigns bugs
 The [Exterminator](../user-support/README.md) is responsible triaging user support requests, including bugs. The Exterminator may fix a bug themself, or assign another Tilter to fix, coordinating appropriate people and circumstances.
+
+### Assign yourself a bug
+Tilters should regularly fix bugs. A good rule of thumb is to fix two bugs after you have finished working on an [epic](../product-development/README.md#picking-an-epic-to-work-on), whether as the DRI or a collaborator, before moving on to the next epic.
+
+### Pick a high priority bug
+When picking a bug to work on, Tilters are encouraged to pick a high priority bug that they can finish in a sensible time period for that bug. The [Bugs Clubhouse space](https://app.clubhouse.io/windmill/stories/space/4729/bugs) has higher priority bugs toward the top of columns.
+
+
