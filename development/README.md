@@ -23,5 +23,3 @@ Tilters should regularly assign bugs for themselves to fix. A good rule of thumb
 
 ### Pick a high priority bug
 When picking a bug to work on, Tilters are encouraged to pick a high priority bug that they can finish in a sensible time period for that bug. The [Bugs Clubhouse space](https://app.clubhouse.io/windmill/stories/space/4729/bugs) has higher priority bugs toward the top of columns.
-
-
