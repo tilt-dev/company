@@ -88,7 +88,7 @@ For high priority requests, the exterminator should assign someone to start work
 immediately.
 
 Low priority requests should be tracked in Clubhouse. Teams should make their own
-judgements about how to prioritize them. 
+judgements about how to prioritize them.
 
 If the exterminator sees a request that they know how to fix quickly, they
 should consider fixing it right away.
@@ -115,13 +115,15 @@ should:
 Over time, we want to be able to track the overall support load on the
 exterminator so we can adjust the process. We use two main metrics:
 
-- The exterminator handoff form asks for a count of how many unique users 
-  asked a question in the Slack channel each day.
+- The exterminator handoff form asks for a count of how many unique users
+  filed a Github issue or asked a question in the Slack channel each day.
+  (As the goal of this metric is to track exterminator support load, this
+  number should not reflect Tilter-initiated Github issues.)
 
-- For all new Github issues that we want to track, 
+- For all new Github issues that we want to track,
   the exterminator should run the [**github -> clubhouse import script**](https://github.com/windmilleng/exterminator).
   The script will add an exterminator label so that we can count
   the number of exterminator-created tickets each week.
-  
+
 Nick is responsible for tracking these two metrics over time.
 
