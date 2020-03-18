@@ -117,7 +117,8 @@ exterminator so we can adjust the process. We use two main metrics:
 
 - The exterminator handoff form asks for a count of how many unique users
   filed a Github issue or asked a question in the Slack channel each day.
-  (This number should not reflect Tilters opening Github issues.)
+  (As the goal of this metric is to track exterminator support load, this
+  number should not reflect Tilter-initiated Github issues.)
 
 - For all new Github issues that we want to track,
   the exterminator should run the [**github -> clubhouse import script**](https://github.com/windmilleng/exterminator).
