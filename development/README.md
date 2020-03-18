@@ -28,6 +28,6 @@ When picking a bug to work on, Tilters are encouraged to pick a high priority bu
 If the bug you have fixed is logged as a GitHub issue (in addition to being logged as a Clubhouse story, which it should already have been), be sure to close the GitHub issue, preferably with a link to the pull request fix, helping inform external users that the bug has now been fixed.
 
 ## Metrics
-Extracting data from Clubhouse (by [exporting all stories](https://help.clubhouse.io/hc/en-us/articles/360021168791-CSV-Export) from the single project we use), we track the number of bugs created, number of bugs fixed, and the total number of open bugs, over time. Note that the total number of open bugs is impacted by created bugs, bugs fixed, non-bugs being converted to bugs, and bugs being converted to non-bugs. So the week over week change of total number of bugs is not only impacted by bugs created and bugs fixed.
+Extracting data from Clubhouse (by [exporting all stories](https://help.clubhouse.io/hc/en-us/articles/360021168791-CSV-Export) from the single project we use), we track the number of bugs created, number of bugs fixed, and the total number of open bugs, over time. Note that open bugs is impacted by bugs created, bugs fixed, non-bugs being converted to bugs, and bugs being converted to non-bugs. So the week over week change of open bugs is not only impacted by bugs created and bugs fixed.
 
 See charts and data in the [Google sheet](https://docs.google.com/spreadsheets/d/13L7Yg4x5lDCwevwVbzNJjMW_sLQxBZj73CuFlC_vkV8/).
