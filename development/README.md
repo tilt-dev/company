@@ -16,10 +16,10 @@ All known open bugs should be listed in the [Bugs Clubhouse space](https://app.c
 We believe in shipping a quality experience for both Tilt and Tilt Cloud. So Tilters are encouraged to use their own judgment in picking up a bug to fix at anytime, if they think it's the best use of their time at that moment, ahead of other priorities. Nobody should ever need permission to fix a bug.
 
 ### Exterminator assigns bugs
-The [Exterminator](../user-support/README.md) is responsible triaging user support requests, including bugs. The Exterminator may fix a bug themself, or assign another Tilter to fix, coordinating appropriate people and circumstances.
+The [Exterminator](../user-support/README.md#exterminator) is responsible for triaging user support requests, including bugs. The Exterminator may fix a bug themself, or assign another Tilter to fix it, coordinating appropriate people and circumstances.
 
 ### Assign yourself a bug
-Tilters should regularly fix bugs. A good rule of thumb is to fix two bugs after you have finished working on an [epic](../product-development/README.md#picking-an-epic-to-work-on), whether as the DRI or a collaborator, before moving on to the next epic.
+Tilters should regularly assign themself to fix bugs. A good rule of thumb is to fix two bugs after you have finished working on an [epic](../product-development/README.md#picking-an-epic-to-work-on), whether as the DRI or a collaborator, before moving on to the next epic.
 
 ### Pick a high priority bug
 When picking a bug to work on, Tilters are encouraged to pick a high priority bug that they can finish in a sensible time period for that bug. The [Bugs Clubhouse space](https://app.clubhouse.io/windmill/stories/space/4729/bugs) has higher priority bugs toward the top of columns.
