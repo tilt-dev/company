@@ -15,9 +15,9 @@ First response in an hour (during business time); updates to user until either s
 
 Within a day:
 
-- Email inbox (hi@tilt.dev) (https://groups.google.com/a/tilt.dev/forum/#!forum/hi)
+- Email inbox [hi@tilt.dev](https://groups.google.com/a/tilt.dev/forum/#!forum/hi)
 
-- DMs or Mentions to (@tilt_dev)[https://twitter.com/tilt_dev]
+- DMs or Mentions to [@tilt_dev](https://twitter.com/tilt_dev)
 
 - All new users should be researched and entered into the CRM. If they’re a
   promising lead, the exterminator should reach out to them.
