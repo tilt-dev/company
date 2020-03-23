@@ -91,8 +91,8 @@ When a section is done, replace :white_small_square: with :white_check_mark:
 - Links
 
 ## :white_small_square: Out of scope, related, and/or future work, if applicable
-- Clubhouse story for adding additional new statuses and colors
-- We are considering surfacing some of this status information to TiltCloud in real-time. See this Clubhouse story.
+- E.g. Clubhouse story for adding additional new statuses and colors
+- E.g. we are considering surfacing some of this status information to Tilt Cloud in real-time. See this Clubhouse story.
 
 ## :white_small_square: Follow up customer conversations, if applicable
 - Customer feedback on the change introduced
