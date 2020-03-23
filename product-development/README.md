@@ -71,14 +71,14 @@ For an epic to be completed (and marked as `Closed` in Clubhouse), the epic desc
 See [Product Development](https://github.com/windmilleng/company/blob/master/product-development/README.md) for details.
 
 ## :white_small_square: Problem statement and references
-- Tilt users find it difficult to understand the colors in the Tilt Web UI sidebar.
+- E.g. Tilt users find it difficult to understand the colors in the Tilt Web UI sidebar.
 - See the customer conversations here:
   - Google doc
   - Slack conversation
   - Clubhouse story
 
 ## :white_small_square: Solution scope, final implementation, and demo
-- We decided to add tooltips to all the different statuses in the sidebar.
+- E.g. We decided to add tooltips to all the different statuses in the sidebar.
 - Screenshots, gifs, or video
 - Link to [weekly epics meeting](https://github.com/windmilleng/company/blob/master/product-development/README.md#weekly-epics-meeting), where problem and final implementation were presented
 - As a Tilt user, I should be able to experience this change (e.g. know how to use this new feature), after reading this section.
