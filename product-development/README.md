@@ -72,6 +72,8 @@ For an epic to be completed (and marked as `Closed` in Clubhouse), the epic desc
 # Acceptance criteria
 See [Product Development](https://github.com/windmilleng/company/blob/master/product-development/README.md) for details.
 
+When a section is done, replace :white_small_square: with :white_check_mark:
+
 ## :white_small_square: Problem statement and references
 - E.g. Tilt users find it difficult to understand the colors in the Tilt Web UI sidebar.
 - See the customer conversations here:
