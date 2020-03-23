@@ -67,6 +67,8 @@ For example, suppose usability research suggests that the Tilt Web UI right side
 For an epic to be completed (and marked as `Closed` in Clubhouse), the epic description needs to have all the following acceptance criteria marked as completed. Copy and paste the template below into the epic description, and update it accordingly. When a section is done, replace `:white_small_square:` with `:white_check_mark:` to indicate it is done (or explain why the section is not applicable).
 
 ```
+---
+
 # Acceptance criteria
 See [Product Development](https://github.com/windmilleng/company/blob/master/product-development/README.md) for details.
 
