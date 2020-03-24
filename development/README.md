@@ -22,7 +22,8 @@ The [Exterminator](../user-support/README.md#exterminator) is responsible for tr
 Tilters should regularly assign bugs for themselves to fix. A good rule of thumb is to fix two bugs after you have finished working on an [epic](../product-development/README.md#picking-an-epic-to-work-on) (whether as the DRI or a collaborator), before moving on to the next epic.
 
 ### Pick a high priority bug
-When picking a bug to work on, Tilters are encouraged to pick a high priority bug that they can finish in a sensible time period for that bug. The [Bugs Clubhouse space](https://app.clubhouse.io/windmill/stories/space/4729/bugs) has higher priority bugs toward the top of columns.
+When picking a bug to work on, Tilters are encouraged to pick a high priority bug that they can finish in a sensible time period for that bug. The [Bugs Clubhouse space](https://app.clubhouse.io/windmill/stories/space/4729/bugs) has higher priority bugs toward the top of columns. 
+If a bug cannot be fixed within a day or two, consider creating a more thorough plan (possibly [creating an epic to track it](../product-development/README.md#defining-high-level-business-initiatives-with-clubhouse-epics)) and consulting with other Tilters, before beginning the work.
 
 ### Close associated GitHub issue
 If the bug you have fixed is logged as a GitHub issue (in addition to being logged as a Clubhouse story, which it should already have been), be sure to close the GitHub issue, preferably with a link to the pull request fix, helping inform external users that the bug has now been fixed.
