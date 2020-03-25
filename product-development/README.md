@@ -36,7 +36,7 @@ When work has started on an epic, it is moved into the `In Progress` state and a
 Dan and Nick will typically not be DRIs on epics, in order to encourage all Tilters to have more responsibility for innovation and execution of day to day work.
 
 ## Picking a high priority unstarted epic
-When picking a high priority unstarted epic, look at the first few epics at the top of the [backlog](https://app.clubhouse.io/windmill/epics?state_ids=500008016&state_ids=500008001) and choose a sensible one based on at least these example scenarios:
+When picking a high priority unstarted epic, look at the epics _above the line_ in the [backlog](https://app.clubhouse.io/windmill/epics?state_ids=500008016&state_ids=500008001) and choose a sensible one based on at least these example scenarios:
 - My skill set is better suited for the third highest priority epic, so I'll pick that one, and save the first two for other folks who can finish them more quickly.
 - The fourth highest priority epic looks to be small so I'll pick that one first and finish it as a quick win before the end of the week.
 - My teammate has expertise in the highest priority epic and I'd like to collaborate and learn from them. But they aren't free just yet. I'll work on the third highest priority epic for now and plan to come back to pair with my teammate next week.
