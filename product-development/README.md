@@ -88,7 +88,7 @@ When a section is done, replace :white_small_square: with :white_check_mark:
 ## :white_small_square: Solution scope, final implementation, and demo
 - E.g. We decided to add tooltips to all the different statuses in the sidebar.
 - Screenshots, gifs, or video
-- Link to [weekly epics meeting](https://github.com/windmilleng/company/blob/master/product-development/README.md#weekly-epics-meeting), where problem and final implementation were presented
+- Scheduled a presentation of the epic and a demo of any new functionality. Can be in [weekly epics meeting](https://github.com/windmilleng/company/blob/master/product-development/README.md#weekly-epics-meeting). Add your presentation and demo as [an agenda item here](https://docs.google.com/document/d/173tL_bu4hs73VXo5kHxU0rDSXFlmKS-gpMJokpcdWE0/).
 - As a Tilt user, I should be able to experience this change (e.g. know how to use this new feature), after reading this section.
 
 ## :white_small_square: Updated docs and blog posts, if applicable
