@@ -43,7 +43,7 @@ When picking a high priority unstarted epic, look at the epics _above the line_ 
 
 Dan B and Nick, and Victor are responsible for setting the location of the line.
 
-<img src="images/above-the-line.png" height="250" />
+<img src="images/above-the-line.png" height="150" />
 
 ## Reducing scope
 A given epic may have a fairly broad initial business problem. The engineer(s) should carve out and define a smaller problem, and spec out a solution that can be accomplished within a target of **_7 business days_** (counted from when the epic moves into `In Progress`, more below on states). If the solution cannot be finished within 7 business days, keep reducing scope. The epic description should be updated with the smaller scope and acceptance criteria, and the engineer(s) should create additional epics and/or stories to capture the future work. Alternatively, the engineer(s) may create a separate epic with the smaller scope and start work on that one instead (putting the original epic back into the backlog).
