@@ -19,7 +19,7 @@ All Tilters are encouraged to collaborate in _definining_ high-level business in
 - Solution scope
 - Attached stories with relevant ideas, including designs
 
-Victor is responsible for ensuring that the [backlog of unstarted epics](https://app.clubhouse.io/windmill/epics?state_ids=500008016&state_ids=500008001) is continually full and that epics are increasingly being better defined. There should be no shortage of epics. Dan B and Nick and Victor are responsible for maintaining the priority of the backlog (higher priority toward the top in the Clubhouse view, when the triangle is pointing down).
+Victor is responsible for ensuring that the [backlog of unstarted epics](https://app.clubhouse.io/windmill/epics?state_ids=500008016&state_ids=500008001) is continually full and that epics are increasingly being better defined. There should be no shortage of epics. Dan B and Nick, and Victor are responsible for maintaining the priority of the backlog (higher priority toward the top in the Clubhouse view, when the triangle is pointing down).
 
 Anyone advocating for an epic's priority (or priorities in general) should @-mention Victor in an epic and/or raise a discussion in the [weekly epics meeting](#weekly-epics-meeting).
 
@@ -36,10 +36,14 @@ When work has started on an epic, it is moved into the `In Progress` state and a
 Dan and Nick will typically not be DRIs on epics, in order to encourage all Tilters to have more responsibility for innovation and execution of day to day work.
 
 ## Picking a high priority unstarted epic
-When picking a high priority unstarted epic, look at the first few epics at the top of the [backlog](https://app.clubhouse.io/windmill/epics?state_ids=500008016&state_ids=500008001) and choose a sensible one based on at least these example scenarios:
+When picking a high priority unstarted epic, look at the epics _above the line_ in the [backlog](https://app.clubhouse.io/windmill/epics?state_ids=500008016&state_ids=500008001) and choose a sensible one based on at least these example scenarios:
 - My skill set is better suited for the third highest priority epic, so I'll pick that one, and save the first two for other folks who can finish them more quickly.
 - The fourth highest priority epic looks to be small so I'll pick that one first and finish it as a quick win before the end of the week.
 - My teammate has expertise in the highest priority epic and I'd like to collaborate and learn from them. But they aren't free just yet. I'll work on the third highest priority epic for now and plan to come back to pair with my teammate next week.
+
+Dan B and Nick, and Victor are responsible for setting the location of the line.
+
+<img src="images/above-the-line.png" height="150" />
 
 ## Reducing scope
 A given epic may have a fairly broad initial business problem. The engineer(s) should carve out and define a smaller problem, and spec out a solution that can be accomplished within a target of **_7 business days_** (counted from when the epic moves into `In Progress`, more below on states). If the solution cannot be finished within 7 business days, keep reducing scope. The epic description should be updated with the smaller scope and acceptance criteria, and the engineer(s) should create additional epics and/or stories to capture the future work. Alternatively, the engineer(s) may create a separate epic with the smaller scope and start work on that one instead (putting the original epic back into the backlog).
@@ -84,7 +88,7 @@ When a section is done, replace :white_small_square: with :white_check_mark:
 ## :white_small_square: Solution scope, final implementation, and demo
 - E.g. We decided to add tooltips to all the different statuses in the sidebar.
 - Screenshots, gifs, or video
-- Link to [weekly epics meeting](https://github.com/windmilleng/company/blob/master/product-development/README.md#weekly-epics-meeting), where problem and final implementation were presented
+- Scheduled a presentation of the epic and a demo of any new functionality. Can be in [weekly epics meeting](https://github.com/windmilleng/company/blob/master/product-development/README.md#weekly-epics-meeting). Add your presentation and demo as [an agenda item here](https://docs.google.com/document/d/173tL_bu4hs73VXo5kHxU0rDSXFlmKS-gpMJokpcdWE0/).
 - As a Tilt user, I should be able to experience this change (e.g. know how to use this new feature), after reading this section.
 
 ## :white_small_square: Updated docs and blog posts, if applicable
