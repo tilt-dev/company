@@ -3,11 +3,11 @@
 ## Exterminator
 
 Every week, we name an “exterminator” to own user support triage. They triage
-and assign bugs, monitor support channels for new leads, and manage releases.
+and assign bugs, monitor support channels, and manage releases.
 
 ### SLA
 
-First response in an hour (during business time); updates to user until either solved or triaged out:
+First response within 3 hours (during business time):
 
 - [Github - Tilt Issues](https://github.com/windmilleng/tilt/issues)
 
@@ -18,9 +18,6 @@ Within a day:
 - Email inbox [hi@tilt.dev](https://groups.google.com/a/tilt.dev/forum/#!forum/hi)
 
 - DMs or Mentions to [@tilt_dev](https://twitter.com/tilt_dev)
-
-- All new users should be researched and entered into the CRM. If they’re a
-  promising lead, the exterminator should reach out to them.
 
 ### Support Tracking
 
@@ -69,7 +66,7 @@ The exterminator should determine whether the problem belongs in Github Issues o
 Clubhouse, based on whether users have noticed and who it affects, and file it
 in the appropriate place.
 
-## Request Priority
+### Request Priority
 
 The exterminator picks which support requests are high-priority to deserve
 immediate attention. Factors include:
@@ -93,13 +90,13 @@ judgements about how to prioritize them.
 If the exterminator sees a request that they know how to fix quickly, they
 should consider fixing it right away.
 
-## Releases
+### Releases
 
 The exterminator is responsible for making sure a
 [release](https://github.com/windmilleng/tilt/blob/master/DEVELOPING.md#releasing)
 happens every non-holiday week.
 
-## Handoff
+### Handoff
 
 On the last day of the week, the current exterminator is responsible for passing
 along any important context to the next exterminator. The current exterminator
@@ -127,3 +124,25 @@ exterminator so we can adjust the process. We use two main metrics:
 
 Nick is responsible for tracking these two metrics over time.
 
+## Lead Tracking
+
+We name a “Lead Tracker” to own user support leads triage.  They monitor support
+channels for teams that are asking interesting questions, and might need more
+support to get set up with Tilt.
+
+Currently, the Lead Tracker is Nick.
+
+### Responsibilities
+
+When new users ask a question in the Slack channel or Github repo, 
+the Lead Tracker should:
+
+- Research who they are and what team they're on
+
+- Enter that info into the CRM
+
+- Decide if it's worth reaching out to them
+
+Either the Lead Tracker or the Exterminator may do the reach out, depending
+on how much the exterminator has been talking to the user already and how
+much bandwidth they have.
