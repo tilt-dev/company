@@ -11,11 +11,17 @@ Each new donation should be recorded in this document so that we have a record g
 ## Donation Log
 
 ### 2020
+* Aug: TBD - DB
+* Jul: TBD - NS
+* Jun: TBD - DM
+* May: TBD - HY 
+* Apr: TBD - ML
 * Mar: [Women Who Code](https://www.womenwhocode.com/) (VW)
 * Feb: [Black Girls Code](http://www.blackgirlscode.com/) (MM)
 * Jan: [Tecnogueto](http://www.tecnogueto.com.br/) (LK)
 
 ### 2019
+* Nov: [Env Defense Fund](https://www.edf.org/) (MM) [Tweet](https://twitter.com/tilt_dev/status/1199453036483141632)
 * Jun: [Project Include](https://projectinclude.org/) (HY)
 * May: [Code2040](http://www.code2040.org/)
 * Apr: [AnitaB.org](https://anitab.org/) (MM) [Tweet](https://twitter.com/tilt_dev/status/1124073397036683264)
