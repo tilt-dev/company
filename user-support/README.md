@@ -96,6 +96,10 @@ The exterminator is responsible for making sure a
 [release](https://github.com/windmilleng/tilt/blob/master/DEVELOPING.md#releasing)
 happens every non-holiday week.
 
+Each release should have a summary [release notes section](https://github.com/windmilleng/tilt/releases)
+highlighting major exciting changes, changes that break existing workflows, and upcoming
+deprecations, in addition to the automatically generated changelog section.
+
 ### Handoff
 
 On the last day of the week, the current exterminator is responsible for passing
