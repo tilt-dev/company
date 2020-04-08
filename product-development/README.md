@@ -107,6 +107,7 @@ When a section is done, replace :white_small_square: with :white_check_mark:
 - Many changes will not improve metrics in weeks or even months. That's okay. But still need to mention which specific metrics you are targeting.
 - If your change introduces a new metric to measure, collecting that data should be in scope or future work should be captured. For example, if you've created a new feature, you should be tracking it with weekly feature-using accounts, and link to that metric here.
 - Most changes should be small and thus you should be frequently linking to [Company Metrics](https://github.com/windmilleng/company-private/tree/master/company-metrics) and [Tilt metrics](https://github.com/windmilleng/company-private/tree/master/tilt-metrics).
+- Refer to [Analytics](https://github.com/windmilleng/company-private/tree/master/analytics) to determine how to collect metrics. Contact Victor if you're unsure how to use the analytics software or collect the data that you're interested in.
 ```
 
 Here is an example of how an epic description should look when all the acceptance criteria have been completed.
