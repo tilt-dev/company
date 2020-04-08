@@ -40,7 +40,7 @@ When picking a high priority unstarted epic, look at the epics _above the line_ 
 - My skill set is better suited for the third highest priority epic, so I'll pick that one, and save the first two for other folks who can finish them more quickly.
 - The fourth highest priority epic looks to be small so I'll pick that one first and finish it as a quick win before the end of the week.
 - My teammate has expertise in the highest priority epic and I'd like to collaborate and learn from them. But they aren't free just yet. I'll work on the third highest priority epic for now and plan to come back to pair with my teammate next week.
-- I see a few folks already working on Tilt Cloud epics, so I'll pick a Tilt epic to work on to try and load balance product iterations.
+- I see a few folks already working on Tilt Cloud epics, so I'll pick a Tilt epic to work on to try to load balance product iterations.
 
 Dan B and Nick, and Victor are responsible for setting the location of the line.
 
