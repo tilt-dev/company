@@ -1,5 +1,13 @@
 # Product Development
 
+## Deadlines for major product releases
+For major product releases, it may be helpful to establish a deadline, in order to help support account managers in communicating upcoming changes with customers, and in general, help them with general Tilt rollout plans. In particular:
+- Victor is responsible identifying major product releases.
+- Victor is responsible for establishing these deadlines, in close collaboration with Dan, Nick, and engineering folks in general, especially as it pertains to effort and timeline estimation.
+- Victor is responsible for communicating these deadlines to all Tilters _internally_. Account managers are responsible for communicating downstream expectations to customers per their good judgment.
+- Everyone should work together to avoid significantly delaying an established deadline, especially if downstream expectations have already been communicated to many customers.
+- We should use the due date field on epics and stories to capture deadlines. We should apply the due dates to the final marketing deliverables (e.g. blog posts, docs), instead of product change deliverables, so that account managers are equipped with artifacts to share with customers.
+
 ## Encourage users to create and subscribe to GitHub issues
 We use Clubhouse stories and epics to track product changes. But we rely on GitHub issues to engage with the Tilt community. In addition to the [Exterminator creating GitHub issues for feature requests](../user-support/README.md#exterminator), Tilters should encourage all users to create GitHub issues, subscribe to existing issues, and 👍 them. In particular, by subscribing to an issue, a user will get a notification when it is closed (possibly informing them that a feature request is now implemented), bringing them back to Tilt for further product discussion.
 
