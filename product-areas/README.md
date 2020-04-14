@@ -10,7 +10,17 @@ Tilt Cloud helps developers collaborate in teams. Team management includes:
 ## Tilt Cloud release
 [Clubhouse](https://app.clubhouse.io/windmill/label/5785/tilt-cloud-release)
 
+Ensure teams are on a stable and recent version of Tilt.
+
 ## Tilt Cloud support
+[Clubhouse](https://app.clubhouse.io/windmill/label/5786/tilt-cloud-support)
+
+Help your team members triage and solve development problems.
+
+## Tilt Cloud measure
+[Clubhouse](https://app.clubhouse.io/windmill/label/5787/tilt-cloud-measure)
+
+Understand how your team members are using Tilt, surfacing problems and insight to help you better optimize the overall DX.
 
 ## Containers and pods
 
