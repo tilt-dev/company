@@ -1,4 +1,5 @@
 # Product Areas
+These are product areas that Tilter should be focused when developing Tilt and Tilt Cloud. It should be used when [discussing product ideas and prioritization](../product-development/README.md#defining-high-level-business-initiatives-with-clubhouse-epics).
 
 ## Tilt Cloud team management
 [Clubhouse](https://app.clubhouse.io/windmill/label/6254/tilt-cloud-team-management)
