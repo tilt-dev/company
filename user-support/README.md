@@ -107,7 +107,7 @@ along any important context to the next exterminator. The current exterminator
 should:
 
 - Fill out [the Exterminator Rotation Form](https://docs.google.com/forms/d/e/1FAIpQLSfArwFScYVP7ytFSJDAE6VWQJr4daaEZFPoCwRC0brkuX9bKg/viewform?usp=sf_link)
-  - [Previous exterminator reports](https://docs.google.com/forms/d/1xQ93oH2e9n7qR3oHYv19ojMnXj-jtW1S8jVUUJwQubI/edit#responses)
+  - [Previous exterminator reports](https://docs.google.com/spreadsheets/d/1pt8Np30V-mvHzXHzB3Xno6JYBC6cwbxU7q9KtdEpZnA/edit#gid=2125595074)
 
 - Meet for 15 minutes with the next exterminator, and ask for clarifying
   questions on the form results
