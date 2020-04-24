@@ -93,7 +93,7 @@ should consider fixing it right away.
 ### Releases
 
 The exterminator is responsible for making sure a
-[release](https://github.com/windmilleng/tilt/blob/master/DEVELOPING.md#releasing)
+[release](https://github.com/windmilleng/tilt/blob/master/CONTRIBUTING.md#releasing)
 happens every non-holiday week.
 
 Each release should have a summary [release notes section](https://github.com/windmilleng/tilt/releases)
