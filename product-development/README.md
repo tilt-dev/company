@@ -99,6 +99,16 @@ When a section is done, replace :white_small_square: with :white_check_mark:
 - Scheduled a presentation of the epic and a demo of any new functionality. Can be in [weekly epics meeting](https://github.com/windmilleng/company/blob/master/product-development/README.md#weekly-epics-meeting). Add your presentation and demo as [an agenda item here](https://docs.google.com/document/d/173tL_bu4hs73VXo5kHxU0rDSXFlmKS-gpMJokpcdWE0/).
 - As a Tilt user, I should be able to experience this change (e.g. know how to use this new feature), after reading this section.
 
+
+## :white_small_square: User Journey, if applicable
+Example:
+- As a Laura, I go to the Landing page and click on "Get Tilt for your Team"
+- On the New Team page, I login to GitHub to sign up for Tilt Cloud
+- [In Scope] On the Team dashboard, I copy the one-liner to my command line to install Tilt.
+- [In Scope] Alternately: I click to download the correct binary for my OS
+- [In Scope] Following instructions on the Team dashboard, I type tilt up in my project directory
+- [Out of Scope] Tilt Web shows Friendly Onboarding on Tilt in the app, so I can set up my team without bouncing off to the tutorial.
+
 ## :white_small_square: Updated docs and blog posts, if applicable
 - Links
 
