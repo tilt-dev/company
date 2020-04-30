@@ -137,7 +137,7 @@ There is a weekly meeting for discussing epics where all Tilters are invited. Ea
 
 Agenda topics include:
 - DRI links to and presents their epic, including problem and final implementation, preferably with a demo. (This presentation is part of an epic's [acceptance criteria](#finishing-an-epic-with-acceptance-criteria).)
-- Somebody advocates for an epic to be high priority or otherwise discusses epic priorities.
+- Somebody advocates for an epic to be high priority or otherwise discusses epic priorities. You should add a [meeting agenda item](https://docs.google.com/document/d/173tL_bu4hs73VXo5kHxU0rDSXFlmKS-gpMJokpcdWE0/edit) if you would like to discuss this at the next meeting.
 
 ## Weekly company meeting
 Victor will use the weekly company meeting to highlight epics (new or otherwise) that have recently moved to high priority or of general interest.
