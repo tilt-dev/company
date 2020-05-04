@@ -33,6 +33,35 @@ Anyone advocating for an epic's priority (or priorities in general) should @-men
 
 <img src="images/epics-priority.png" height="100" />
 
+### Estimating Stories
+
+Right now we have Clubhouse configured to use the following, roughly Fibonacci sequence story point estimate scale:
+
+* 1
+* 2
+* 3
+* 5
+* 8
+* 13
+* 21
+
+We use story points for one purpose: to communicate with each other about the complexity of work. As an engineer this is useful when it's 4 PM and I'm looking at an epic I'm working on it's helpful to know if a story is _expected_ to be simple or complicated. As a PM/EM/CEO this is useful when I want to ask questions like "roughly how much work is left on X" and "when should we start work on marketing for Y".
+
+Put another way: we use story points to communicate expectations, to our peers, and to those who operate at a higher level in the company.
+
+#### What do these numbers mean?
+Each of these is for one engineer. For example, a 1 point story is a story that we expect an engineer would be able to complete in half of one day.
+
+* 1 - Half of one day worth of work
+* 2 - A full day worth of work
+* 3 - A day and a half worth of work
+* 5 - Three days worth of work
+* 8 - A week's worth of work
+* 13 - A week and a half's worth of work
+* 21 - Two weeks worth of work
+
+The point-to-walltime conversion gets fuzzier as the points get bigger. This is intentional since it's likely that any individual story that we estimate to take more than a couple days is probably vaguely defined and needs to be broken down further.
+
 ## Picking an epic to work on
 When a Tilt engineer is free, they should [pick a high priority unstarted epic](#picking-a-high-priority-unstarted-epic) to work on, or join another engineer (or engineers) already working on an `In Progress` epic. (They might consider [fixing a bug instead](../development/README.md#assign-yourself-a-bug).) Engineers should self-organize and coordinate timelines ad hoc when picking epics. There are no stable teams, no timeboxed sprints, and no synced sprints across teams. Engineers should consider:
 - Working in at least pairs on a given epic, to better facilitate product and code collaboration, avoiding working in siloes.
