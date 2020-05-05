@@ -19,6 +19,8 @@ Within a day:
 
 - DMs or Mentions to [@tilt_dev](https://twitter.com/tilt_dev)
 
+- Comments on the [Get Tilt YouTube Channel](https://www.youtube.com/channel/UCMTXuPbIcQD8OHD1hXg9bYQ) videos
+
 ### Support Tracking
 
 When users request support, they may be reporting a bug, requesting a feature, asking
