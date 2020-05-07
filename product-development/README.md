@@ -117,8 +117,9 @@ Example:
 - E.g. we are considering surfacing some of this status information to Tilt Cloud in real-time. See this Clubhouse story.
 
 ## :white_small_square: Follow up customer conversations, if applicable
-- Customer feedback on the change introduced
-- Links to or screenshots of customer meetings, Slack conversations, etc.
+- Reached out to customers who requested this feature (or expressed a related problem).
+  - Links to Slack conversations.
+  - Stating that a meeting has been scheduled with a customer to introduce the feature.
 
 ## :white_small_square: Metrics
 - Link to specific metrics and/or charts that this change targets to improve. 
