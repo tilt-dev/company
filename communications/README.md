@@ -8,4 +8,3 @@
 - Only when you have exhausted discussions in Clubhouse and/or GitHub, consider scheduling a meeting with a clear agenda to determine next steps.
 - When using Slack, prefer using public channels over DMs. @-mention specific individuals with a question if you want a response. Prefer using threads.
 - Slack is an async tool. Don't expect people to respond immediately. Don't feel pressured to respond immediately.
-- Prefer Clubhouse over Slack, and Slack over email.
