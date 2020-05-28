@@ -10,5 +10,5 @@
 
 ## Product feedback
 
-- If you have any product feedback, prefer first writing it in Clubhouse (creating a story / epic if necessary), instead of waiting for a meeting, or scheduling one.
+- If you have any product feedback (including clarifying questions), prefer first writing it in Clubhouse (creating a story / epic if necessary), instead of waiting for a meeting, or scheduling one.
 - If you are facilitating a product discussion during a meeting, bring up the Clubhouse story / epic, allow everyone to read through it first, before continuing the discussion.
