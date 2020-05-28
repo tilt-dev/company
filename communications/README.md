@@ -7,3 +7,8 @@
 - If you want to discuss a process change, consider the smallest reasonable change and create a GitHub PR in this repo as a proposal. @-mention and assign specific individuals for review.
 - If you are having difficulty understanding each other over Clubhouse and/or GitHub, consider scheduling a meeting with a specific agenda to further discuss. But prefer starting with async communications first.
 - Slack is an async tool. Don't expect people to respond immediately. Don't feel pressured to respond immediately.
+
+## Product feedback
+
+- If you have any product feedback, prefer first writing it in Clubhouse (creating a story / epic if necessary), instead of waiting for a meeting, or scheduling one.
+- If you are facilitating a product discussion during a meeting, bring up the Clubhouse story / epic, allow everyone to read through it first, before continuing the discussion.
