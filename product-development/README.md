@@ -82,7 +82,7 @@ For an epic to be completed (and marked as `Closed` in Clubhouse), the epic desc
 ---
 
 # Acceptance criteria
-See [Product Development](https://github.com/windmilleng/company/blob/master/product-development/README.md) for details.
+See [Product Development](https://github.com/tilt-dev/company/blob/master/product-development/README.md) for details.
 
 When a section is done, replace :white_small_square: with :white_check_mark:
 
@@ -96,7 +96,7 @@ When a section is done, replace :white_small_square: with :white_check_mark:
 ## :white_small_square: Solution scope, final implementation, and demo
 - E.g. We decided to add tooltips to all the different statuses in the sidebar.
 - Screenshots, gifs, or video
-- Scheduled a presentation of the epic and a demo of any new functionality. Can be in [weekly epics meeting](https://github.com/windmilleng/company/blob/master/product-development/README.md#weekly-epics-meeting). Add your presentation and demo as [an agenda item here](https://docs.google.com/document/d/173tL_bu4hs73VXo5kHxU0rDSXFlmKS-gpMJokpcdWE0/).
+- Scheduled a presentation of the epic and a demo of any new functionality. Can be in [weekly epics meeting](https://github.com/tilt-dev/company/blob/master/product-development/README.md#weekly-epics-meeting). Add your presentation and demo as [an agenda item here](https://docs.google.com/document/d/173tL_bu4hs73VXo5kHxU0rDSXFlmKS-gpMJokpcdWE0/).
 - As a Tilt user, I should be able to experience this change (e.g. know how to use this new feature), after reading this section.
 
 
@@ -125,8 +125,8 @@ Example:
 - Link to specific metrics and/or charts that this change targets to improve. 
 - Many changes will not improve metrics in weeks or even months. That's okay. But still need to mention which specific metrics you are targeting.
 - If your change introduces a new metric to measure, collecting that data should be in scope or future work should be captured. For example, if you've created a new feature, you should be tracking it with weekly feature-using accounts, and link to that metric here.
-- Most changes should be small and thus you should be frequently linking to [Company Metrics](https://github.com/windmilleng/company-private/tree/master/company-metrics) and [Tilt metrics](https://github.com/windmilleng/company-private/tree/master/tilt-metrics).
-- Refer to [Analytics](https://github.com/windmilleng/company-private/tree/master/analytics) to determine how to collect metrics. Contact Victor if you're unsure how to use the analytics software or collect the data that you're interested in.
+- Most changes should be small and thus you should be frequently linking to [Company Metrics](https://github.com/tilt-dev/company-private/tree/master/company-metrics) and [Tilt metrics](https://github.com/tilt-dev/company-private/tree/master/tilt-metrics).
+- Refer to [Analytics](https://github.com/tilt-dev/company-private/tree/master/analytics) to determine how to collect metrics. Contact Victor if you're unsure how to use the analytics software or collect the data that you're interested in.
 ```
 
 Here is an example of how an epic description should look when all the acceptance criteria have been completed.
