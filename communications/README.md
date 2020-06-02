@@ -135,11 +135,13 @@ this is a no-reaction round.
 ### Clubhouse
 
 We use Clubhouse as the main system of record for:
-- Writing up ideas for product features
+- Writing up ideas for new product changes
 - Leaving feedback on existing ideas
+- Proposing different ideas
 - Documenting next steps to move a product feature forward
+- [Prioritizing future work](../product-development#workflow)
 
-If you want to discuss an idea (e.g. new or existing product feature, update a marketing page), comment on or create a new story/epic in Clubhouse. @-mention specific individuals and ask them specific questions. See [Product Development](../product-development/README.md).
+To do any of the above, comment on an existing relevant story/epic in Clubhouse, or create a new one. @-mention specific individuals (such as the [epic owner](../product-development#unstarted-epics)) and ask them specific questions. See [Product Development](../product-development/README.md).
 
 Ensure your [Clubhouse notifications](https://help.clubhouse.io/hc/en-us/sections/201543416-Notifications) are properly configured.
 
