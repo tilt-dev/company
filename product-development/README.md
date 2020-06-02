@@ -43,7 +43,7 @@ When a Tilt engineer is free, they should [pick a high priority unstarted epic](
 - Having a dedicated review Tilter per epic, who may be responsible for code review, content review and/or general deliverable review, who may not necessarily be collaborating during the design and implementation part of the epic, but is responsible for reviewing work.
 - Not working on too many epics concurrently, in order to focus on a smaller number of tasks to reduce context-switching.
 
-When work has started on an epic, it is moved into the `In Progress` state and a single owner is assigned to it. That is, `In Progress` epic must have exactly one owner. That owner is the [DRI](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4) for the epic, who is responsible for driving the epic to completion. An engineer should be the DRI of at most one `In Progress` epic at any given time.
+When you have picked an epic to work on, move it into the `In Progress` state. Remove Victor as the owner. Make yourself the owner. You are now the [DRI](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4) for the epic, and are responsible for driving the epic to completion. An engineer should be the DRI of at most one `In Progress` epic at any time. An epic should only have one owner at any time.
 
 Dan and Nick will typically not be DRIs on epics, in order to encourage all Tilters to have more responsibility for innovation and execution of day to day work.
 
