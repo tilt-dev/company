@@ -28,9 +28,12 @@ All Tilters are encouraged to collaborate in _definining_ high-level business in
 - Attached stories with relevant ideas, including designs
 - Link to specific metrics and/or charts that this change targets to improve
 
-Victor is responsible for ensuring that the [backlog of unstarted epics](https://app.clubhouse.io/windmill/epics?state_ids=500008016&state_ids=500008001) is continually full and that epics are increasingly being better defined. There should be no shortage of epics. Dan B and Nick, and Victor are responsible for maintaining the priority of the backlog (higher priority toward the top in the Clubhouse view, when the triangle is pointing down).
+## Unstarted epics
+Victor is the owner of all unstarted epics. Victor is responsible for ensuring that the [backlog of unstarted epics](https://app.clubhouse.io/windmill/epics?state_ids=500008016&state_ids=500008001) is continually full and that epics are increasingly being better defined. There should be no shortage of epics. Dan B and Nick, and Victor are responsible for maintaining the priority of the backlog (higher priority toward the top in the Clubhouse view, when the triangle is pointing down).
 
-Anyone advocating for an epic's priority (or priorities in general) should @-mention Victor in an epic and/or raise a discussion in the [weekly epics meeting](#weekly-epics-meeting).
+If you have a question or comment about an unstarted epic's scope, design, timeline, priority, or any other aspect, you should @-mention Victor in the epic for a response. You should [first write an epic comment](../communications#written-communication) before raising a discussion in a meeting.
+
+Once the epic is `In Progress`, Victor is no longer the owner. [The DRI becomes the epic owner.](#picking-an-epic-to-work-on)
 
 <img src="images/epics-priority.png" height="100" />
 
