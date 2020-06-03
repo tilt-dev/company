@@ -32,3 +32,29 @@ If the bug you have fixed is logged as a GitHub issue (in addition to being logg
 Extracting data from Clubhouse (by [exporting all stories](https://help.clubhouse.io/hc/en-us/articles/360021168791-CSV-Export) from the single project we use), we track the number of bugs created, number of bugs closed, and the total number of open bugs, over time. Note that open bugs is impacted by bugs created, bugs closed, non-bugs being converted to bugs, and bugs being converted to non-bugs. So the week over week change of open bugs is not only impacted by bugs created and bugs closed.
 
 See charts and data in the [Google sheet](https://docs.google.com/spreadsheets/d/13L7Yg4x5lDCwevwVbzNJjMW_sLQxBZj73CuFlC_vkV8/).
+
+## Code Review
+
+Code review is higher priority than writing code. Don’t review details if
+high-level changes are needed.
+
+PR titles should start with the prefix of the code they modify.
+
+Helpful links that explain how we like to think  about code review:
+https://kickstarter.engineering/a-guide-to-mindful-communication-in-code-reviews-48aab5282e5e
+
+We strive to ship small diffs. An ideal pull request is just a couple dozen
+lines, and no more than a couple hundred. The reasons are: 
+
+- Small diffs are easier to reason about 
+
+- Code isn’t proven correct until our users are running it, so no point in being
+precious about it
+
+## Spec Review
+
+Specs are committed to github (e.g., [tilt
+specs](https://github.com/tilt-dev/tilt.specs) and reviewed via GitHub PRs.
+
+When creating and/or picking up a spec story, make sure you’ve considered the
+appropriate review audience.
