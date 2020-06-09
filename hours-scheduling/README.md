@@ -2,7 +2,7 @@
 
 We try to keep in-office quorum 11am-4pm NYC time (for meeting scheduling).
 
-If you are not in the office for most of the day, you should put it on the OOO calendar.
+If you are not in the office for most of the day, you should put it on the OOO calendar and your own calendar.
 
 ## Meetings
 
@@ -18,7 +18,7 @@ Take whatever PTO you need.
 
 If you are taking so much PTO that you are missing your goals, then Nick + Dan will have a conversation with you about that. In general, we’re more concerned with people taking too little PTO than too much.
 
-When you plan to be out of office, you should put it on [the OOO calendar](https://calendar.google.com/calendar?cid=d2luZG1pbGwuZW5naW5lZXJpbmdfcWduZ21paWtubjMzcm8xbWp1a3I0MDQ0cWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+When you plan to be out of office, you should put it on [the OOO calendar](https://calendar.google.com/calendar?cid=d2luZG1pbGwuZW5naW5lZXJpbmdfcWduZ21paWtubjMzcm8xbWp1a3I0MDQ0cWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) and your own calendar.
 
 We review the next 3 weeks of the OOO calendar during planning. If your vacation isn’t marked, we may book things for you on the assumption that you’ll be here. Week-long vacations should be booked at least 3 weeks out, or as soon as you know about them.
 
