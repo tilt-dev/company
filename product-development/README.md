@@ -150,3 +150,5 @@ Victor will use the weekly company meeting to highlight epics (new or otherwise)
 
 ## Design process
 There is a light-weight design process where design work is tracked in Clubhouse stories, in a [separate Clubhouse project / workflow](https://app.clubhouse.io/windmill/stories/space/4524/everything). Victor and Han manage this work. In particular, they ensure that design work necessary for important changes (e.g. product changes) happen ahead of implemention work.
+
+Sascha is responsible for moving design work along and producing final visuals for Victor to scope into implementation work. Sascha is responsible for asking Victor for clarifications, reviewing work, and setting up calls with Victor to facilitate collaboration. Victor is responsible for bringing in other stakeholders for additional discussion as necessary.
