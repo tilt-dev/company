@@ -29,7 +29,9 @@ All Tilters are encouraged to collaborate in _definining_ high-level business in
 - Link to specific metrics and/or charts that this change targets to improve
 
 ## Unstarted epics
-By default, Victor is the owner of all unstarted epics. (There are some exceptions, such as unstarted devrel epics that are owned by L.) Victor is responsible for ensuring that the [backlog of unstarted epics](https://app.clubhouse.io/windmill/epics?state_ids=500008016&state_ids=500008001) is continually full and that epics are increasingly being better defined. There should be no shortage of epics. Dan B and Nick, and Victor are responsible for maintaining the priority of the backlog (higher priority toward the top in the Clubhouse view, when the triangle is pointing down).
+By default, Victor is the owner of all unstarted epics. (There are some exceptions, such as unstarted devrel epics that are owned by L.) Victor is responsible for ensuring that the [backlog of unstarted epics](https://app.clubhouse.io/windmill/epics?state_ids=500008016&state_ids=500008001) is continually full and that epics are increasingly being better defined. There should be no shortage of epics. 
+
+Dan B and Nick, and Victor are responsible for maintaining the priority of the backlog (higher priority toward the top in the Clubhouse view, when the triangle is pointing down).
 
 If you have a question or comment about an unstarted epic's scope, design, timeline, priority, or any other aspect, you should direct it at Victor.
 
@@ -54,6 +56,8 @@ When picking a high priority unstarted epic, look at the epics _above the line_ 
 - My teammate has expertise in the highest priority epic and I'd like to collaborate and learn from them. But they aren't free just yet. I'll work on the third highest priority epic for now and plan to come back to pair with my teammate next week.
 
 Dan B and Nick, and Victor are responsible for setting the location of the line.
+
+Victor is responsible for tracking [open customer requests](https://docs.google.com/spreadsheets/d/1LBo3FlLp2K4eQYVxsLzf5-kp_-43cGsKkY6wXsh9UkY/edit#gid=0) as an input for prioritization. 
 
 <img src="images/above-the-line.png" height="150" />
 
