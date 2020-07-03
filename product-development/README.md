@@ -57,7 +57,7 @@ When picking a high priority unstarted epic, look at the epics _above the line_ 
 
 Dan B and Nick, and Victor are responsible for setting the location of the line.
 
-Victor is responsible for tracking [open customer requests](https://docs.google.com/spreadsheets/d/1LBo3FlLp2K4eQYVxsLzf5-kp_-43cGsKkY6wXsh9UkY/edit#gid=0) as an input for prioritization. 
+Victor is responsible for tracking [open customer requests](https://companies-b164c.firebaseapp.com/customer-requests) as an input for prioritization. 
 
 <img src="images/above-the-line.png" height="150" />
 
