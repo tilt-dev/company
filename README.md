@@ -15,7 +15,7 @@ Consider [watching this repo](https://help.github.com/en/github/receiving-notifi
 
 # How do I change it?
 
-If you think a given process can be improved, suggest a change in this handbook by creating a PR. Invite other Tilters to discuss the change to get buy-in.
+If you think a given process can be improved, suggest a change in this handbook by creating a PR. Invite other Tilters to discuss the change to get buy-in. As with any other PR, if it is non-trivial, include in the PR's description a statement of the problem the PR is attempting to solve.
 
 We currently don't have a strict approval process, so use your personal judgement to decide who you should ask for review, and when a PR should be merged. For example, if you are correcting an obvious typo, you can probably commit directly to `master` without even creating a PR. But if you are proposing a change to vacation policy, you probably need to get approval from Dan B.
 
