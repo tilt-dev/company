@@ -15,6 +15,8 @@ Consider [watching this repo](https://help.github.com/en/github/receiving-notifi
 
 # How do I change it?
 
+If there's a problem with the process that you'd like to solve, it's possible you're not sure 1) what a good solution would be, 2) whether enough other people agree it's a problem that it's worth fixing, or 3) [what the goal of the existing process is](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence). In these cases, consider seeking input from teammates via whatever medium you think would be effective before expending a bunch of effort writing up a specific solution, as you likely would with a non-trivial code change. Consider including relevant context from such conversations in your PR.
+
 If you think a given process can be improved, suggest a change in this handbook by creating a PR. Invite other Tilters to discuss the change to get buy-in.
 
 We currently don't have a strict approval process, so use your personal judgement to decide who you should ask for review, and when a PR should be merged. For example, if you are correcting an obvious typo, you can probably commit directly to `master` without even creating a PR. But if you are proposing a change to vacation policy, you probably need to get approval from Dan B.
