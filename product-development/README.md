@@ -43,7 +43,7 @@ Dan B and Nick, and Victor are responsible for maintaining the priority of the b
 
 Before an epic is moved above the line:
 1. Its description should contain the [epic description template](#epic-description-template).
-2. The "Problem statement and references" section should be completed.
+2. The "Problem statement and references" section should be completed. (Other sections can remain not yet completed.)
 
 ## Epic description template
 
