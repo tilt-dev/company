@@ -45,6 +45,10 @@ Before an epic is moved above the line:
 1. Its description should contain the [epic description template](#epic-description-template).
 2. The "Problem statement and references" section should be completed. (Other sections can remain not yet completed.)
 
+This is to help ensure:
+1. An engineer who picks up the epic does not need to duplicate the effort of hunting that information down thesmelves.
+2. Any further information that gets added to the epic description grows within the desired final structure, rather than have to be forced into that structure later.
+
 ## Epic description template
 
 Copy and paste the template below into the epic description, and update it accordingly. When a section is done, replace `:white_small_square:` with `:white_check_mark:` to indicate it is done (or explain why the section is not applicable).
