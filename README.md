@@ -28,6 +28,7 @@ Once a PR is merged, the process is officially changed and Tilters should [abide
 - [Development](/development/README.md)
 - [Donations](/donations/README.md)
 - [Hours & Scheduling](/hours-scheduling/README.md)
+- [Interviews](/interviews/README.md)
 - [Personas](/personas/README.md)
 - [Product Development](/product-development/README.md)
 - [Product Principles](/product-principles/README.md)
