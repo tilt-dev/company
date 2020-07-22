@@ -156,15 +156,17 @@ Here is an example of how an epic description should look when all the acceptanc
 <img src="images/epic-acceptance-criteria-example.png" height="650" />
 
 ## Weekly epics meeting
-There is a weekly meeting for discussing epics where all Tilters are invited. Each meeting will be recorded (with permission from participants) and shared internally for all Tilters to watch if they want, [listed here](https://docs.google.com/document/d/173tL_bu4hs73VXo5kHxU0rDSXFlmKS-gpMJokpcdWE0/edit). Tilters should add agenda topics per the following categories, preferably prior to the meeting starting. If there are no agenda topics, the meeting is cancelled for that week.
+There is a weekly meeting for discussing epics where all Tilters are invited. The purpose of this meeting is to make sure that the team is aligned on current work (Tilters know what teammates are working on, blockers are surfaced) and planned work (Tilters advocate to de/prioritize epics, ask questions about existing epics/prioritization), as well as to celebrate wins (demos of completed epics, shout-outs, etc.).
+
+Each meeting will be recorded (with permission from participants) and shared internally for all Tilters to watch if they want, [listed here](https://docs.google.com/document/d/173tL_bu4hs73VXo5kHxU0rDSXFlmKS-gpMJokpcdWE0/edit). Tilters should add agenda topics per the following categories, preferably prior to the meeting starting.
 
 Agenda topics include:
 - DRI links to and presents their epic, including problem and final implementation, preferably with a demo. (This presentation is part of an epic's [acceptance criteria](#finishing-an-epic-with-acceptance-criteria).)
-- For each in progress epic, the DRI highlights the biggest change and also shout outs to people that have helped, from the past week.
+- For each in progress epic, the DRI highlights the biggest change and also shouts out to people that have helped, from the past week. This section should also highlight epics that are stalled or taking longer than expected, and give the DRI a chance to ask for help.
 - Somebody advocates for an epic to be high priority or otherwise discusses epic priorities. You should add a [meeting agenda item](https://docs.google.com/document/d/173tL_bu4hs73VXo5kHxU0rDSXFlmKS-gpMJokpcdWE0/edit) if you would like to discuss this at the next meeting.
 
 ## Weekly company meeting
-Victor will use the weekly company meeting to highlight epics (new or otherwise) that have recently moved to high priority or of general interest.
+Victor will use the weekly company meeting to highlight epics (new or otherwise) that have recently moved to high priority or of general interest. Newly-prioritized epics shoud be briefly described, and the reason behind their prioritization explained (e.g.: "this epic is about improving a user's experience with the resource URLs that Tilt surfaces; we've prioritized it because it would be a big quality-of-life improvement for Yext for not that much technical work").
 
 ## Design process
 There is a light-weight design process where work is tracked in Clubhouse stories, in a [separate Clubhouse project / workflow](https://app.clubhouse.io/windmill/stories/space/4524/everything). Victor and Han manage this work for Sascha. Together they ensure that design work necessary for important product changes happens ahead of implementation.
