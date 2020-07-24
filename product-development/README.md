@@ -166,7 +166,7 @@ Agenda topics include:
 - Somebody advocates for an epic to be high priority or otherwise discusses epic priorities. You should add a [meeting agenda item](https://docs.google.com/document/d/173tL_bu4hs73VXo5kHxU0rDSXFlmKS-gpMJokpcdWE0/edit) if you would like to discuss this at the next meeting.
 
 ## Weekly company meeting
-Victor will use the weekly company meeting to highlight epics (new or otherwise) that have recently moved to high priority or of general interest. Newly-prioritized epics shoud be briefly described, and the reason behind their prioritization explained (e.g.: "this epic is about improving a user's experience with the resource URLs that Tilt surfaces; we've prioritized it because it would be a big quality-of-life improvement for Yext for not that much technical work").
+Victor will use the weekly company meeting to highlight epics (new or otherwise) that have recently moved to high priority or of general interest. Newly-prioritized epics shoud be briefly described, and the reason behind their prioritization explained (e.g.: "this epic is about improving a user's experience with the resource URLs that Tilt surfaces; we've prioritized it because it would be a big quality-of-life improvement for Acme Company for not that much technical work").
 
 ## Design process
 There is a light-weight design process where work is tracked in Clubhouse stories, in a [separate Clubhouse project / workflow](https://app.clubhouse.io/windmill/stories/space/4524/everything). Victor and Han manage this work for Sascha. Together they ensure that design work necessary for important product changes happens ahead of implementation.
