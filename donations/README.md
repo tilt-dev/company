@@ -11,6 +11,10 @@ Each new donation should be recorded in this document so that we have a record g
 ## Donation Log
 
 ### 2020
+* Dec: TBD - ML
+* Nov: TBD - VW
+* Oct: TBD - MM
+* Sep: TBD - LK
 * Aug: TBD - DB
 * Jul: TBD - NS
 * Jun: Black Girls Code, Hidden Genius, Code 2040, All Star Code, HackTheHood, DevColor - DM [Tweet](https://twitter.com/tilt_dev/status/1272885321215213568)
