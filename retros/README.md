@@ -13,6 +13,6 @@ The retro deputy is responsible for scheduling and facilitating the retro meetin
 | Month | Deputy |
 | --- | --- |
 | 2020 July | Matt, Maia |
-| 2020 Aug | |
+| 2020 Aug | Han |
 | 2020 Sep | |
 | 2020 Oct | |
