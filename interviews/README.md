@@ -107,3 +107,4 @@ Every role should have
 Here's what this looks like for specific roles:
 
 - [Engineering](engineering.md)
+- [Design](design.md)

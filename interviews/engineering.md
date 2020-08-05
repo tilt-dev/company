@@ -10,12 +10,16 @@ detail in Medium’s
 
 ### Ability to Build Software
 
-- Problem Solving
-- Code Fluency
-- Autonomy
-- Basic Computer Science Knowledge
-- System Design
-- Resoluteness
+- Problem Solving - Conceives multiple solutions to a problem and thinks through
+  their trade-offs.
+- Code Fluency - Can translate ideas into code.
+- Autonomy - Can work independently and own their own decisions.
+- Basic Computer Science Knowledge - Understands conventions of software and how
+  programs fit together.
+- System Design - Demonstrates an understanding of how to break a large problem
+  into components and make reasonable decisions about how they interact.
+- Resoluteness - Overcomes frustration and is not unduely discouraged by failed
+  attempts.
 
 ### Ability to Learn and Teach
 
