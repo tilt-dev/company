@@ -15,7 +15,7 @@ Consider [watching this repo](https://help.github.com/en/github/receiving-notifi
 
 # How do I change it?
 
-If there's a problem with the process that you'd like to solve, it's possible you're not sure 1) what a good solution would be, 2) whether enough other people agree it's a problem that it's worth fixing, or 3) [what the goal of the existing process is](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence). In these cases, consider seeking input from teammates via whatever medium you think would be effective before expending a bunch of effort writing up a specific solution, as you likely would with a non-trivial code change. Consider including relevant context from such conversations in your PR.
+If there's a problem with the process that you'd like to solve, it's possible you're not sure 1) what a good solution would be, 2) whether enough other people agree it's a problem that it's worth fixing, or 3) [what the goal of the existing process is](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence). Consider seeking input from teammates via whatever medium you think would be effective before expending a bunch of effort writing up a specific solution, as you likely would with a non-trivial code change. Consider including relevant context from such conversations in your PR.
 
 If you think a given process can be improved, suggest a change in this handbook by creating a PR. Invite other Tilters to discuss the change to get buy-in.
 
