@@ -60,12 +60,13 @@ Here are some interview formats we've used in the past:
   what your coworkers thought of you (did your coworkers at X give you
   feedback on areas you needed to improve?).
 
-- A coding fluency interview where we ask you to solve an algorithmic
-  problem, and ask how you'd translate your approach into code. You have the
-  choice of doing this entirely in-person or with a take-home component. If you
-  choose the take-home, you should expect to spend 2 hours on it before the
-  interview, then we'll use the in-person time to collaborate on your
-  solution. We assess your ability to translate ideas into code.
+- A coding fluency interview where we ask you to solve a problem, and ask how
+  you'd translate your approach into code. You have the choice of doing this
+  entirely in-person or with a take-home component. If you choose the take-home,
+  you should expect to spend 2 hours on it before the interview, then we'll use
+  the in-person time to collaborate on your solution. We assess your ability to
+  try different ideas and express them as code, not knowledge of specific
+  algorithms.
   
 - A system design interview where we ask you how you'd break down a product
   feature that can expand to include a lot of complexity: backend features,
