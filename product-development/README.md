@@ -28,28 +28,41 @@ All Tilters are encouraged to collaborate in _definining_ high-level business in
 - Attached stories with relevant ideas, including designs
 - Link to specific metrics and/or charts that this change targets to improve
 
-## Unstarted epics
-By default, Victor is the owner of all unstarted epics. (There are some exceptions, such as unstarted devrel epics that are owned by L.) Victor is responsible for ensuring that the [backlog of unstarted epics](https://app.clubhouse.io/windmill/epics?state_ids=500008016&state_ids=500008001) is continually full and that epics are increasingly being better defined. There should be no shortage of epics.
+## Before an Epic Starts
+
+### Unstarted Epics
+
+To start, Victor is the owner of all epics until they are assigned to
+someone. Victor is responsible for ensuring that the [backlog of unstarted
+epics](https://app.clubhouse.io/windmill/epics?state_ids=500008016&state_ids=500008001)
+is continually full and that epics are increasingly being better defined. There
+should be no shortage of epics.
 
 If you have a question or comment about an unstarted epic's scope, design, timeline, priority, or any other aspect, you should direct it at Victor.
 
-Once the epic is `In Progress`, Victor is no longer the owner. [The DRI becomes the epic owner.](#picking-an-epic-to-work-on)
-
 <img src="images/epics-priority.png" height="100" />
 
-## Prioritizing epics
+### Epic Priority
 
-Dan B and Nick, and Victor are responsible for maintaining the priority of the backlog (higher priority toward the top in the Clubhouse view, when the triangle is pointing down).
+Dan B and Nick, and Victor are responsible for maintaining a rough priority of
+the backlog (higher priority toward the top in the Clubhouse view, when the
+triangle is pointing down).
 
-Before an epic is moved above the line:
-1. Its description should contain the [epic description template](#epic-description-template).
-2. The "Problem statement and references" section should be completed. (Other sections can remain not yet completed.)
+Higher epics should be more well-defined. As we go down, it's OK if the epics
+are less well-defined and more loosely ordered.
 
-This is to help ensure:
-1. An engineer who picks up the epic does not need to duplicate the effort of hunting that information down thesmelves.
-2. Any further information that gets added to the epic description grows within the desired final structure, rather than have to be forced into that structure later.
+Prioritizing an epic does not make any guarantees about when it will be started
+or who should pick it up. It's just a way to help us communicate about what's
+important.
 
-## Epic description template
+Victor is responsible for tracking [open customer requests](https://companies-b164c.firebaseapp.com/customer-requests) as an input for prioritization.
+
+### Epic description template
+
+Before an epic starts, it should contain this template.
+
+The "Problem statement and references" section should be completed. (Other
+sections can remain not yet completed.)
 
 Copy and paste the template below into the epic description, and update it accordingly. When a section is done, replace `:white_small_square:` with `:white_check_mark:` to indicate it is done (or explain why the section is not applicable).
 
@@ -104,30 +117,81 @@ Example:
 - Refer to [Analytics](https://github.com/tilt-dev/company-private/tree/master/analytics) to determine how to collect metrics. Contact Victor if you're unsure how to use the analytics software or collect the data that you're interested in.
 ```
 
-## Picking an epic to work on
-When a Tilt engineer is free, they should [pick a high priority unstarted epic](#picking-a-high-priority-unstarted-epic) to work on, or join another engineer (or engineers) already working on an `In Progress` epic. (They might consider [fixing a bug instead](../development/README.md#assign-yourself-a-bug).) Engineers should self-organize and coordinate timelines ad hoc when picking epics. There are no stable teams, no timeboxed sprints, and no synced sprints across teams. Engineers should consider:
-- Working in at least pairs on a given epic, to better facilitate product and code collaboration, avoiding working in siloes.
-- Having a dedicated review Tilter per epic, who may be responsible for code review, content review and/or general deliverable review, who may not necessarily be collaborating during the design and implementation part of the epic, but is responsible for reviewing work.
-- Not working on too many epics concurrently, in order to focus on a smaller number of tasks to reduce context-switching.
+## How an Epic Starts
 
-When you have picked an epic to work on, move it into the `In Progress` state. Remove any existing owner. Make yourself the owner. You are now the [DRI](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4) for the epic, and are responsible for driving the epic to completion. An engineer should be the DRI of at most one `In Progress` epic at any time. An epic should only have one owner at any time.
+### DRIs
 
-Dan and Nick will typically not be DRIs on epics, in order to encourage all Tilters to have more responsibility for innovation and execution of day to day work.
+Epics are assigned to a
+[DRI](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4).
 
-## Picking a high priority unstarted epic
-When picking a high priority unstarted epic, look at the epics _above the line_ in the [backlog](https://app.clubhouse.io/windmill/epics?state_ids=500008016&state_ids=500008001) and choose a sensible one based on at least these example scenarios:
-- My skill set is better suited for the third highest priority epic, so I'll pick that one, and save the first two for other folks who can finish them more quickly.
-- The fourth highest priority epic looks to be small so I'll pick that one first and finish it as a quick win before the end of the week.
-- My teammate has expertise in the highest priority epic and I'd like to collaborate and learn from them. But they aren't free just yet. I'll work on the third highest priority epic for now and plan to come back to pair with my teammate next week.
+The DRI is responsible for:
+- maintaining the epic state, description, and attached stories updated as the single source of truth of overall work status
+- reducing scope if additional work is discovered
+- driving the epic to completion
 
-Dan B and Nick, and Victor are responsible for setting the location of the line.
+The acceptance criteria sections are _especially critical_, including presenting
+the problem and final implementation in the [weekly epics
+meeting](#weekly-epics-meeting).
 
-Victor is responsible for tracking [open customer requests](https://companies-b164c.firebaseapp.com/customer-requests) as an input for prioritization.
+### How DRIs are Assigned
 
-<img src="images/above-the-line.png" height="150" />
+When assigning DRIs, we're operating on a few hypotheses:
 
-## Reducing scope
-A given epic may have a fairly broad initial business problem. The engineer(s) should carve out and define a smaller problem, and spec out a solution that can be accomplished within a target of **_7 business days_** (counted from when the epic moves into `In Progress`, more below on states). If the solution cannot be finished within 7 business days, keep reducing scope. The epic description should be updated with the smaller scope and acceptance criteria, and the engineer(s) should create additional epics and/or stories to capture the future work. Alternatively, the engineer(s) may create a separate epic with the smaller scope and start work on that one instead (putting the original epic back into the backlog).
+- Projects are far more likely to succeed when the person working on it feels
+  connected to the project, and feels it lets them use their skills well.
+
+- Conversely, Tilters should be empowered to try epics they feel strongly about,
+  even if other people on the team disagree. Consensus is a bad way to make
+  decisions, and we shouldn't require consensus on an idea to move forward.
+  
+- It's anxiety-producing and not helpful when people are constantly switching
+  back and forth between execution and prioritization. We don't want each DRI
+  to have to do a prioritization exercise every week when they finish their epic.
+  
+So we're trying a new system.
+
+Each Tilter is responsible for reading the backlog of epics. They don't need to
+understand every epic. But they should understand enough to be able to
+affirmatively articulate what epics in the backlog they want to work on and why.
+
+Every two weeks, Nick will talk to you your impressions of the backlog, and try
+to get a sense of what you think is important and want to work on.
+
+Nick will assign epics near the top of the backlog, trying to balance
+preferences and current priority order.
+
+If there's an epic that's high in priority order but no one wants to work on,
+then Nick should dig more into why. Do we need to do more research upfront?  Is
+the epic defined incorrectly? Is it misaligned with what we're currently
+focusing on?
+
+There may be rare cases where someone gets assigned to an epic that they
+don't want to work on, but in those cases we should explicitly call out
+that this is happening and why.
+
+At all times, every Tilter should have 1-2 epics assigned to them that haven't
+been started yet. The epics are their "Next Up" list.  This isn't final - they
+may get reassigned. But we bias towards keeping the current assignment so that
+Tilters know what's coming next.
+
+### Starting an Epic
+
+When you're ready to start an epic, it should be clear which epic to start work
+on -- it's the highest-priority backlog epic assigned to you.
+
+Move it into the `In Progress` state.
+
+## How an Epic Progresses
+
+A given epic may have a fairly broad initial business problem. The engineer(s) should carve out and define a smaller problem, and spec out a solution that can be accomplished within a target of **_7 business days_** (counted from when the epic moves into `In Progress`, more below on states). 
+
+### Reducing Scope
+
+If the solution cannot be finished within 7 business days, keep reducing scope. 
+
+The DRI should update the epic description with smaller scope and acceptance criteria. They may need to communicate radical changes in scope to other stakeholders, but it's ultimately the DRI's call.
+
+The DRI may create additional epics and/or stories to capture the future work. Alternatively, they may create a separate epic with the smaller scope and start work on that one instead (putting the original epic back into the backlog).
 
 The target time period is business calendar time, regardless of how many folks are working on the epic. So if for unplanned circumstances a person in a two person epic needs to be pulled away, the remaining person (who should be the epic owner DRI) may reduce scope to try to meet the target time period due to reduced capacity, saving the unfinished work for a future epic.
 
@@ -135,25 +199,19 @@ The purpose of a single epic is _not_ to completely solve a business problem. Ra
 
 Certain initiatives may require a sustained effort of multiple epics to get to a place where folks are comfortable with the result. Tilters should therefore advocate for epics that close the gap of new but incomplete functionality, or fix tech debt, as per the [advocacy process outlined above](#defining-high-level-business-initiatives-with-clubhouse-epics).
 
-## Epic owner and epic states
-- An epic is in one of three states: `Unstarted`, `In Progress`, `Closed`.
-- If an epic is in `In Progress` or `Closed`, it must have exactly one owner, who is the DRI.
+### Example
 
-## DRI responsibilties
-- The DRI is responsible for maintaining the epic state, description, and attached stories updated as the single source of truth of overall work status, at least on a daily basis.
-- The acceptance criteria sections are _especially critical_, including presenting the problem and final implementation in the [weekly epics meeting](#weekly-epics-meeting).
-- The DRI is responsible for reducing scope if additional work is discovered.
-- The DRI is responsible for driving the epic to completion.
-
-## Example
 For example, suppose usability research suggests that the Tilt Web UI right sidebar is difficult for users to learn. Two engineers develop some ideas to iterate on the existing designs in order to address the problems. But they discover that it's a better idea to first re-architect some of the frontend JavaScript and CSS to accommodate the design changes, repaying some previously incurred tech debt. In this case, the first epic's scope would simply be non-user facing code re-architecture work, that doesn't have immediate user impact, but contributes to solving the usability problem indirectly as an incremental first step. The engineers may work on the second epic right after the first one is done, or it may be given to another team, or simply deferred to a future time. By scoping work to smaller units, Tilt is more flexible in prioritizing whatever is best at (almost) any moment of time as a small organization.
 
-## Finishing an epic with acceptance criteria
+## How an Epic Ends
+
 For an epic to be completed (and marked as `Closed` in Clubhouse), the epic description needs to have all the acceptance criteria in its description marked as completed.
 
 Here is an example of how an epic description should look when all the acceptance criteria have been completed.
 
 <img src="images/epic-acceptance-criteria-example.png" height="650" />
+
+Between the end of one epic and the start of a new one, it is OK to knock out small feature requests or [bug fixes](https://github.com/tilt-dev/company/blob/master/development/README.md#assign-yourself-a-bug) that you have context on.
 
 ## Weekly epics meeting
 There is a weekly meeting for discussing epics where all Tilters are invited. The purpose of this meeting is to make sure that the team is aligned on current work (Tilters know what teammates are working on, blockers are surfaced) and planned work (Tilters advocate to de/prioritize epics, ask questions about existing epics/prioritization), as well as to celebrate wins (demos of completed epics, shout-outs, etc.).
