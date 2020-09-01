@@ -16,7 +16,7 @@ Each new donation should be recorded in this document so that we have a record g
 * Oct: TBD - MM
 * Sep: TBD - LK
 * Aug: TBD - DB
-* Jul: TBD - NS
+* Jul: The Workers Lab - NS [Tweet](https://twitter.com/tilt_dev/status/1291422787907784710)
 * Jun: Black Girls Code, Hidden Genius, Code 2040, All Star Code, HackTheHood, DevColor - DM [Tweet](https://twitter.com/tilt_dev/status/1272885321215213568)
 * May: TBD - HY 
 * Apr: Project Include - ML
