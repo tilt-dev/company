@@ -90,7 +90,7 @@ When a section is done, replace :white_small_square: with :white_check_mark:
 ## :white_small_square: Out of scope, related, and/or future work
 - Links to Clubhouse/GitHub/Slack/docs
 
-## :white_small_square: Customer validation
+## :white_small_square: Customer validation and metrics
 - Links to Slack conversations
 - Links to customer docs
 - Links to customer metrics dashboards
