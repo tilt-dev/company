@@ -79,9 +79,9 @@ When a section is done, replace :white_small_square: with :white_check_mark:
 - Links to related [Tilt rollout cookbook recipes](https://docs.tilt.dev/rollout)
 - Links to Clubhouse/GitHub/Slack/docs
 
-## :white_small_square: Solution scope, final implementation, and demo
+## :white_small_square: Final scope, implementation, and demo
 - E.g. We decided to add tooltips to all the different statuses in the sidebar
-- User journey, with screenshots
+- User journey, with links to Figma or screenshots
 - Presented (or will present) in [weekly epics meeting](https://github.com/tilt-dev/company/blob/master/product-development/README.md#weekly-epics-meeting)
 
 ## :white_small_square: Updated docs and blog posts
