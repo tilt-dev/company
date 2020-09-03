@@ -64,7 +64,7 @@ Before an epic starts, it should contain this template.
 The "Problem statement and references" section should be completed. (Other
 sections can remain not yet completed.)
 
-Copy and paste the template below into the epic description, and update it accordingly. When a section is done, replace `:white_small_square:` with `:white_check_mark:` to indicate it is done (or explain why the section is not applicable).
+Copy and paste the template below into the epic description. Update each section, with as much applicable content as possible. When a section is done, replace `:white_small_square:` with `:white_check_mark:` to indicate it is done.
 
 ```
 ---
@@ -75,46 +75,27 @@ See [Product Development](https://github.com/tilt-dev/company/blob/master/produc
 When a section is done, replace :white_small_square: with :white_check_mark:
 
 ## :white_small_square: Problem statement and references
-- E.g. Tilt users find it difficult to understand the colors in the Tilt Web UI sidebar.
-- See the customer conversations here:
-  - Google doc
-  - Slack conversation
-  - Clubhouse story
+- E.g. Tilt users find it difficult to understand the colors in the Tilt Web UI sidebar
+- Links to related [Tilt rollout cookbook recipes](https://docs.tilt.dev/rollout)
+- Links to Clubhouse/GitHub/Slack/docs
 
-## :white_small_square: Solution scope, final implementation, and demo
-- E.g. We decided to add tooltips to all the different statuses in the sidebar.
-- Screenshots, gifs, or video
-- Scheduled a presentation of the epic and a demo of any new functionality. Can be in [weekly epics meeting](https://github.com/tilt-dev/company/blob/master/product-development/README.md#weekly-epics-meeting). Add your presentation and demo as [an agenda item here](https://docs.google.com/document/d/173tL_bu4hs73VXo5kHxU0rDSXFlmKS-gpMJokpcdWE0/).
-- As a Tilt user, I should be able to experience this change (e.g. know how to use this new feature), after reading this section.
+## :white_small_square: Final scope, implementation, and demo
+- E.g. We decided to add tooltips to all the different statuses in the sidebar
+- User journey, with links to Figma or screenshots
+- Presented (or will present) in [weekly epics meeting](https://github.com/tilt-dev/company/blob/master/product-development/README.md#weekly-epics-meeting)
 
-
-## :white_small_square: User Journey, if applicable
-Example:
-- As a Laura, I go to the Landing page and click on "Get Tilt for your Team"
-- On the New Team page, I login to GitHub to sign up for Tilt Cloud
-- [In Scope] On the Team dashboard, I copy the one-liner to my command line to install Tilt.
-- [In Scope] Alternately: I click to download the correct binary for my OS
-- [In Scope] Following instructions on the Team dashboard, I type tilt up in my project directory
-- [Out of Scope] Tilt Web shows Friendly Onboarding on Tilt in the app, so I can set up my team without bouncing off to the tutorial.
-
-## :white_small_square: Updated docs and blog posts, if applicable
+## :white_small_square: Updated docs and blog posts
 - Links
 
-## :white_small_square: Out of scope, related, and/or future work, if applicable
-- E.g. Clubhouse story for adding additional new statuses and colors
-- E.g. we are considering surfacing some of this status information to Tilt Cloud in real-time. See this Clubhouse story.
+## :white_small_square: Out of scope, related, and/or future work
+- Links to Clubhouse/GitHub/Slack/docs
 
-## :white_small_square: Follow up customer conversations, if applicable
-- Reached out to customers who requested this feature (or expressed a related problem).
-  - Links to Slack conversations.
-  - Stating that a meeting has been scheduled with a customer to introduce the feature.
-
-## :white_small_square: Metrics
-- Link to specific metrics and/or charts that this change targets to improve.
-- Many changes will not improve metrics in weeks or even months. That's okay. But still need to mention which specific metrics you are targeting.
-- If your change introduces a new metric to measure, collecting that data should be in scope or future work should be captured. For example, if you've created a new feature, you should be tracking it with weekly feature-using accounts, and link to that metric here.
-- Most changes should be small and thus you should be frequently linking to [Company Metrics](https://github.com/tilt-dev/company-private/tree/master/company-metrics) and [Tilt metrics](https://github.com/tilt-dev/company-private/tree/master/tilt-metrics).
-- Refer to [Analytics](https://github.com/tilt-dev/company-private/tree/master/analytics) to determine how to collect metrics. Contact Victor if you're unsure how to use the analytics software or collect the data that you're interested in.
+## :white_small_square: Customer validation and metrics
+- Links to Slack conversations
+- Links to customer docs
+- Links to customer metrics dashboards
+- Links to internal metrics dashboards
+- Links to future work to collect data
 ```
 
 ## How an Epic Starts
