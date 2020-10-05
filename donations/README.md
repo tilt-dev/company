@@ -10,9 +10,12 @@ Each new donation should be recorded in this document so that we have a record g
 
 ## Donation Log
 
+### 2021
+* Jan: TBD - ML
+
 ### 2020
-* Dec: TBD - ML
-* Nov: TBD - VW
+* Dec: TBD - VW
+* Nov: TBD - SG
 * Oct: TBD - MM
 * Sep: TBD - LK
 * Aug: TBD - DB
