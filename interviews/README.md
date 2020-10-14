@@ -60,9 +60,10 @@ If both chats go well, ask them to come in for a full interview panel.
 - All interviewers should write down a summary of their feedback *before*
   discussing the candidate with other interviewers.
   
-- The interview form is optional. Use it as a template to help yourself organize
-  thoughts about the candidate, rather than a formatted report to turn in to a
-  separate committee.
+- Use the interview feedback form to help yourself organize thoughts about the
+  candidate, rather than a formatted report to turn in to a separate committee.
+  If you're not sure what to write, this [short guide](feedback.md) can help you
+  determine the right amount of detail.
   
 - The hiring coordinator should communicate the timeline for when we expect to make
   a decision.
