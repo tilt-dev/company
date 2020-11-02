@@ -16,7 +16,7 @@ Each new donation should be recorded in this document so that we have a record g
 ### 2020
 * Dec: TBD - VW
 * Nov: TBD - SG
-* Oct: TBD - MM
+* Oct: [All Star Code](https://www.allstarcode.org/) - MM ([Tweet](https://twitter.com/tilt_dev/status/1313559289890582530))
 * Sep: TBD - LK
 * Aug: TBD - DB
 * Jul: The Workers Lab - NS [Tweet](https://twitter.com/tilt_dev/status/1291422787907784710)
