@@ -7,12 +7,4 @@ We have a retro at least once a month. The purpose of the retro is to improve ho
 - How we plan for the future
 - How we work on internal systems
 
-## Retro deputy schedule
-The retro deputy is responsible for scheduling and facilitating the retro meeting. The retro deputy is responsible for finding a retro deputy for the following month and reminding them about retro deputy duties.
-
-| Month | Deputy |
-| --- | --- |
-| 2020 July | Matt, Maia |
-| 2020 Aug | Han |
-| 2020 Sep | Peter |
-| 2020 Oct | Maia |
+The planning meeting facilitator for a given month is responsible for scheduling and running a retro that month. The facilitator chooses the topic(s)/meeting format.
