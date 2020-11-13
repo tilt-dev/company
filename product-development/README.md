@@ -79,6 +79,11 @@ When a section is done, replace :white_small_square: with :white_check_mark:
 - Links to related [Tilt rollout cookbook recipes](https://docs.tilt.dev/rollout)
 - Links to Clubhouse/GitHub/Slack/docs
 
+## :white_small_square: Feature discovery and adoption
+- How will users discover and adopt this feature? 
+- UI change to alert user?
+- Assign DevEx engineer in partner team to update Tiltfile?
+
 ## :white_small_square: Final scope, implementation, and demo
 - E.g. We decided to add tooltips to all the different statuses in the sidebar
 - User journey, with links to Figma or screenshots
