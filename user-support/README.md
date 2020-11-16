@@ -9,7 +9,7 @@ and assign bugs, monitor support channels, and manage releases.
 
 First response within 3 hours (during business time):
 
-- [Github - Tilt Issues](https://github.com/windmilleng/tilt/issues)
+- [GitHub - Tilt Issues](https://github.com/windmilleng/tilt/issues)
 
 - [Kubernetes Slack - #tilt channel](https://kubernetes.slack.com/messages/CESBL84MV/)
 
@@ -41,7 +41,7 @@ that is not expressed in GitHub issues.
 
 ### Support Triage
 
-When a user reports an issue, the Exterminator should ensure there's a Github issue.
+When a user reports an issue, the exterminator should ensure there's a GitHub issue.
 
 The exterminator should confirm with the user that the issue write-up accurately
 expresses their problem, and ask them to +1 it or comment with additional context.
@@ -51,8 +51,7 @@ _doesn't_ mean "the issue with the most votes wins". It's just one variable we
 use in prioritization.
 
 The exterminator should assign labels to the ticket that match our current
-work-tracking best practices. Issues with a bug label are automatically added to
-the [Tilt bug triage](https://github.com/orgs/windmilleng/projects/2).
+work-tracking best practices.
 
 Any interesting new users should be mentioned in #triage-customers. The
 exterminator should use their best judgment on who is promising enough to DM
@@ -64,7 +63,7 @@ they are in the channel).
 When a Tilter has a problem with Tilt, they should report it in the #triage-bugs Slack
 channel.
 
-The exterminator should determine whether the problem belongs in Github Issues or
+The exterminator should determine whether the problem belongs in GitHub Issues or
 Clubhouse, based on whether users have noticed and who it affects, and file it
 in the appropriate place.
 
@@ -122,9 +121,9 @@ exterminator so we can adjust the process. We use two main metrics:
 - The exterminator handoff form asks for a count of how many unique users
   filed a Github issue or asked a question in the Slack channel each day.
   (As the goal of this metric is to track exterminator support load, this
-  number should not reflect Tilter-initiated Github issues.)
+  number should not reflect Tilter-initiated GitHub issues.)
 
-- For all new Github issues that we want to track,
+- For all new GitHub issues that we want to track,
   the exterminator should run the [**github -> clubhouse import script**](https://github.com/windmilleng/exterminator).
   The script will add an exterminator label so that we can count
   the number of exterminator-created tickets each week.
@@ -141,7 +140,7 @@ Currently, the Lead Tracker is Nick.
 
 ### Responsibilities
 
-When new users ask a question in the Slack channel or Github repo, 
+When new users ask a question in the Slack channel or GitHub repo, 
 the Lead Tracker should:
 
 - Research who they are and what team they're on
