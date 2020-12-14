@@ -36,3 +36,22 @@ looks declarative, like YAML. Starlark is flexible enough that you can use more
 imperative code to declare the state of your dev environment, but is more
 limited than a full programming language.
 
+## Extensibility
+
+There's an old quote that "Kubernetes competes with Bash."
+
+We believe Tilt competes with Bash.
+
+In other words, Tilt is an extensible system that we expect to replace Bash for
+building dev environments. Tilt provides the control loop and a default display
+engine, but users should be able to supply the data models, functionality, and
+custom displays.
+
+When we build any feature in Tilt, we should consider how users might have added
+that feature.
+
+For example, `docker_build` is a built-in that we made. But users want to create their
+own builders. How could we make it so that anyone could have added `docker_build`?
+
+Users often want a way to cancel `docker_build`. How would they add their own
+built-in cancellation semantics? How baked into the control loop should it be?
