@@ -42,10 +42,14 @@ There's an old quote that "Kubernetes competes with Bash."
 
 We believe Tilt competes with Bash.
 
-In other words, Tilt is an extensible system that we expect to replace Bash for
-building dev environments. Tilt provides the control loop and a default display
-engine, but users should be able to supply the data models, functionality, and
-custom displays.
+What we mean by that is that Kubernetes doesn't change the problems that infra
+engineers are solving, just how they solve it. They're writing the same tools in
+a Kubernetes framework instead of in Bash.
+
+Similarly, Tilt is an extensible system that we expect to replace Bash for how
+devs set up their dev environment. Tilt provides the control loop and a default
+display engine, but users should be able to supply the data models,
+functionality, and custom displays.
 
 When we build any feature in Tilt, we should consider how users might have added
 that feature.
