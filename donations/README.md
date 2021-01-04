@@ -15,7 +15,7 @@ Each new donation should be recorded in this document so that we have a record g
 
 ### 2020
 * Dec: [AnitaB.org](https://anitab.org/) - VW [Tweet](https://twitter.com/tilt_dev/status/1346176001898913792)
-* Nov: [Center for Humane Technology] (https://www.humanetech.com/) - SG
+* Nov: [Center for Humane Technology](https://www.humanetech.com/) - SG
 * Oct: [All Star Code](https://www.allstarcode.org/) - MM ([Tweet](https://twitter.com/tilt_dev/status/1313559289890582530))
 * Sep: TBD - LK
 * Aug: TBD - DB
