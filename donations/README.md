@@ -14,7 +14,7 @@ Each new donation should be recorded in this document so that we have a record g
 * Jan: TBD - ML
 
 ### 2020
-* Dec: TBD - VW
+* Dec: [AnitaB.org](https://anitab.org/) - VW [Tweet](https://twitter.com/tilt_dev/status/1346176001898913792)
 * Nov: TBD - SG
 * Oct: [All Star Code](https://www.allstarcode.org/) - MM ([Tweet](https://twitter.com/tilt_dev/status/1313559289890582530))
 * Sep: TBD - LK
