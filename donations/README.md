@@ -4,13 +4,22 @@ Every month Windmill donates $100 per Tilter toward an organization that is work
 
 Each month, one Tilter is designated as the Donation Deputy. They are responsible for proposing an organization to donate to (either via email or in Planning); the team then discusses the organization and confirms that we want to give to them.
 
-The Donation Deputy is also responsible for coordinating the logistics of the donation (i.e. making sure it actually happens), and tweeting about it using the [@tilt_dev](https://twitter.com/tilt_dev) account. (Password in 1Password.) The Donation Deputy role is rotated between all Tilters. When the Donation Deputy for the month is assigned, the donation should be [tracked in a Clubhouse ticket](https://app.clubhouse.io/windmill/stories/new?template_id=5e6a6244-cc45-4cd2-a3ba-8ac4139a692a) to make sure it gets done.
+All donations must be on a corporate card. (Please do not put donations on a
+personal credit card.) The Donation Deputy is also responsible for coordinating
+the logistics of the donation (i.e. making sure it actually happens).
+
+Ater the donation is confirmed, the donation deputy should tweet about it using the [@tilt_dev](https://twitter.com/tilt_dev) account. (Password in 1Password.) The Donation Deputy role is rotated between all Tilters. When the Donation Deputy for the month is assigned, the donation should be [tracked in a Clubhouse ticket](https://app.clubhouse.io/windmill/stories/new?template_id=5e6a6244-cc45-4cd2-a3ba-8ac4139a692a) to make sure it gets done.
 
 Each new donation should be recorded in this document so that we have a record going forward.
 
 ## Donation Log
 
 ### 2021
+* June: TBD - LK
+* May: TBD - DB
+* Apr: TBD - NS
+* Mar: TBD - MB
+* Feb: TBD - HY
 * Jan: TBD - ML
 
 ### 2020
