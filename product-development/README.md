@@ -191,7 +191,7 @@ For example, suppose usability research suggests that the Tilt Web UI right side
 
 ### Meetings
 
-Victor is responsible for scheduling and running regular meetings for each ongoing epic, as needed, to facilitate collaboration. People who are actively contributing to the epic should attend these meetings. The meeting is focused on unblocking problems, and moving the epic toward completion.
+Victor is responsible for scheduling and running regular meetings for each ongoing epic, as needed, to facilitate collaboration. People who are actively contributing to the epic should attend these meetings. The meeting is focused on unblocking immediate problems pertinent to the epic, and moving the epic toward completion.
 
 Non-active contributors are not invited to the meeting. They should address questions about the epic to the DRI or Victor separately in Clubhouse/Slack, or the [weekly epics meeting](#weekly-epics-meeting).
 
