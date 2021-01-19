@@ -119,9 +119,9 @@ The acceptance criteria sections are _especially critical_, including presenting
 the problem and final implementation in the [weekly epics
 meeting](#weekly-epics-meeting).
 
-### How DRIs are Assigned
+### How Tilters are Assigned to Epics
 
-When assigning DRIs, we're operating on a few hypotheses:
+When assigning a Tilter to ane epic, we're operating on a few hypotheses:
 
 - Projects are far more likely to succeed when the person working on it feels
   connected to the project, and feels it lets them use their skills well.
@@ -154,11 +154,6 @@ focusing on?
 There may be rare cases where someone gets assigned to an epic that they
 don't want to work on, but in those cases we should explicitly call out
 that this is happening and why.
-
-At all times, every Tilter should have 1-2 epics assigned to them that haven't
-been started yet. The epics are their "Next Up" list.  This isn't final - they
-may get reassigned. But we bias towards keeping the current assignment so that
-Tilters know what's coming next.
 
 ### Starting an Epic
 
