@@ -155,6 +155,12 @@ The acceptance criteria sections are _especially critical_, including presenting
 the problem and final implementation in the [weekly epics
 meeting](#weekly-epics-meeting).
 
+### Specify Epic Team Members
+
+Each epic has team members. This is specified in the description of the epic,
+and is the source of truth for team membership. Nick is responsible for
+maintaining this.
+
 ### Starting an Epic
 
 The DRI moves the epic into the `In Progress` state.
@@ -195,10 +201,12 @@ Between the end of one epic and the start of a new one, it is OK to knock out sm
 
 Since we are focused on shipping prioritized epics quickly, Nick may
 move you to another team to work another epic, even before the current
-epic you are working on is done. Feel free to make suggestions. But
-look to Nick's decisions as the source of truth of your current epic.
-Until Nick has announced a change, you should continue working on your
-currently assigned epic.
+epic you are working on is done. Feel free to make suggestions. But Nick
+is responsible for maintaining the source of truth of team membership
+in the epic description. See [Specify Epic Team Members](#specify-epic-team-members).
+
+You should always continue working in your specified team per the source
+of truth team membership in the epic description.
 
 ## Weekly epics meeting
 There is a weekly meeting for discussing epics where all Tilters are invited. The purpose of this meeting is to make sure that the team is aligned on current work (Tilters know what teammates are working on, blockers are surfaced) and planned work (Tilters advocate to de/prioritize epics, ask questions about existing epics/prioritization), as well as to celebrate wins (demos of completed epics, shout-outs, etc.).
