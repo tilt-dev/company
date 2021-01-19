@@ -204,8 +204,8 @@ Between the end of one epic and the start of a new one, it is OK to knock out sm
 Since we are focused on shipping prioritized epics quickly, Nick may
 move you to another team to work on another epic, even before the current
 epic you are working on is done. Feel free to make suggestions. Nick
-is responsible for maintaining the source of truth of team membership
-in the epic description. See [Specify Epic Team Members](#specify-epic-team-members).
+is responsible for maintaining the source of truth of team membership. 
+See [Specify Epic Team Members](#specify-epic-team-members).
 
 You should always continue working in your specified team per the source
 of truth team membership in the epic description.
