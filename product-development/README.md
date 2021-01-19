@@ -191,6 +191,15 @@ Here is an example of how an epic description should look when all the acceptanc
 
 Between the end of one epic and the start of a new one, it is OK to knock out small feature requests or [bug fixes](https://github.com/tilt-dev/company/blob/master/development/README.md#assign-yourself-a-bug) that you have context on.
 
+## Moving Between Teams
+
+Since we are focused on shipping prioritized epics quickly, Nick may
+move you to another team to work another epic, even before the current
+epic you are working on is done. Feel free to make suggestions. But
+look to Nick's decisions as the source of truth of your current epic.
+Until Nick has announced a change, you should continue working on your
+currently assigned epic.
+
 ## Weekly epics meeting
 There is a weekly meeting for discussing epics where all Tilters are invited. The purpose of this meeting is to make sure that the team is aligned on current work (Tilters know what teammates are working on, blockers are surfaced) and planned work (Tilters advocate to de/prioritize epics, ask questions about existing epics/prioritization), as well as to celebrate wins (demos of completed epics, shout-outs, etc.).
 
