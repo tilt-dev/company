@@ -105,25 +105,11 @@ When a section is done, replace :white_small_square: with :white_check_mark:
 
 ## How an Epic Starts
 
-### DRIs
+### A Team is Assigned to an Epic
 
-Epics are assigned to a
-[DRI](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4).
+When assigning a team of Tilters to an epic, we're operating on a few hypotheses:
 
-The DRI is responsible for:
-- maintaining the epic state, description, and attached stories updated as the single source of truth of overall work status
-- reducing scope if additional work is discovered
-- driving the epic to completion
-
-The acceptance criteria sections are _especially critical_, including presenting
-the problem and final implementation in the [weekly epics
-meeting](#weekly-epics-meeting).
-
-### How Tilters are Assigned to Epics
-
-When assigning a Tilter to ane epic, we're operating on a few hypotheses:
-
-- Projects are far more likely to succeed when the person working on it feels
+- Projects are far more likely to succeed when the people working on it feel
   connected to the project, and feels it lets them use their skills well.
 
 - Conversely, Tilters should be empowered to try epics they feel strongly about,
@@ -131,7 +117,7 @@ When assigning a Tilter to ane epic, we're operating on a few hypotheses:
   decisions, and we shouldn't require consensus on an idea to move forward.
   
 - It's anxiety-producing and not helpful when people are constantly switching
-  back and forth between execution and prioritization. We don't want each DRI
+  back and forth between execution and prioritization. We don't want each Tilter
   to have to do a prioritization exercise every week when they finish their epic.
   
 So we're trying a new system.
@@ -143,8 +129,8 @@ affirmatively articulate what epics in the backlog they want to work on and why.
 Every two weeks, Nick will talk to you your impressions of the backlog, and try
 to get a sense of what you think is important and want to work on.
 
-Nick will assign epics near the top of the backlog, trying to balance
-preferences and current priority order.
+Nick will assign you to a team working on an ongoing epic, or a new epic near
+the top of the backlog, trying to balance preferences and current priority order.
 
 If there's an epic that's high in priority order but no one wants to work on,
 then Nick should dig more into why. Do we need to do more research upfront?  Is
@@ -155,12 +141,23 @@ There may be rare cases where someone gets assigned to an epic that they
 don't want to work on, but in those cases we should explicitly call out
 that this is happening and why.
 
+### DRIs 
+
+Each epic's assigned team has a [DRI](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4), 
+set by Nick.
+
+The DRI is responsible for:
+- maintaining the epic state, description, and attached stories updated as the single source of truth of overall work status
+- reducing scope if additional work is discovered
+- driving the epic to completion
+
+The acceptance criteria sections are _especially critical_, including presenting
+the problem and final implementation in the [weekly epics
+meeting](#weekly-epics-meeting).
+
 ### Starting an Epic
 
-When you're ready to start an epic, it should be clear which epic to start work
-on -- it's the highest-priority backlog epic assigned to you.
-
-Move it into the `In Progress` state.
+The DRI moves the epic into the `In Progress` state.
 
 ## How an Epic Progresses
 
