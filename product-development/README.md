@@ -157,9 +157,11 @@ meeting](#weekly-epics-meeting).
 
 ### Specify Epic Team Members
 
-Each epic has team members. This is specified in the description of the epic,
-and is the source of truth for team membership. Nick is responsible for
-maintaining this.
+Each in progress epic has team members, specified by whoever is an owner
+of the Clubhouse epic. (A Clubhouse epic can have multiple owners). The DRI
+of the epic is specified in the epic description.
+
+Nick is responsible for maintaining team membership in each in progress epic.
 
 ### Starting an Epic
 
