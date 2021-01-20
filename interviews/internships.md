@@ -20,10 +20,10 @@ more established companies.
 ## Non-Goals
 
 - At some companies, a successful internship can turn into a full-time offer.
-  At Tilt, this is a non-goal. Small startup hiring is highly contrained, and
-  it's simply unlikely that our hiring needs will line up with intern hiring
-  timelines. Tilt has never made a full-time offer to an intern. But we have
-  used our networks to help them find their next job.
+  At Tilt, this is a non-goal. Small startup hiring is highly constrained. It's
+  unlikely that our hiring needs will line up with intern hiring timelines. Tilt
+  has never made a full-time offer to an intern. But we have used our networks
+  to help them find their next job.
   
 - Some companies try to hire interns for a particular skillset or short-term project.
   For example, they might hire an AI PhD for a predefined AI project. We don't need
@@ -55,12 +55,12 @@ interns:
   since the intern will be learning a lot in a short time!
 
 - Autonomy/Resoluteness: A school project has a lot of structure (a syllabus,
-  deadlines, clear instructions, known solutions, etc.).  An engineering project
+  deadlines, clear instructions, known solutions, etc.). An engineering project
   at a large company has less structure, but still might have multi-year
   roadmaps. At a small startup, you might not know what you're working on next
-  month. This is not a good internship for a student who's looking for a lot of
-  predictability. So we look for demonstrated ability to work independently and
-  push through failed attempts.
+  month. This is not a good internship for a student who's looking for a big
+  predictable capstone project. We look for demonstrated ability to push 
+  a project forward even via (especially via) asking for help and pairing.
   
 - Curiosity/Collaboration: At Tilt, the intern is going to be exposed to dev
   environments of different partner companies. Knowing how to ask questions
