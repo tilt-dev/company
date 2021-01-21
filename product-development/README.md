@@ -189,6 +189,12 @@ Certain initiatives may require a sustained effort of multiple epics to get to a
 
 For example, suppose usability research suggests that the Tilt Web UI right sidebar is difficult for users to learn. Two engineers develop some ideas to iterate on the existing designs in order to address the problems. But they discover that it's a better idea to first re-architect some of the frontend JavaScript and CSS to accommodate the design changes, repaying some previously incurred tech debt. In this case, the first epic's scope would simply be non-user facing code re-architecture work, that doesn't have immediate user impact, but contributes to solving the usability problem indirectly as an incremental first step. The engineers may work on the second epic right after the first one is done, or it may be given to another team, or simply deferred to a future time. By scoping work to smaller units, Tilt is more flexible in prioritizing whatever is best at (almost) any moment of time as a small organization.
 
+### Epic collaboration meetings
+
+Victor is responsible for scheduling and running regular meetings for each ongoing epic, as needed, to facilitate collaboration. People who are actively contributing to the epic should attend these meetings. The meeting is focused on unblocking immediate problems pertinent to the epic, and moving the epic toward completion.
+
+Non-active contributors are not invited to the meeting. They should address questions about the epic to the DRI or Victor separately in Clubhouse/Slack, or in the [weekly epics meeting](#weekly-epics-meeting).
+
 ## How an Epic Ends
 
 For an epic to be completed (and marked as `Closed` in Clubhouse), the epic description needs to have all the acceptance criteria in its description marked as completed.
