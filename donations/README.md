@@ -13,6 +13,8 @@ Each new donation should be recorded in this document so that we have a record g
 ## Donation Log
 
 ### 2021
+
+* Mar: TBD - SSG
 * Feb: TBD - MB
 * Jan: TBD - ML
 
