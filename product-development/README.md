@@ -59,7 +59,8 @@ Victor is responsible for tracking [open customer requests](https://companies-b1
 
 ### Epic description template
 
-Before an epic starts, it should contain this template.
+When an epic starts, the epic owner should ensure this template is in the epic
+description.
 
 The "Problem statement and references" section should be completed. (Other
 sections can remain not yet completed.)
@@ -188,48 +189,3 @@ Certain initiatives may require a sustained effort of multiple epics to get to a
 ### Example
 
 For example, suppose usability research suggests that the Tilt Web UI right sidebar is difficult for users to learn. Two engineers develop some ideas to iterate on the existing designs in order to address the problems. But they discover that it's a better idea to first re-architect some of the frontend JavaScript and CSS to accommodate the design changes, repaying some previously incurred tech debt. In this case, the first epic's scope would simply be non-user facing code re-architecture work, that doesn't have immediate user impact, but contributes to solving the usability problem indirectly as an incremental first step. The engineers may work on the second epic right after the first one is done, or it may be given to another team, or simply deferred to a future time. By scoping work to smaller units, Tilt is more flexible in prioritizing whatever is best at (almost) any moment of time as a small organization.
-
-### Epic collaboration meetings
-
-Victor is responsible for scheduling and running regular meetings for each ongoing epic, as needed, to facilitate collaboration. People who are actively contributing to the epic should attend these meetings. The meeting is focused on unblocking immediate problems pertinent to the epic, and moving the epic toward completion.
-
-Non-active contributors are not invited to the meeting. They should address questions about the epic to the DRI or Victor separately in Clubhouse/Slack, or in the [weekly epics meeting](#weekly-epics-meeting).
-
-## How an Epic Ends
-
-For an epic to be completed (and marked as `Closed` in Clubhouse), the epic description needs to have all the acceptance criteria in its description marked as completed.
-
-Here is an example of how an epic description should look when all the acceptance criteria have been completed.
-
-<img src="images/epic-acceptance-criteria-example.png" height="650" />
-
-Between the end of one epic and the start of a new one, it is OK to knock out small feature requests or [bug fixes](https://github.com/tilt-dev/company/blob/master/development/README.md#assign-yourself-a-bug) that you have context on.
-
-## Moving Between Teams
-
-Since we are focused on shipping prioritized epics quickly, Nick may
-move you to another team to work on another epic, even before the current
-epic you are working on is finished by the current team. Feel free to make 
-suggestions. Nick is responsible for maintaining the source of truth of team 
-membership. See [Specify Epic Team Members](#specify-epic-team-members).
-
-You should always continue working in your specified team per the source
-of truth team membership in the epic description.
-
-## Weekly epics meeting
-There is a weekly meeting for discussing epics where all Tilters are invited. The purpose of this meeting is to make sure that the team is aligned on current work (Tilters know what teammates are working on, blockers are surfaced) and planned work (Tilters advocate to de/prioritize epics, ask questions about existing epics/prioritization), as well as to celebrate wins (demos of completed epics, shout-outs, etc.).
-
-Each meeting will be recorded (with permission from participants) and shared internally for all Tilters to watch if they want, [listed here](https://docs.google.com/document/d/173tL_bu4hs73VXo5kHxU0rDSXFlmKS-gpMJokpcdWE0/edit). Tilters should add agenda topics per the following categories, preferably prior to the meeting starting.
-
-Agenda topics include:
-- DRI links to and presents their epic, including problem and final implementation, preferably with a demo. (This presentation is part of an epic's [acceptance criteria](#finishing-an-epic-with-acceptance-criteria).)
-- For each in progress epic, the DRI highlights the biggest change and also shouts out to people that have helped, from the past week. This section should also highlight epics that are stalled or taking longer than expected, and give the DRI a chance to ask for help.
-- Somebody advocates for an epic to be high priority or otherwise discusses epic priorities. You should add a [meeting agenda item](https://docs.google.com/document/d/173tL_bu4hs73VXo5kHxU0rDSXFlmKS-gpMJokpcdWE0/edit) if you would like to discuss this at the next meeting.
-
-## Weekly company meeting
-Victor will use the weekly company meeting to highlight epics (new or otherwise) that have recently moved to high priority or of general interest. Newly-prioritized epics shoud be briefly described, and the reason behind their prioritization explained (e.g.: "this epic is about improving a user's experience with the resource URLs that Tilt surfaces; we've prioritized it because it would be a big quality-of-life improvement for Acme Company for not that much technical work").
-
-## Design process
-There is a light-weight design process where work is tracked in Clubhouse stories, in a [separate Clubhouse project / workflow](https://app.clubhouse.io/windmill/stories/space/4524/everything). Victor and Han manage this work for Sascha. Together they ensure that design work necessary for important product changes happens ahead of implementation.
-
-Han and Sascha collaborate actively on design, particularly in the early stages. Sascha is responsible for delivering the final mocks, flows, etc that Victor uses to scope into implementation work. Sascha uses Han as a resource for thinking through complex design issues. To maintain momentum and unblock his work, Sascha works with Victor as his point person for clarifications, reviews, and facilitating collaboration with others. Victor is responsible for bringing in other stakeholders for additional discussion as needed.
