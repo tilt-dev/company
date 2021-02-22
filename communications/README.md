@@ -125,10 +125,48 @@ The meeting may not move to a new tension until the owner says that their
 tension is resolved. Tension processing continues until all tensions are
 resolved.
 
+Resolving a tension means getting to the next action. It may be as simple as
+"Alice and Bob will talk about CSS style guidelines."
+
 #### Check-out
 
 During check-out, each person reflects on how the meeting went. Like check-in,
 this is a no-reaction round.
+
+
+## Regular Meetings
+
+### Weekly Company Updates Meeting
+
+Every week, we have a Company Updates meeting.
+
+The goal of this meeting is sharing information that all Tilters should be aware of, including:
+
+- Recent hires
+- Major partner changes
+- In progress epics
+- Recently completed epics
+
+The facilitator decides what topics to include and is responsible for moving the updates along.
+
+While updates are presented, the facilitator should keep any discussion focused
+on questions and clarifications.  If it starts to turn into commentary or
+disagreement, the facilitator should interrupt and ask them to raise a separate
+tension.
+
+In the second half of the meeting, there's a round for Tilters to raise tensions.
+
+### Epic Meetings
+
+Victor is responsible for scheduling and running regular meetings for each
+ongoing epic, as needed, to facilitate collaboration. People who are actively
+contributing to the epic should attend these meetings. The meeting is focused on
+unblocking immediate problems pertinent to the epic, and moving the epic toward
+completion.
+
+Non-active contributors are not invited to the meeting. They should address
+questions about the epic to the DRI or Victor separately in Clubhouse/Slack, or
+in the weekly Company Updates meeting.
 
 ## Written Communication
 
