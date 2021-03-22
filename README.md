@@ -15,13 +15,20 @@ Consider [watching this repo](https://help.github.com/en/github/receiving-notifi
 
 # How do I change it?
 
-If there's a problem with the handbook that you'd like to solve, it's possible you're not sure 1) what a good solution would be, 2) whether enough other people agree it's a problem that it's worth fixing, or 3) [what the goal of the existing process is](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence). Consider seeking input from teammates via whatever medium you think would be effective before expending a bunch of effort writing up a specific solution, as you likely would with a non-trivial code change. Include relevant context from such conversations in your PR.
+For simple changes or obvious typos, you can commit directly to master
+without creating a PR.
 
-If you come up with a way to improve the handbook (whether after speaking to teammates or not), suggest a change by creating a PR. Invite other Tilters to discuss the change to get buy-in. As with any other PR, if it is non-trivial, include in the PR's description a statement of the problem the PR is attempting to solve.
+If you want to propose a new policy or update an existing one, that policy
+should have a "Responsibility" section. For example, like the [Responsibility
+section](https://github.com/tilt-dev/tilt/blob/master/SECURITY.md#responsibility)
+on our security policy.
 
-We currently don't have a strict approval process, so use your personal judgement to decide who you should ask for review, and when a PR should be merged. For example, if you are correcting an obvious typo, you can probably commit directly to `master` without even creating a PR. But if you are proposing a change to vacation policy, you probably need to get approval from Dan B.
+The Responsibility section should explain who has the ultimate call on changes
+to the policy, and who should keep it up to date. At times, a small subteam may
+maintain a policy together.
 
-Once a PR is merged, the process is officially changed and Tilters should [abide by the new process](#how-do-i-use-it). Consider sharing the change broadly afterward so everyone knows.
+Anyone at Tilt may propose changes to the policies and discuss them with other
+Tilters. But the responsible individual has the final call.
 
 # Table of contents
 
