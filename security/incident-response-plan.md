@@ -72,7 +72,7 @@ vulnerability, and write post mortem and lessons learned documents.
 ## Response Team Members
 
 Nick Santos (nick@tilt.dev), CTO
-Victor Wu (victor@tilt.dev), Head of Product
+L Körbes (l@tilt.dev), Head of Product
 
 ## Required Retrospective
 
