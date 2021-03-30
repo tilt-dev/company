@@ -9,7 +9,7 @@ and assign bugs, monitor support channels, and manage releases.
 
 First response within 3 hours (during business time):
 
-- [GitHub - Tilt Issues](https://github.com/windmilleng/tilt/issues)
+- [GitHub - Tilt Issues](https://github.com/tilt-dev/tilt/issues)
 
 - [Kubernetes Slack - #tilt channel](https://kubernetes.slack.com/messages/CESBL84MV/)
 
@@ -94,10 +94,10 @@ should consider fixing it right away.
 ### Releases
 
 The exterminator is responsible for making sure a
-[release](https://github.com/windmilleng/tilt/blob/master/CONTRIBUTING.md#releasing)
+[release](https://github.com/tilt-dev/tilt/blob/master/CONTRIBUTING.md#releasing)
 happens every non-holiday week.
 
-Each release should have a summary [release notes section](https://github.com/windmilleng/tilt/releases)
+Each release should have a summary [release notes section](https://github.com/tilt-dev/tilt/releases)
 highlighting major exciting changes, changes that break existing workflows, and upcoming
 deprecations, in addition to the automatically generated changelog section.
 
@@ -124,7 +124,7 @@ exterminator so we can adjust the process. We use two main metrics:
   number should not reflect Tilter-initiated GitHub issues.)
 
 - For all new GitHub issues that we want to track,
-  the exterminator should run the [**github -> clubhouse import script**](https://github.com/windmilleng/exterminator).
+  the exterminator should run the [**github -> clubhouse import script**](https://github.com/tilt-dev/exterminator).
   The script will add an exterminator label so that we can count
   the number of exterminator-created tickets each week.
 

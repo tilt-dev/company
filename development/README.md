@@ -10,7 +10,7 @@ We should express our intentions through [documentating Tilt functionality](http
 Non-user facing problems are not classified as bugs.
 
 ### All bugs
-All known open bugs should be listed in the [Bugs Clubhouse space](https://app.clubhouse.io/windmill/stories/space/4729/bugs). Some bugs are also listed in [GitHub issues](https://github.com/windmilleng/tilt/labels/bug). But these should be a subset of the entire set of open bugs in the Clubhouse space.
+All known open bugs should be listed in the [Bugs Clubhouse space](https://app.clubhouse.io/windmill/stories/space/4729/bugs). Some bugs are also listed in [GitHub issues](https://github.com/tilt-dev/tilt/labels/bug). But these should be a subset of the entire set of open bugs in the Clubhouse space.
 
 ### Fix a bug at any time
 We believe in shipping a quality experience for both Tilt and Tilt Cloud. So Tilters are encouraged to use their own judgment in picking up a bug to fix at anytime, if they think it's the best use of their time at that moment, ahead of other priorities. Nobody should ever need permission to fix a bug.
