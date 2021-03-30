@@ -1,28 +1,42 @@
 # Product Development
 
-## Deadlines for major product releases
-For major product releases, it may be helpful to establish a deadline, in order to help support account managers in communicating upcoming changes with customers, and in general, help them with general Tilt rollout plans. In particular:
-- Victor is responsible identifying major product releases.
-- Victor is responsible for establishing these deadlines, in close collaboration with Dan, Nick, and engineering folks in general, especially as it pertains to effort and timeline estimation.
-- Victor is responsible for communicating these deadlines to all Tilters _internally_. Account managers are responsible for communicating downstream expectations to customers per their good judgment.
-- Everyone should work together to avoid significantly delaying an established deadline, especially if downstream expectations have already been communicated to many customers.
-- We should use the due date field on epics and stories to capture deadlines. We should apply the due dates to the final marketing deliverables (e.g. blog posts, docs), instead of product change deliverables, so that account managers are equipped with artifacts to share with customers.
-
-## Encourage users to create and subscribe to GitHub issues
-We use Clubhouse stories and epics to track product changes. But we rely on GitHub issues to engage with the Tilt community. In addition to the [Exterminator creating GitHub issues for feature requests](../user-support/README.md#exterminator), Tilters should encourage all users to create GitHub issues, subscribe to existing issues, and 👍 them. In particular, by subscribing to an issue, a user will get a notification when it is closed (possibly informing them that a feature request is now implemented), bringing them back to Tilt for further product discussion.
-
 ## Workflow
+
 We want a good internal workflow so we can understand our customer pain points, collaborate to solve their problems, and measure the effectiveness of what we release.
 
 <img src="images/workflow.png" height="550" />
 
 The illustration above maps the people, tools, and deliverables in this product development cycle. Ideally, we run a flow where conversations with customers drive an internal process where high-level strategy informs the scoped and defined product changes we ship. And when we ship to customers, we measure impact so we can continue to adjust what we strategize and deliver.
 
-### Free-form discussion in Clubhouse stories
-All Tilters are encouraged to collaborate in _discussing_ general ideas in a free-form fashion, with no strict process, no structure, no specific timelines, and no specific implementation commitments. Tilters should prefer discussing ideas in Clubhouse stories, linking ideas together, thus building a web of good ideas that are easily searchable for posterity.
+### Github for Community Support
+
+We rely on public Github issues to engage with the Tilt community.
+
+Tilters should encourage all users to create GitHub issues, subscribe to
+existing issues, and 👍 them.
+
+The Exterminator should create Github issues for all bugs and
+feature requests. For more details, see [the exterminator
+policy](../user-support/README.md#exterminator).
+
+By subscribing to an issue, a user will get a notification when it is closed
+(possibly informing them that a feature request is now implemented), bringing
+them back to Tilt for further product discussion.
+
+### Clubhouse for Task Management
+
+We use Clubhouse stories and epics to track product changes.
+
+All Tilters are encouraged to collaborate in _discussing_ general ideas. 
+
+Tilters should prefer discussing ideas in Clubhouse stories, linking ideas together, thus building a web of good ideas that are easily searchable for posterity.
 
 ### Defining high-level business initiatives with Clubhouse epics
-All Tilters are encouraged to collaborate in _definining_ high-level business initiatives. Similar to general ideas, there is no strict process for collaboration, except that each business initiative should be documented as a Clubhouse epic. As an epic becomes increasingly well-defined over time, it should have more and more of these components with increasing fidelity:
+
+All Tilters are encouraged to collaborate in _definining_ high-level problems. 
+
+There is no strict process for collaboration. As an epic becomes increasingly well-defined over time, it should have more and more of these components with increasing fidelity:
+
 - Problem statement
 - Solution scope
 - Attached stories with relevant ideas, including designs
@@ -30,32 +44,25 @@ All Tilters are encouraged to collaborate in _definining_ high-level business in
 
 ## Before an Epic Starts
 
-### Unstarted Epics
+### Epic Priortity
 
-To start, Victor is the owner of all epics until they are assigned to
-someone. Victor is responsible for ensuring that the [backlog of unstarted
-epics](https://app.clubhouse.io/windmill/epics?state_ids=500008016&state_ids=500008001)
-is continually full and that epics are increasingly being better defined. There
-should be no shortage of epics.
+Each week, L, Nick, and Dan review the
+[roadmap](https://app.clubhouse.io/windmill/epics?state_ids=500008016&state_ids=500000003).
 
-If you have a question or comment about an unstarted epic's scope, design, timeline, priority, or any other aspect, you should direct it at Victor.
+Once an epic has enough detail that we think someone can work on it, we assign
+it a date. The date makes it appear on the roadmap chart.
+
+The dates on the roadmap are not intended to be exact. We use them to express rough dependencies
+and relative ordering between epics.
+
+L is responsible for ensuring that the roadmap is continually full and that
+epics are increasingly being better defined. There should be no shortage of
+epics.
+
+If you have a question or comment about an unstarted epic's scope, design,
+timeline, priority, or any other aspect, you should direct it at L.
 
 <img src="images/epics-priority.png" height="100" />
-
-### Epic Priority
-
-Dan B and Nick, and Victor are responsible for maintaining a rough priority of
-the backlog (higher priority toward the top in the Clubhouse view, when the
-triangle is pointing down).
-
-Higher epics should be more well-defined. As we go down, it's OK if the epics
-are less well-defined and more loosely ordered.
-
-Prioritizing an epic does not make any guarantees about when it will be started
-or who should pick it up. It's just a way to help us communicate about what's
-important.
-
-Victor is responsible for tracking [open customer requests](https://companies-b164c.firebaseapp.com/customer-requests) as an input for prioritization.
 
 ### Epic description template
 
@@ -120,8 +127,6 @@ When assigning a team of Tilters to an epic, we're operating on a few hypotheses
 - It's anxiety-producing and not helpful when people are constantly switching
   back and forth between execution and prioritization. We don't want each Tilter
   to have to do a prioritization exercise every week when they finish their epic.
-  
-So we're trying a new system.
 
 Each Tilter is responsible for reading the backlog of epics. They don't need to
 understand every epic. But they should understand enough to be able to
@@ -152,10 +157,6 @@ The DRI is responsible for:
 - reducing scope if additional work is discovered
 - driving the epic to completion
 
-The acceptance criteria sections are _especially critical_, including presenting
-the problem and final implementation in the [weekly epics
-meeting](#weekly-epics-meeting).
-
 ### Specify Epic Team Members
 
 Each in progress epic has team members, specified by whoever is an owner
@@ -168,24 +169,33 @@ Nick is responsible for maintaining team membership in each in progress epic.
 
 The DRI moves the epic into the `In Progress` state.
 
-## How an Epic Progresses
+### How an Epic Ends
 
-A given epic may have a fairly broad initial business problem. The engineer(s) should carve out and define a smaller problem, and spec out a solution that can be accomplished within a target of **_7 business days_** (counted from when the epic moves into `In Progress`, more below on states). 
+A given epic may have a fairly broad problem. The engineer(s) should carve out
+and define a smaller problem, and spec out a solution that can be accomplished
+within a target of **_7 business days_** (counted from when the epic moves into
+`In Progress`, more below on states).
 
 ### Reducing Scope
 
-If the solution cannot be finished within 7 business days, keep reducing scope. 
+If the solution drags beyond the expected time, keep reducing scope.
 
-The DRI should update the epic description with smaller scope and acceptance criteria. They may need to communicate radical changes in scope to other stakeholders, but it's ultimately the DRI's call.
+The DRI should update the epic description with smaller scope and acceptance
+criteria. They may need to communicate radical changes in scope to other
+stakeholders, but it's ultimately the DRI's call. If the DRI isn't sure what to
+cut, they should reach out to L for help.
 
-The DRI may create additional epics and/or stories to capture the future work. Alternatively, they may create a separate epic with the smaller scope and start work on that one instead (putting the original epic back into the backlog).
+The DRI may create additional epics and/or stories to capture the future
+work. Alternatively, they may create a separate epic with the smaller scope and
+start work on that one instead (putting the original epic back into the
+backlog).
 
-The target time period is business calendar time, regardless of how many folks are working on the epic. So if for unplanned circumstances a person in a two person epic needs to be pulled away, the remaining person (who should be the epic owner DRI) may reduce scope to try to meet the target time period due to reduced capacity, saving the unfinished work for a future epic.
+The purpose of a single epic is _not_ to completely solve the problem. Rather,
+completing an epic should likely achieve incremental progress at addressing a
+single problem, adding incremental user value as a result. In some cases, any
+realized user value may only appear in future epics.
 
-The purpose of a single epic is _not_ to completely solve a business problem. Rather, completing an epic should likely achieve incremental progress at addressing a single problem, adding incremental user value as a result. In some cases, any realized user value may only appear in future epics.
+### Presenting the Result
 
-Certain initiatives may require a sustained effort of multiple epics to get to a place where folks are comfortable with the result. Tilters should therefore advocate for epics that close the gap of new but incomplete functionality, or fix tech debt, as per the [advocacy process outlined above](#defining-high-level-business-initiatives-with-clubhouse-epics).
-
-### Example
-
-For example, suppose usability research suggests that the Tilt Web UI right sidebar is difficult for users to learn. Two engineers develop some ideas to iterate on the existing designs in order to address the problems. But they discover that it's a better idea to first re-architect some of the frontend JavaScript and CSS to accommodate the design changes, repaying some previously incurred tech debt. In this case, the first epic's scope would simply be non-user facing code re-architecture work, that doesn't have immediate user impact, but contributes to solving the usability problem indirectly as an incremental first step. The engineers may work on the second epic right after the first one is done, or it may be given to another team, or simply deferred to a future time. By scoping work to smaller units, Tilt is more flexible in prioritizing whatever is best at (almost) any moment of time as a small organization.
+Once an epic is closed, the DRI should present the result at the weekly company
+meeting.
