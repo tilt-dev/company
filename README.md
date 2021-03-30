@@ -40,7 +40,6 @@ Tilters. But the responsible OWNERS have the final call.
 - [Interviews](/interviews/README.md)
 - [Product Development](/product-development/README.md)
 - [Product Principles](/product-principles/README.md)
-- [Retros](/retros/README.md)
 - [Security](/security/README.md)
 - [Social Rules](/social-rules/README.md)
 - [User Support](/user-support/README.md)

@@ -57,9 +57,11 @@
   decisions ("Why are we building Tilt?") or low-level ones ("Why does the logo
   use this shade of green?") - or even to be informed about every decision.
   
-## Meetings
+## Meeting Structure
 
-We borrow our meeting structure from Holacracy.
+We borrow our base meeting structure from Holacracy.
+
+Not all meetings at Tilt use this structure, but most borrow segments from it.
 
 Eng Coach Jean Hsu has written [a great
 article](https://medium.com/@jean/meetings-93446941a52a) on the goals of
@@ -133,8 +135,9 @@ Resolving a tension means getting to the next action. It may be as simple as
 During check-out, each person reflects on how the meeting went. Like check-in,
 this is a no-reaction round.
 
+## Meeting Schedule
 
-## Regular Meetings
+We only have a few regular meetings at Tilt.
 
 ### Weekly Company Updates Meeting
 
@@ -143,8 +146,10 @@ Every week, we have a Company Updates meeting.
 The goal of this meeting is sharing information that all Tilters should be aware of, including:
 
 - Recent hires
-- Major partner changes
-- In progress epics
+- Upcoming events
+- Partner team changes
+- New designs
+- User research summaries
 - Recently completed epics
 
 The facilitator decides what topics to include and is responsible for moving the updates along.
@@ -156,17 +161,42 @@ tension.
 
 In the second half of the meeting, there's a round for Tilters to raise tensions.
 
-### Epic Meetings
+### Weekly Product Tactical
 
-Victor is responsible for scheduling and running regular meetings for each
-ongoing epic, as needed, to facilitate collaboration. People who are actively
-contributing to the epic should attend these meetings. The meeting is focused on
-unblocking immediate problems pertinent to the epic, and moving the epic toward
-completion.
+Every week, L, Nick, and Dan meet to ensure that the description of every epic
+on the roadmap accurately reflects our current understanding of [the epic
+scope](../product-development/README.md).
 
-Non-active contributors are not invited to the meeting. They should address
-questions about the epic to the DRI or Victor separately in Clubhouse/Slack, or
-in the weekly Company Updates meeting.
+We ensure that when we present these epics during the company update meeting,
+they're up to date.
+
+### Retros
+
+Retros are scheduled on an ad hoc basis. You should expect a retro once a month.
+
+Usually the goal of the retro is to talk about how a project or process went.
+
+We prioritize sharing perspectives and figuring out misalignments over making
+decisions or determining what to change.
+
+Past retro topics have included:
+
+- The launch of a major epic
+- How we work with partner teams
+- Reactions to a new product strategy
+- Hiring for a particular role
+
+A good retro should be around 4-7 people. This ensures everyone can participate
+and keep the discussion focused.
+
+### Social time
+
+Every two months, we schedule an all-team social time. This usually means a game. Past social times have included:
+
+- An escape room
+- Among Us
+- A visit to the Museum of the Moving Image
+- Geoguessr
 
 ## Written Communication
 
