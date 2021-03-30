@@ -18,3 +18,7 @@ The retro deputy is responsible for scheduling and facilitating the retro meetin
 | 2020 Oct | Maia |
 | 2020 Nov | N/A |
 | 2020 Dec | Nick |
+
+## Reponsibility
+
+Nick is going to figure out how to merge this document into the communication document.

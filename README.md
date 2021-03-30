@@ -19,16 +19,16 @@ For simple changes or obvious typos, you can commit directly to master
 without creating a PR.
 
 If you want to propose a new policy or update an existing one, that policy
-should have a "Responsibility" section. For example, like the [Responsibility
-section](https://github.com/tilt-dev/tilt/blob/master/SECURITY.md#responsibility)
-on our security policy.
+should have an owner. We borrow our OWNERS format from [the Kubernetes owner
+format](https://github.com/kubernetes/community/blob/master/contributors/guide/owners.md)
+but use it more informally.
 
-The Responsibility section should explain who has the ultimate call on changes
+The OWNERS doc should express who has the ultimate call on changes
 to the policy, and who should keep it up to date. At times, a small subteam may
 maintain a policy together.
 
 Anyone at Tilt may propose changes to the policies and discuss them with other
-Tilters. But the responsible individual has the final call.
+Tilters. But the responsible OWNERS have the final call.
 
 # Table of contents
 
@@ -38,10 +38,10 @@ Tilters. But the responsible individual has the final call.
 - [Donations](/donations/README.md)
 - [Hours & Scheduling](/hours-scheduling/README.md)
 - [Interviews](/interviews/README.md)
-- [Personas](/personas/README.md)
 - [Product Development](/product-development/README.md)
 - [Product Principles](/product-principles/README.md)
 - [Retros](/retros/README.md)
 - [Security](/security/README.md)
 - [Social Rules](/social-rules/README.md)
 - [User Support](/user-support/README.md)
+
