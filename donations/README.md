@@ -13,13 +13,13 @@ Each new donation should be recorded in this document so that we have a record g
 ## Donation Log
 
 ### 2021
-
-* November: TBD - SG
-* October: TBD - MB
-* September: TBD - ML
-* August: TBD - MM
+* December: TBD - SG
+* November: TBD - MB
+* October: TBD - ML
+* September: TBD - MM
+* August: TBD - DB
 * July: TBD - LK
-* June: TBD - DB
+* June: TBD - LT
 * May: TBD - NS
 * Apr: TBD - HY
 * Mar: [Technovation](https://www.technovation.org/) - SSG
