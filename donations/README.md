@@ -21,9 +21,9 @@ Each new donation should be recorded in this document so that we have a record g
 * July: TBD - LK
 * June: TBD - LT
 * May: TBD - NS
-* Apr: TBD - HY
+* Apr: [Black in AI](https://blackinai.github.io/#/) - HY
 * Mar: [Technovation](https://www.technovation.org/) - SSG
-* Feb: TBD - MB
+* Feb: [Hidden Genius Project](https://twitter.com/HiddenGeniusPro) - MB
 * Jan: TBD - ML
 
 ### 2020
