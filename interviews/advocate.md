@@ -61,7 +61,7 @@ We dig into both relationships with end-users, and with the engineering team.
 We ask the candidate to explain a Kubernetes concept. It can be anything, but
 they should try to pick something meaty that cold take 20-30 minutes to
 explain. (Some ideas: RBAC, CRDs) Assume that we have used Kubernetes before but
-only as a user. We haven't set up a cluster. Afterwords we ask follow up
+only as a user. We haven't set up a cluster. Afterwards we ask follow up
 questions.
 
 The point of this interview is to assess the candidate's ability to teach,
