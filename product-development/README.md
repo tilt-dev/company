@@ -144,7 +144,7 @@ Once the workstream reaches its conclusion a wrap up meeting takes place. It con
 
 Misc:
 - As a rule of thumb, a contributor should work on only -one- workstream at a time.
-- We are deliberately not concerned with deadlines, but with addressing business concerns. (In other words: we work on something until we're happy with it, and dates do not matter.)
+- We are deliberately not concerned with deadlines, but with addressing business concerns. (In other words: we work on something until we're happy with it (or we decide to table it), and dates do not matter.)
 
 ### DRIs 
 
