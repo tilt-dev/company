@@ -1,5 +1,7 @@
 # Product Development
 
+TODO(L): This documents needs to be reviewed for consistency.
+
 ## Workflow
 
 We want a good internal workflow so we can understand our customer pain points, collaborate to solve their problems, and measure the effectiveness of what we release.
@@ -111,41 +113,38 @@ When a section is done, replace :white_small_square: with :white_check_mark:
 - Links to future work to collect data
 ```
 
-## How an Epic Starts
+## Workstreams
 
-### A Team is Assigned to an Epic
+### Process
 
-When assigning a team of Tilters to an epic, we're operating on a few hypotheses:
+The product manager takes input from user research, conversations with partners, changes in the industry, and other contributors in the team to synthesize business needs for the product.
 
-- Projects are far more likely to succeed when the people working on it feel
-  connected to the project, and feels it lets them use their skills well.
+This business need is outlined in a general 'workstream status' document. A business need outlines a goal, but not necessarily how to get there, or what the definition-of-done is.
 
-- Conversely, Tilters should be empowered to try epics they feel strongly about,
-  even if other people on the team disagree. Consensus is a bad way to make
-  decisions, and we shouldn't require consensus on an idea to move forward.
-  
-- It's anxiety-producing and not helpful when people are constantly switching
-  back and forth between execution and prioritization. We don't want each Tilter
-  to have to do a prioritization exercise every week when they finish their epic.
+Once there's enough bandwidth a team is assembled to tackle the issue. This starts with a kickoff meeting.
 
-Each Tilter is responsible for reading the backlog of epics. They don't need to
-understand every epic. But they should understand enough to be able to
-affirmatively articulate what epics in the backlog they want to work on and why.
+The kickoff meeting involves the following process:
+- The product manager explains the business need
+- Contributors outline their thoughts in the following structure:
+	- "What do you think the team should be working on?"
+	- "What do you think you should be working on?"
+	- "What do you think could go wrong?"
+	- "What is this discussion missing?"
+- Once these are outlined they are first reviewed to triage things that might be out of scope of the business need, or concerns that might be off topic
+- Then every contributor goes over their points, and these are sorted into work units or concerns as appropriate
+- As part of the discussion, taking into account available bandwidth and what a minimum viable deliverable should be, the team should define:
+	- How do we know we're done with this effort? (What's in and out of scope?)
+	- What does a win look like? (How are we measuring success? How can we celebrate it? What does a failure look like?)
 
-Every two weeks, Nick will talk to you your impressions of the backlog, and try
-to get a sense of what you think is important and want to work on.
+After the kickoff meeting the project manager updates the 'workstream status' document to include the decisions made in the kickoff meeting, including any of: updated business goal, scope, out-of-scope, definition of done, metrics, concerns, and so on. The project manager then organizes the work units and assigns contributors to them, and work begins.
 
-Nick will assign you to a team working on an ongoing epic, or a new epic near
-the top of the backlog, trying to balance preferences and current priority order.
+Regularly, at a frequency defined by the group in question, 'retro-planning' meetings take place. During these, the work that has already taken place is reviewed in terms of happy, mixed, and sad feelings, any tensions are discussed, and any new ideas stemming from these are then integrated into the workstream status document.
 
-If there's an epic that's high in priority order but no one wants to work on,
-then Nick should dig more into why. Do we need to do more research upfront?  Is
-the epic defined incorrectly? Is it misaligned with what we're currently
-focusing on?
+Once the workstream reaches its conclusion a wrap up meeting takes place. It contains the retro element from the retro-planning meeting, plus a review of goals achieved, metrics, how this should inform future work, and so on.
 
-There may be rare cases where someone gets assigned to an epic that they
-don't want to work on, but in those cases we should explicitly call out
-that this is happening and why.
+Misc:
+- As a rule of thumb, a contributor should work on only -one- workstream at a time.
+- We are deliberately not concerned with deadlines, but with addressing business concerns. (In other words: we work on something until we're happy with it (or we decide to table it), and dates do not matter.)
 
 ### DRIs 
 
