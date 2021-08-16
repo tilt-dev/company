@@ -19,7 +19,7 @@ Each new donation should be recorded in this document so that we have a record g
 * September: TBD - MM
 * August: TBD - DB
 * July: TBD - LK
-* June: TBD - LT
+* June: [SAGE NYC](https://sagenyc.org/nyc/centers/midtown-cyber.cfm) - LT
 * May: TBD - NS
 * Apr: [Black in AI](https://blackinai.github.io/#/) - HY
 * Mar: [Technovation](https://www.technovation.org/) - SSG
