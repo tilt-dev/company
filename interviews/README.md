@@ -24,7 +24,8 @@ This isn't a blood oath! We do tweak the process a bit from role to role.
 
 ### Candidate Screening
 
-- Dan and Nick both talk to the candidate for a half-hour separately. 
+- Two Tilters should talk to the candidate for a half-hour separately. (Usually
+  this is Nick or Dan or the hiring manager.)
 
 - For the first chat, talk about the role, what we expect that role to
   be responsible for, and how that aligns with the candidate's background.
@@ -71,10 +72,10 @@ If both chats go well, ask them to come in for a full interview panel.
 - All interviewers should meet, share their feedback, and make an offer/no-offer
   decision.
 
-- Dan and Nick should slot the candidate and agree on an offer based on the
-  compensation spreadsheet.
+- The hiring manager should slot the candidate and agree on an offer based on
+  the compensation spreadsheet.
 
-- If yes, Dan (as CEO) should deliver the offer in a phone call to gauge
+- If yes, the hiring manager should deliver the offer in a phone call to gauge
   reaction. If no, the hiring coordinator should send the rejection email.
 
 ### Interview Action Items
