@@ -112,4 +112,5 @@ Here's what this looks like for specific roles:
 - [Design](design.md)
 - [Internships](internships.md)
 - [Dev Advocate](advocate.md)
+- [Operations](operations.md)
 
