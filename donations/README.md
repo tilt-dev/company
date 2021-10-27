@@ -30,7 +30,7 @@ Each new donation should be recorded in this document so that we have a record g
 * December: TBD - NSi
 * November: TBD - NSa
 * October: TBD - ML
-* September: TBD - LL
+* September: [Solidarity Fund by Coworker](https://coworkerfund.org/) - LL
 * August: TBD - DB
 * July: TBD - LK
 * June: [SAGE NYC](https://sagenyc.org/nyc/centers/midtown-cyber.cfm) - LT
