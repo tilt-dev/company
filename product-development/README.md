@@ -1,7 +1,5 @@
 # Product Development
 
-TODO(L): This documents needs to be reviewed for consistency.
-
 ## Workflow
 
 We want a good internal workflow so we can understand our customer pain points, collaborate to solve their problems, and measure the effectiveness of what we release.
@@ -25,54 +23,148 @@ By subscribing to an issue, a user will get a notification when it is closed
 (possibly informing them that a feature request is now implemented), bringing
 them back to Tilt for further product discussion.
 
-### Clubhouse for Task Management
+### Shortcut for Task Management
 
-We use Clubhouse stories and epics to track product changes.
+We use Shortcut epics to track product changes.
 
 All Tilters are encouraged to collaborate in _discussing_ general ideas. 
 
-Tilters should prefer discussing ideas in Clubhouse stories, linking ideas together, thus building a web of good ideas that are easily searchable for posterity.
+Tilters should prefer discussing ideas in Shortcut, linking ideas together, thus building a web of good ideas that are easily searchable for posterity.
 
-### Defining high-level business initiatives with Clubhouse epics
+### Defining high-level business initiatives
 
-All Tilters are encouraged to collaborate in _definining_ high-level problems. 
+All Tilters are encouraged to collaborate in _raising_ high-level problems. 
 
-There is no strict process for collaboration. As an epic becomes increasingly well-defined over time, it should have more and more of these components with increasing fidelity:
+There is no strict process. As a high-level problem becomes increasingly clear and known over time, it should have more and more of these components with increasing fidelity:
 
 - Problem statement
 - Solution scope
-- Attached stories with relevant ideas, including designs
-- Link to specific metrics and/or charts that this change targets to improve
+- Attached datapoints with relevant user needs
+- Link to specific metrics or user concerns that this change targets to improve
 
-## Before an Epic Starts
+## Workstreams
+
+### Business Need
+
+The product manager takes input from user research, conversations with partners, changes in the industry, and other contributors in the team to synthesize business needs for the product.
+
+This business need is outlined in a general 'workstream status' document—generally an 'Umbrella' epic that will later link to all tasks in the workstream.
+
+A business need outlines a problem, but not necessarily a solution, how to get there, or what the definition-of-done is.
+
+Once there's enough bandwidth a team is assembled to tackle the issue. This starts with with a kickoff meeting.
+
+Misc:
+- As a rule of thumb, a contributor should work on only _one_ workstream at a time.
+- We are deliberately not concerned with deadlines, but with addressing business needs. (In other words: We work on something until we're happy with it, or we decide to table it. Dates do not matter.)
+
+### DRI
+
+Each workstream is assigned a [DRI](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4). The DRI should be one of the direct contributors to the workstream.
+
+The DRI is responsible for:
+- Maintaining the umbrella epic's state, description, attached epics and docs updated as the single source of truth of overall work status
+- Tracking scope if additional work is discovered
+- Tactical implementation decisions
+- Assigning contributors to the workstream, in conjunction with the product manager
+
+### Kickoff Meeting
+
+The kickoff meeting involves the following process:
+- The product manager and DRI explain the business need, and go over any data that might help painting a clearer picture e.g. metrics, user research
+- Contributors brainstorm potential solutions to the problem, and weigh in on any suggested solutions the product manager and DRI might have outlined beforehand. During this process every contributor should touch, whether in a structured manner or not, on the following points:
+	- What do you think the team should be working on?
+	- What do you think you should be working on?
+	- What do you think could go wrong?
+	- What is this discussion missing?
+- Throughout the discussion topics should be filed as appropriate into the categories: action items, concerns, decisions, tensions
+- Then the first practical steps should be outlined:
+  - Enough epics should be created to provide adequate workload for every contributor
+  - A definition of done should be discussed. If further exploration is still required, the matter should be revisited at the next meeting. This discussion can include:
+  	- How do we know we're done with this effort? (What's in and out of scope?)
+	- What does a win look like? (How are we measuring success? How can we celebrate it? What does a failure look like?)
+    - What specific numerical metrics should we track?
+
+At this point the company should subsidize one (1) free confectionery i.e. donut or bagel per contributor as a celebratory token to kick off the new endeavour. 🍩 (TODO: pending Nick's approval)
+
+After the kickoff meeting the DRI updates the 'workstream status' document to include decisions made in the kickoff meeting, including any of: updated business goal, scope, out-of-scope, definition of done, metrics, concerns, and so on.
+
+Since work units should directly derive from discussions with contributors (i.e. above: "What do you think you should be working on?"), it should be self-evident what each contributor should be working on next.
+
+### Regular Check-Ins
+
+Regularly, at a frequency defined by the group, check-in meetings take place. Regular check-ins serve to:
+
+- Review the work done between then and the previous umbrella meeting, in terms of happy, mixed, and sad feelings
+- Update our current understanding of the problem and/or its solutions
+- Update the scope and definition of done with new things to do or not to do
+- Define next steps so everyone has an appropriate amount of assigned work until the next check in
+- All points discussed should be sorted into action items, concerns, decisions, tensions as appropriate
+- Optionally, the group may decide to re-do the four-points discussion ("What do you think the team should be working on?" and so on)
+
+After the check-in meeting the DRI updates the 'workstream status' document accordingly.
+
+### Wrap
+
+Once the workstream reaches its conclusion a wrap-up meeting takes place. It's a retro-style review, plus a review of goals achieved, metrics, how this should inform future work, and so on.
+
+The DRI should gather data for a short presentation highlighting metrics, user research, and other forms of impact, to the rest of the team.
+
+### Metrics, User Research, and DevRel
+
+Throughout a workstream, special care should be taken to ensure that every contributor is working towards the same metrics, goals, and user needs; these should be reviewed and reiterated regularly.
+
+During the steps described in the previous sections we should, as appropriate and at varying points of implementing a feature:
+- Inform users about the new enhancement, with e.g. blogs or videos
+- Measure progress towards the business goal in qualitative terms, via the [user research process](https://github.com/tilt-dev/user-research/)
+- Measure progress towards the business goal in quantitative terms, via numerical metrics (process TBD)
+
+The goals for metrics, user research, and DevRel work are multi-faceted. It's important to keep in mind that they simultaneously serve to:
+
+  - Measure impact vs. effort e.g. the team spent a lot of work on a feature, was the ROI worth it?
+  - Inform ourselves of which direction to go next that has the largest potential impact for the smallest cost
+  - Generate shareable markers of success that we can use to e.g. to tell a user to adopt feature X because it has been successful at this many other teams
+  - Gather data we'll need for the next stages of the company e.g. fundraising
+
+## Individual Epics
 
 ### Epic Priortity
 
-Each week, L, Nick, and Dan review the
-[roadmap](https://app.clubhouse.io/windmill/epics?state_ids=500008016&state_ids=500000003).
+Once an epic has enough detail that someone can work on it, it should be assigned a date. The date makes it appear on the [roadmap](https://app.Shortcut.io/windmill/epics?state_ids=500008016&state_ids=500000003) chart.
 
-Once an epic has enough detail that we think someone can work on it, we assign
-it a date. The date makes it appear on the roadmap chart.
+The dates on the roadmap are not intended to be exact. We use them to express rough dependencies and relative ordering between epics.
 
-The dates on the roadmap are not intended to be exact. We use them to express rough dependencies
-and relative ordering between epics.
+The CEO and product manager are responsible at a high-level for ensuring that the roadmap is continually populated and that epics are increasingly being better defined. There should be no shortage of epics.
 
-L is responsible for ensuring that the roadmap is continually full and that
-epics are increasingly being better defined. There should be no shortage of
-epics.
+If you have a question or comment about an unstarted epic's scope, design, timeline, priority, or any other aspect, you should direct it at the workstream's DRI and/or at the product manager.
 
-If you have a question or comment about an unstarted epic's scope, design,
-timeline, priority, or any other aspect, you should direct it at L.
+### Starting an Epic
 
-<img src="images/epics-priority.png" height="100" />
+The contributor moves the epic into the `In Progress` state.
+
+### How an Epic Ends
+
+A given epic may have a fairly broad problem. The engineer(s) should carve out and define a smaller problem, and spec out a solution that can be accomplished in between two umbrella check-ins at the most, with a target of **_7 business days_** (counted from when the epic moves into
+`In Progress`, more below on states).
+
+### Reducing Scope
+
+If the solution drags beyond the expected time, the contributor and the DRI should reduce scope, break the task down into smaller parts, and create additional epics to capture future work. The epic description with smaller scope and acceptance criteria should be updated accordingly.
+
+They may need to communicate radical changes in scope to other stakeholders; if unsure, reach out to the product manager.
+
+The purpose of a single epic is _not_ to completely solve a given problem. Rather, completing an epic should likely achieve incremental progress at addressing a problem, adding incremental user value as a result. In some cases, any
+realized user value may only appear in future epics.
+
+### Presenting the Result
+
+Once an epic is closed, the contributor and/or workstream DRI should present the result at the weekly company meeting.
 
 ### Epic description template
 
-When an epic starts, the epic owner should ensure this template is in the epic
-description.
+When an epic starts, the epic owner should ensure this template is in the epic description.
 
-The "Problem statement and references" section should be completed. (Other
-sections can remain not yet completed.)
+The "Problem statement and references" section should be completed. (Other sections can remain not yet completed.)
 
 Copy and paste the template below into the epic description. Update each section, with as much applicable content as possible. When a section is done, replace `:white_small_square:` with `:white_check_mark:` to indicate it is done.
 
@@ -87,7 +179,7 @@ When a section is done, replace :white_small_square: with :white_check_mark:
 ## :white_small_square: Problem statement and references
 - E.g. Tilt users find it difficult to understand the colors in the Tilt Web UI sidebar
 - Links to related [Tilt rollout cookbook recipes](https://docs.tilt.dev/rollout)
-- Links to Clubhouse/GitHub/Slack/docs
+- Links to Shortcut/GitHub/Slack/docs
 
 ## :white_small_square: Feature discovery and adoption
 - How will users discover and adopt this feature? 
@@ -103,7 +195,7 @@ When a section is done, replace :white_small_square: with :white_check_mark:
 - Links
 
 ## :white_small_square: Out of scope, related, and/or future work
-- Links to Clubhouse/GitHub/Slack/docs
+- Links to Shortcut/GitHub/Slack/docs
 
 ## :white_small_square: Customer validation and metrics
 - Links to Slack conversations
@@ -112,89 +204,3 @@ When a section is done, replace :white_small_square: with :white_check_mark:
 - Links to internal metrics dashboards
 - Links to future work to collect data
 ```
-
-## Workstreams
-
-### Process
-
-The product manager takes input from user research, conversations with partners, changes in the industry, and other contributors in the team to synthesize business needs for the product.
-
-This business need is outlined in a general 'workstream status' document. A business need outlines a goal, but not necessarily how to get there, or what the definition-of-done is.
-
-Once there's enough bandwidth a team is assembled to tackle the issue. This starts with a kickoff meeting.
-
-The kickoff meeting involves the following process:
-- The product manager explains the business need
-- Contributors outline their thoughts in the following structure:
-	- "What do you think the team should be working on?"
-	- "What do you think you should be working on?"
-	- "What do you think could go wrong?"
-	- "What is this discussion missing?"
-- Once these are outlined they are first reviewed to triage things that might be out of scope of the business need, or concerns that might be off topic
-- Then every contributor goes over their points, and these are sorted into work units or concerns as appropriate
-- As part of the discussion, taking into account available bandwidth and what a minimum viable deliverable should be, the team should define:
-	- How do we know we're done with this effort? (What's in and out of scope?)
-	- What does a win look like? (How are we measuring success? How can we celebrate it? What does a failure look like?)
-
-After the kickoff meeting the project manager updates the 'workstream status' document to include the decisions made in the kickoff meeting, including any of: updated business goal, scope, out-of-scope, definition of done, metrics, concerns, and so on. The project manager then organizes the work units and assigns contributors to them, and work begins.
-
-Regularly, at a frequency defined by the group in question, 'retro-planning' meetings take place. During these, the work that has already taken place is reviewed in terms of happy, mixed, and sad feelings, any tensions are discussed, and any new ideas stemming from these are then integrated into the workstream status document.
-
-Once the workstream reaches its conclusion a wrap up meeting takes place. It contains the retro element from the retro-planning meeting, plus a review of goals achieved, metrics, how this should inform future work, and so on.
-
-Misc:
-- As a rule of thumb, a contributor should work on only -one- workstream at a time.
-- We are deliberately not concerned with deadlines, but with addressing business concerns. (In other words: we work on something until we're happy with it (or we decide to table it), and dates do not matter.)
-
-### DRIs 
-
-Each epic's assigned team has a [DRI](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4), 
-set by Nick.
-
-The DRI is responsible for:
-- maintaining the epic state, description, and attached stories updated as the single source of truth of overall work status
-- reducing scope if additional work is discovered
-- driving the epic to completion
-
-### Specify Epic Team Members
-
-Each in progress epic has team members, specified by whoever is an owner
-of the Clubhouse epic. (A Clubhouse epic can have multiple owners). The DRI
-of the epic is specified in the epic description.
-
-Nick is responsible for maintaining team membership in each in progress epic.
-
-### Starting an Epic
-
-The DRI moves the epic into the `In Progress` state.
-
-### How an Epic Ends
-
-A given epic may have a fairly broad problem. The engineer(s) should carve out
-and define a smaller problem, and spec out a solution that can be accomplished
-within a target of **_7 business days_** (counted from when the epic moves into
-`In Progress`, more below on states).
-
-### Reducing Scope
-
-If the solution drags beyond the expected time, keep reducing scope.
-
-The DRI should update the epic description with smaller scope and acceptance
-criteria. They may need to communicate radical changes in scope to other
-stakeholders, but it's ultimately the DRI's call. If the DRI isn't sure what to
-cut, they should reach out to L for help.
-
-The DRI may create additional epics and/or stories to capture the future
-work. Alternatively, they may create a separate epic with the smaller scope and
-start work on that one instead (putting the original epic back into the
-backlog).
-
-The purpose of a single epic is _not_ to completely solve the problem. Rather,
-completing an epic should likely achieve incremental progress at addressing a
-single problem, adding incremental user value as a result. In some cases, any
-realized user value may only appear in future epics.
-
-### Presenting the Result
-
-Once an epic is closed, the DRI should present the result at the weekly company
-meeting.
