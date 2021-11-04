@@ -29,7 +29,7 @@ Each new donation should be recorded in this document so that we have a record g
 ### 2021
 * December: TBD - NSi
 * November: TBD - NSa
-* October: TBD - ML
+* October: [Technovation](https://technovation.org) - ML
 * September: [Solidarity Fund by Coworker](https://coworkerfund.org/) - LL
 * August: TBD - DB
 * July: TBD - LK
