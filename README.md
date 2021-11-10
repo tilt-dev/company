@@ -4,7 +4,7 @@ This is the Tilt company handbook. It documents _how_ we operate at Tilt. It is 
 - [Aula](https://www.notion.so/The-Aula-Brain-4da091a8797840108311d99815b3b36f)
 - [GitLab](https://about.gitlab.com/handbook/) - [GitLab repo](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/source/handbook)
 
-The actual work (e.g. product changes) that we plan and execute is tracked in [Clubhouse](https://app.clubhouse.io/windmill).
+The actual work (e.g. product changes) that we plan and execute is tracked in [Shortcut](https://app.shortcut.com/windmill/).
 
 # How do I use it?
 

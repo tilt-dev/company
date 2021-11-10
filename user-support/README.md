@@ -33,10 +33,10 @@ We have two systems for tracking this work:
 
 - GitHub issues for all public, user-reported issues
 
-- Clubhouse for internal tracking and prioritization
+- Shortcut for internal tracking and prioritization
 
 GitHub issues that we are actively working on should be tracked in
-Clubhouse. The reverse is not true - we have internal work
+Shortcut. The reverse is not true - we have internal work
 that is not expressed in GitHub issues.
 
 ### Support Triage
@@ -64,7 +64,7 @@ When a Tilter has a problem with Tilt, they should report it in the #triage-bugs
 channel.
 
 The exterminator should determine whether the problem belongs in GitHub Issues or
-Clubhouse, based on whether users have noticed and who it affects, and file it
+Shortcut, based on whether users have noticed and who it affects, and file it
 in the appropriate place.
 
 ### Request Priority
@@ -85,7 +85,7 @@ If you aren't sure, ask a teammate or in #triage-bugs.
 For high priority requests, the exterminator should assign someone to start work
 immediately.
 
-Low priority requests should be tracked in Clubhouse. Teams should make their own
+Low priority requests should be tracked in Shortcut. Teams should make their own
 judgements about how to prioritize them.
 
 If the exterminator sees a request that they know how to fix quickly, they
@@ -124,7 +124,7 @@ exterminator so we can adjust the process. We use two main metrics:
   number should not reflect Tilter-initiated GitHub issues.)
 
 - For all new GitHub issues that we want to track,
-  the exterminator should run the [**github -> clubhouse import script**](https://github.com/tilt-dev/exterminator).
+  the exterminator should run the [**github -> shortcut import script**](https://github.com/tilt-dev/exterminator).
   The script will add an exterminator label so that we can count
   the number of exterminator-created tickets each week.
 

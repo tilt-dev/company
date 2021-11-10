@@ -4,7 +4,7 @@ Every month Windmill donates $100 per Tilter toward an organization that is work
 
 Each month, one Tilter is designated as the Donation Deputy. They are responsible for proposing an organization to donate to (either via Slack or in Company Updates). Surbhi and Lizz are responsible for kicking off the donation process with the Donation Deputy. If the Donation Deputy isn't available for that month, Surbhi and Lizz will select an organization from the list of previous donations. The team then discusses the organization and confirms that we want to give to them.
 
-The Donation Deputy is also responsible for coordinating the logistics of the donation (i.e. making sure it actually happens), and tweeting about it using the [@tilt_dev](https://twitter.com/tilt_dev) account. (Password in 1Password.) The Donation Deputy role is rotated between all Tilters. When the Donation Deputy for the month is assigned, the donation can be [tracked in a Clubhouse ticket](https://app.clubhouse.io/windmill/stories/new?template_id=5e6a6244-cc45-4cd2-a3ba-8ac4139a692a) to make sure it gets done.
+The Donation Deputy is also responsible for coordinating the logistics of the donation (i.e. making sure it actually happens), and tweeting about it using the [@tilt_dev](https://twitter.com/tilt_dev) account. (Password in 1Password.) The Donation Deputy role is rotated between all Tilters. When the Donation Deputy for the month is assigned, the donation can be [tracked in a Shortcut ticket](https://app.shortcut.com/windmill/stories/new?template_id=5e6a6244-cc45-4cd2-a3ba-8ac4139a692a) to make sure it gets done.
 
 The donation should be made with the corporate card. (Ask Nick/Dan to make the donation if you don't have access to the corporate card.)
 
