@@ -45,7 +45,7 @@
 
 #### What This Means
 
-- When Tilters read something (e.g., a Clubhouse epic) or leave a meeting, they
+- When Tilters read something (e.g., a Shortcut epic) or leave a meeting, they
   should understand what the next steps are.
 
 - When we look back at previous decisions, we should be able to figure out
@@ -200,18 +200,18 @@ Every two months, we schedule an all-team social time. This usually means a game
 
 ## Written Communication
 
-### Clubhouse
+### Shortcut
 
-We use Clubhouse as the main system of record for:
+We use Shortcut as the main system of record for:
 - Writing up ideas for new product changes
 - Leaving feedback on existing ideas
 - Proposing different ideas
 - Documenting next steps to move a product feature forward
 - [Prioritizing future work](../product-development#workflow)
 
-To do any of the above, comment on an existing relevant story/epic in Clubhouse, or create a new one. @-mention specific individuals (such as the [epic owner](../product-development#unstarted-epics)) and ask them specific questions. See [Product Development](../product-development/README.md).
+To do any of the above, comment on an existing relevant story/epic in Shortcut, or create a new one. @-mention specific individuals (such as the [epic owner](../product-development#unstarted-epics)) and ask them specific questions. See [Product Development](../product-development/README.md).
 
-Ensure your [Clubhouse notifications](https://help.clubhouse.io/hc/en-us/sections/201543416-Notifications) are properly configured.
+Ensure your [Shortcut notifications](https://help.shortcut.com/hc/en-us/sections/201543416-Notifications) are properly configured.
 
 ### GitHub
 
@@ -224,9 +224,9 @@ If you want to discuss a process change, consider the smallest reasonable
 change and create a GitHub PR in this repo as a proposal. @-mention and assign
 specific individuals for review.
 
-### When Clubhouse and GitHub Fail:
+### When Shortcut and GitHub Fail:
 
-- If you are having difficulty understanding each other over Clubhouse and/or
+- If you are having difficulty understanding each other over Shortcut and/or
   GitHub, consider scheduling a meeting with a specific agenda to further
   discuss. But prefer starting with async communications first.
 

@@ -10,7 +10,7 @@ We should express our intentions through [documenting Tilt functionality](https:
 Non-user facing problems are not classified as bugs.
 
 ### All bugs
-All known open bugs should be listed in the [Bugs Clubhouse space](https://app.clubhouse.io/windmill/stories/space/4729/bugs). Some bugs are also listed in [GitHub issues](https://github.com/tilt-dev/tilt/labels/bug). But these should be a subset of the entire set of open bugs in the Clubhouse space.
+All known open bugs should be listed in the [Bugs Shortcut space](https://app.shortcut.com/windmill/stories/space/4729/bugs). Some bugs are also listed in [GitHub issues](https://github.com/tilt-dev/tilt/labels/bug). But these should be a subset of the entire set of open bugs in the Shortcut space.
 
 ### Fix a bug at any time
 We believe in shipping a quality experience for both Tilt and Tilt Cloud. So Tilters are encouraged to use their own judgment in picking up a bug to fix at anytime, if they think it's the best use of their time at that moment, ahead of other priorities. Nobody should ever need permission to fix a bug.
@@ -22,14 +22,14 @@ The [Exterminator](../user-support/README.md#exterminator) is responsible for tr
 Tilters should regularly assign bugs for themselves to fix. A good rule of thumb is to fix two bugs after you have finished working on an [epic](../product-development/README.md#picking-an-epic-to-work-on) (whether as the DRI or a collaborator), before moving on to the next epic.
 
 ### Pick a high priority bug
-When picking a bug to work on, Tilters are encouraged to pick a high priority bug that they can finish in a sensible time period for that bug. The [Bugs Clubhouse space](https://app.clubhouse.io/windmill/stories/space/4729/bugs) has higher priority bugs toward the top of columns. 
-If a bug cannot be fixed within a day or two, consider creating a more thorough plan (possibly [creating an epic to track it](../product-development/README.md#defining-high-level-business-initiatives-with-clubhouse-epics)) and consulting with other Tilters, before beginning the work.
+When picking a bug to work on, Tilters are encouraged to pick a high priority bug that they can finish in a sensible time period for that bug. The [Bugs Shortcut space](https://app.shortcut.com/windmill/stories/space/4729/bugs) has higher priority bugs toward the top of columns. 
+If a bug cannot be fixed within a day or two, consider creating a more thorough plan (possibly [creating an epic to track it](../product-development/README.md#defining-high-level-business-initiatives)) and consulting with other Tilters, before beginning the work.
 
 ### Close associated GitHub issue
-If the bug you have fixed is logged as a GitHub issue (in addition to being logged as a Clubhouse story, which it should already have been), be sure to close the GitHub issue, preferably with a link to the pull request fix, helping inform external users that the bug has now been fixed.
+If the bug you have fixed is logged as a GitHub issue (in addition to being logged as a Shortcut story, which it should already have been), be sure to close the GitHub issue, preferably with a link to the pull request fix, helping inform external users that the bug has now been fixed.
 
 ## Metrics
-Extracting data from Clubhouse (by [exporting all stories](https://help.clubhouse.io/hc/en-us/articles/360021168791-CSV-Export) from the single project we use), we track the number of bugs created, number of bugs closed, and the total number of open bugs, over time. Note that open bugs is impacted by bugs created, bugs closed, non-bugs being converted to bugs, and bugs being converted to non-bugs. So the week over week change of open bugs is not only impacted by bugs created and bugs closed.
+Extracting data from Shortcut (by [exporting all stories](https://help.shortcut.com/hc/en-us/articles/360044295392-Importing-and-Exporting-Shortcut-Data) from the single project we use), we track the number of bugs created, number of bugs closed, and the total number of open bugs, over time. Note that open bugs is impacted by bugs created, bugs closed, non-bugs being converted to bugs, and bugs being converted to non-bugs. So the week over week change of open bugs is not only impacted by bugs created and bugs closed.
 
 See charts and data in the [Google sheet](https://docs.google.com/spreadsheets/d/13L7Yg4x5lDCwevwVbzNJjMW_sLQxBZj73CuFlC_vkV8/).
 
