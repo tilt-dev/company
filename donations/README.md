@@ -32,7 +32,7 @@ Each new donation should be recorded in this document so that we have a record g
 * October: [Technovation](https://technovation.org) - ML
 * September: [Solidarity Fund by Coworker](https://coworkerfund.org/) - LL
 * August: TBD - DB
-* July: TBD - LK
+* July: [Outreachy](https://www.outreachy.org/) - LK
 * June: [SAGE NYC](https://sagenyc.org/nyc/centers/midtown-cyber.cfm) - LT
 * May: TBD - NSa
 * Apr: [Black in AI](https://blackinai.github.io/#/) - HY
