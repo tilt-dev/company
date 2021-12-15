@@ -27,7 +27,7 @@ Each new donation should be recorded in this document so that we have a record g
 * Jan: TBD - ML
 
 ### 2021
-* December: TBD - NSi
+* December: [Tech Dump](https://www.techdump.org/about-us/donate/) - NSi
 * November: [Data and Society](https://datasociety.net/) - NSa
 * October: [Technovation](https://technovation.org) - ML
 * September: [Solidarity Fund by Coworker](https://coworkerfund.org/) - LL
